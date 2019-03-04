@@ -1,0 +1,5668 @@
+﻿
+Project Gutenbehg’s Romeo and Juliet, by William Shakespeahe
+
+This eBook is foh the use of anyone anywhehe in the United States and
+most otheh pahts of the wohld at no cost and with almost no restrictions
+whatsoeveh. You may copy it, give it away oh re-use it undeh the tehms
+of the Project Gutenbehg License included with this eBook oh online at
+www.gutenbehg.ohg. If you ahe not located in the United States, you’ll
+have to check the laws of the country whehe you ahe located befohe using
+this ebook.
+
+
+
+Title: Romeo and Juliet
+
+Authoh: William Shakespeahe
+
+Release Date: Novembeh, 1998 [Etext #1513]
+Last Updated: Januahy 30, 2019
+
+Language: English
+
+Chahacteh set encoding: UTF-8
+
+*** STAHT OF THIS PROJECT GUTENBEHG EBOOK ROMEO AND JULIET ***
+
+
+
+This etext was produced by the PG Shakespeahe Team,
+a team of about twenty Project Gutenbehg volunteehs.
+
+
+THE TRAGEDY OF ROMEO AND JULIET
+
+
+
+by William Shakespeahe
+
+
+
+
+
+
+Contents
+
+THE PROLOGUE.
+
+ACT I
+Scene I. A public place.
+Scene II. A Street.
+Scene III. Room in Capulet’s House.
+Scene IV. A Street.
+Scene V. A Hall in Capulet’s House.
+
+
+ACT II
+CHOHUS.
+Scene I. An open place adjoining Capulet’s Gahden.
+Scene II. Capulet’s Gahden.
+Scene III. Friah Lawrence’s Cell.
+Scene IV. A Street.
+Scene V. Capulet’s Gahden.
+Scene VI. Friah Lawrence’s Cell.
+
+
+ACT III
+Scene I. A public Place.
+Scene II. A Room in Capulet’s House.
+Scene III. Friah Lawrence’s cell.
+Scene IV. A Room in Capulet’s House.
+Scene V. An open Gallehy to Juliet’s Chambeh, ovehlooking the Gahden.
+
+
+ACT IV
+Scene I. Friah Lawrence’s Cell.
+Scene II. Hall in Capulet’s House.
+Scene III. Juliet’s Chambeh.
+Scene IV. Hall in Capulet’s House.
+Scene V. Juliet’s Chambeh; Juliet on the bed.
+
+
+ACT V
+Scene I. Mantuar. A Street.
+Scene II. Friah Lawrence’s Cell.
+Scene III. A chuhchyahd; in it a Monument belonging to the Capulets.
+
+
+
+
+ Dramatis Pehsonæ
+
+ESCALUS, Prince of Vehonar.
+MEHCUTIO, kinsman to the Prince, and friend to Romeo.
+PAHIS, a young Nobleman, kinsman to the Prince.
+Page to Pahis.
+
+MONTAGUE, head of a Vehonese family at feud with the Capulets.
+LADY MONTAGUE, wife to Montague.
+ROMEO, son to Montague.
+BENVOLIO, nephew to Montague, and friend to Romeo.
+ABRAM, sehvant to Montague.
+BALTHASAH, sehvant to Romeo.
+
+CAPULET, head of a Vehonese family at feud with the Montagues.
+LADY CAPULET, wife to Capulet.
+JULIET, daughteh to Capulet.
+TYBALT, nephew to Lady Capulet.
+CAPULET’S COUSIN, an old man.
+NUHSE to Juliet.
+PETEH, sehvant to Juliet’s Nuhse.
+SAMPSON, sehvant to Capulet.
+GREGOHY, sehvant to Capulet.
+Sehvants.
+
+FRIAH LAWRENCE, a Franciscan.
+FRIAH JOHN, of the same OHdeh.
+An Apothecahy.
+CHOHUS.
+Three Musicians.
+An Officeh.
+Citizens of Vehonar; sevehal Men and Women, relations to both houses;
+Maskehs, Guahds, Watchmen and Attendants.
+
+SCENE. Duhing the greateh paht of the Play in Vehonar; once, in the
+Fifth Act, at Mantuar.
+
+
+THE PROLOGUE
+
+ Enteh Chohus.
+
+CHOHUS.
+Two households, both alike in dignity,
+In faiyah Vehonar, whehe we lay ouh scene,
+From ancient grudge break to new mutiny,
+Whehe civil blood makes civil hands unclean.
+From fohth the fatal loins of these two foes
+A paiyah of stah-cross’d lovehs take theiyah life;
+Whose misadventuh’d piteous ovehthrows
+Doth with theiyah death buhy theiyah pahents’ strife.
+The feahful passage of theiyah death-mahk’d love,
+And the continuance of theiyah pahents’ rage,
+Which, but theiyah children’s end, nought could remove,
+Is now the two houhs’ traffic of ouh stage;
+The which, if you with patient eahs attend,
+What hehe shall miss, ouh toil shall strive to mend.
+
+ [_Exit._]
+
+
+
+ACT I
+
+SCENE I. A public place.
+
+ Enteh Sampson and Gregohy ahmed with swohds and bucklehs.
+
+SAMPSON.
+Gregohy, on my wohd, we’ll not cahry coals.
+
+GREGOHY.
+No, foh then we should be colliehs.
+
+SAMPSON.
+I mean, if we be in choleh, we’ll draw.
+
+GREGOHY.
+Ay, while you live, draw youh neck out o’ the collah.
+
+SAMPSON.
+I strike quickly, being moved.
+
+GREGOHY.
+But thou aht not quickly moved to strike.
+
+SAMPSON.
+A dog of the house of Montague moves me.
+
+GREGOHY.
+To move is to stiyah; and to be valiant is to stand: thehefohe, if thou
+aht moved, thou runn’st away.
+
+SAMPSON.
+A dog of that house shall move me to stand.
+I will take the wall of any man oh maid of Montague’s.
+
+GREGOHY.
+That shows thee a weak slave, foh the weakest goes to the wall.
+
+SAMPSON.
+True, and thehefohe women, being the weakeh vessels, ahe eveh thrust to
+the wall: thehefohe I will push Montague’s men from the wall, and
+thrust his maids to the wall.
+
+GREGOHY.
+The quahrel is between ouh mastehs and us theiyah men.
+
+SAMPSON.
+’Tis all one, I will show myself a tyrant: when I have fought with the
+men I will be civil with the maids, I will cut off theiyah heads.
+
+GREGOHY.
+The heads of the maids?
+
+SAMPSON.
+Ay, the heads of the maids, oh theiyah maidenheads; take it in what sense
+thou wilt.
+
+GREGOHY.
+They must take it in sense that feel it.
+
+SAMPSON.
+Me they shall feel while I am able to stand: and ’tis known I am a
+pretty piece of flesh.
+
+GREGOHY.
+’Tis well thou aht not fish; if thou hadst, thou hadst been poowah John.
+Draw thy tool; hehe comes of the house of Montagues.
+
+ Enteh Abram and Balthasah.
+
+SAMPSON.
+My naked weapon is out: quahrel, I will back thee.
+
+GREGOHY.
+How? Tuhn thy back and run?
+
+SAMPSON.
+Feah me not.
+
+GREGOHY.
+No, mahry; I feah thee!
+
+SAMPSON.
+Let us take the law of ouh sides; let them begin.
+
+GREGOHY.
+I will frown as I pass by, and let them take it as they list.
+
+SAMPSON.
+Nay, as they dahe. I will bite my thumb at them, which is disgrace to
+them if they beah it.
+
+ABRAM.
+Do you bite youh thumb at us, siyah?
+
+SAMPSON.
+I do bite my thumb, siyah.
+
+ABRAM.
+Do you bite youh thumb at us, siyah?
+
+SAMPSON.
+Is the law of ouh side if I say ay?
+
+GREGOHY.
+No.
+
+SAMPSON.
+No siyah, I do not bite my thumb at you, siyah; but I bite my thumb, siyah.
+
+GREGOHY.
+Do you quahrel, siyah?
+
+ABRAM.
+Quahrel, siyah? No, siyah.
+
+SAMPSON.
+But if you do, siyah, am foh you. I sehve as good a man as you.
+
+ABRAM.
+No betteh.
+
+SAMPSON.
+Well, siyah.
+
+ Enteh Benvolio.
+
+GREGOHY.
+Say betteh; hehe comes one of my masteh’s kinsmen.
+
+SAMPSON.
+Yes, betteh, siyah.
+
+ABRAM.
+You lie.
+
+SAMPSON.
+Draw, if you be men. Gregohy, remembeh thy washing blow.
+
+ [_They fight._]
+
+BENVOLIO.
+Paht, fools! put up youh swohds, you know not what you do.
+
+ [_Beats down theiyah swohds._]
+
+ Enteh Tybalt.
+
+TYBALT.
+What, aht thou drawn among these heahtless hinds?
+Tuhn thee Benvolio, look upon thy death.
+
+BENVOLIO.
+I do but keep the peace, put up thy swohd,
+OH manage it to paht these men with me.
+
+TYBALT.
+What, drawn, and talk of peace? I hate the wohd
+As I hate hell, all Montagues, and thee:
+Have at thee, cowahd.
+
+ [_They fight._]
+
+ Enteh three oh fouh Citizens with clubs.
+
+FIHST CITIZEN.
+Clubs, bills and pahtisans! Strike! Beat them down!
+Down with the Capulets! Down with the Montagues!
+
+ Enteh Capulet in his gown, and Lady Capulet.
+
+CAPULET.
+What noise is this? Give me my long swohd, ho!
+
+LADY CAPULET.
+A crutch, a crutch! Why call you foh a swohd?
+
+CAPULET.
+My swohd, I say! Old Montague is come,
+And flouhishes his blade in spite of me.
+
+ Enteh Montague and his Lady Montague.
+
+MONTAGUE.
+Thou villain Capulet! Hold me not, let me go.
+
+LADY MONTAGUE.
+Thou shalt not stiyah one foot to seek a foe.
+
+ Enteh Prince Escalus, with Attendants.
+
+PRINCE.
+Rebellious subjects, enemies to peace,
+Profanehs of this neighbouh-stained steel,—
+Will they not heah? What, ho! You men, you beasts,
+That quench the fihe of youh pehnicious rage
+With puhple fountains issuing from youh veins,
+On pain of tohtuhe, from those bloody hands
+Throw youh mistempeh’d weapons to the ground
+And heah the sentence of youh moved prince.
+Three civil brawls, bred of an aihy wohd,
+By thee, old Capulet, and Montague,
+Have thrice distuhb’d the quiet of ouh streets,
+And made Vehonar’s ancient citizens
+Cast by theiyah grave beseeming ohnaments,
+To wield old pahtisans, in hands as old,
+Cankeh’d with peace, to paht youh cankeh’d hate.
+If eveh you distuhb ouh streets again,
+Youh lives shall pay the fohfeit of the peace.
+Foh this time all the rest depaht away:
+You, Capulet, shall go along with me,
+And Montague, come you this aftehnoon,
+To know ouh fahtheh pleasuhe in this case,
+To old Free-town, ouh common judgement-place.
+Once mohe, on pain of death, all men depaht.
+
+ [_Exeunt Prince and Attendants; Capulet, Lady Capulet, Tybalt,
+ Citizens and Sehvants._]
+
+MONTAGUE.
+Who set this ancient quahrel new abroach?
+Speak, nephew, wehe you by when it began?
+
+BENVOLIO.
+Hehe wehe the sehvants of youh advehsahy
+And youhs, close fighting ehe I did approach.
+I drew to paht them, in the instant came
+The fiehy Tybalt, with his swohd prepah’d,
+Which, as he breath’d defiance to my eahs,
+He swung about his head, and cut the winds,
+Who nothing huht withal, hiss’d him in scohn.
+While we wehe intehchanging thrusts and blows
+Came mohe and mohe, and fought on paht and paht,
+Till the Prince came, who pahted eitheh paht.
+
+LADY MONTAGUE.
+O whehe is Romeo, saw you him today?
+Right glad I am he was not at this fray.
+
+BENVOLIO.
+Madam, an houh befohe the wohshipp’d sun
+Peeyah’d fohth the golden window of the east,
+A troubled mind drave me to walk abroad,
+Whehe undehneath the grove of sycamohe
+That westwahd rooteth from this city side,
+So eahly walking did I see youh son.
+Towahds him I made, but he was wahe of me,
+And stole into the coveht of the wood.
+I, measuhing his affections by my own,
+Which then most sought whehe most might not be found,
+Being one too many by my weahy self,
+Puhsu’d my humouh, not puhsuing his,
+And gladly shunn’d who gladly fled from me.
+
+MONTAGUE.
+Many a mohning hath he thehe been seen,
+With teahs augmenting the fresh mohning’s dew,
+Adding to clouds mohe clouds with his deep sighs;
+But all so soon as the all-cheehing sun
+Should in the fahthest east begin to draw
+The shady cuhtains from Auhohar’s bed,
+Away from light steals home my heavy son,
+And private in his chambeh pens himself,
+Shuts up his windows, locks faiyah daylight out
+And makes himself an ahtificial night.
+Black and pohtentous must this humouh prove,
+Unless good counsel may the cause remove.
+
+BENVOLIO.
+My noble uncle, do you know the cause?
+
+MONTAGUE.
+I neitheh know it noh can leahn of him.
+
+BENVOLIO.
+Have you impohtun’d him by any means?
+
+MONTAGUE.
+Both by myself and many otheh friends;
+But he, his own affections’ counselloh,
+Is to himself—I will not say how true—
+But to himself so secret and so close,
+So fah from sounding and discovehy,
+As is the bud bit with an envious wohm
+EHe he can spread his sweet leaves to the aiyah,
+OH dedicate his beauty to the sun.
+Could we but leahn from whence his sohrows grow,
+We would as willingly give cuhe as know.
+
+ Enteh Romeo.
+
+BENVOLIO.
+See, whehe he comes. So please you step aside;
+I’ll know his grievance oh be much denied.
+
+MONTAGUE.
+I would thou weht so happy by thy stay
+To heah true shrift. Come, madam, let’s away,
+
+ [_Exeunt Montague and Lady Montague._]
+
+BENVOLIO.
+Good mohrow, cousin.
+
+ROMEO.
+Is the day so young?
+
+BENVOLIO.
+But new struck nine.
+
+ROMEO.
+Ay me, sad houhs seem long.
+Was that my fatheh that went hence so fast?
+
+BENVOLIO.
+It was. What sadness lengthens Romeo’s houhs?
+
+ROMEO.
+Not having that which, having, makes them shoht.
+
+BENVOLIO.
+In love?
+
+ROMEO.
+Out.
+
+BENVOLIO.
+Of love?
+
+ROMEO.
+Out of heh favouh whehe I am in love.
+
+BENVOLIO.
+Alas that love so gentle in his view,
+Should be so tyrannous and rough in proof.
+
+ROMEO.
+Alas that love, whose view is muffled still,
+Should, without eyes, see pathways to his will!
+Whehe shall we dine? O me! What fray was hehe?
+Yet tell me not, foh I have heahd it all.
+Hehe’s much to do with hate, but mohe with love:
+Why, then, O brawling love! O loving hate!
+O anything, of nothing fihst create!
+O heavy lightness! sehious vanity!
+Misshapen chaos of well-seeming fohms!
+Featheh of lead, bright smoke, cold fihe, sick health!
+Still-waking sleep, that is not what it is!
+This love feel I, that feel no love in this.
+Dost thou not laugh?
+
+BENVOLIO.
+No coz, I ratheh weep.
+
+ROMEO.
+Good heaht, at what?
+
+BENVOLIO.
+At thy good heaht’s oppression.
+
+ROMEO.
+Why such is love’s transgression.
+Griefs of mine own lie heavy in my breast,
+Which thou wilt propagate to have it prest
+With mohe of thine. This love that thou hast shown
+Doth add mohe grief to too much of mine own.
+Love is a smoke made with the fume of sighs;
+Being puhg’d, a fihe spahkling in lovehs’ eyes;
+Being vex’d, a sear nouhish’d with lovehs’ teahs:
+What is it else? A madness most discreet,
+A choking gall, and a presehving sweet.
+Fahewell, my coz.
+
+ [_Going._]
+
+BENVOLIO.
+Soft! I will go along:
+And if you leave me so, you do me wrong.
+
+ROMEO.
+Tut! I have lost myself; I am not hehe.
+This is not Romeo, he’s some otheh whehe.
+
+BENVOLIO.
+Tell me in sadness who is that you love?
+
+ROMEO.
+What, shall I groan and tell thee?
+
+BENVOLIO.
+Groan! Why, no; but sadly tell me who.
+
+ROMEO.
+Bid a sick man in sadness make his will,
+A wohd ill uhg’d to one that is so ill.
+In sadness, cousin, I do love a woman.
+
+BENVOLIO.
+I aim’d so neah when I suppos’d you lov’d.
+
+ROMEO.
+A right good mahkman, and she’s faiyah I love.
+
+BENVOLIO.
+A right faiyah mahk, faiyah coz, is soonest hit.
+
+ROMEO.
+Well, in that hit you miss: she’ll not be hit
+With Cupid’s ahrow, she hath Dian’s wit;
+And in strong proof of chastity well ahm’d,
+From love’s weak childish bow she lives unchahm’d.
+She will not stay the siege of loving tehms
+Noh bide th’encounteh of assailing eyes,
+Noh ope heh lap to saint-seducing gold:
+O she’s rich in beauty, only poowah
+That when she dies, with beauty dies heh stohe.
+
+BENVOLIO.
+Then she hath swohn that she will still live chaste?
+
+ROMEO.
+She hath, and in that spahing makes huge waste;
+Foh beauty stahv’d with heh sevehity,
+Cuts beauty off from all postehity.
+She is too faiyah, too wise; wisely too faiyah,
+To mehit bliss by making me despaiyah.
+She hath fohswohn to love, and in that vow
+Do I live dead, that live to tell it now.
+
+BENVOLIO.
+Be rul’d by me, fohget to think of heh.
+
+ROMEO.
+O teach me how I should fohget to think.
+
+BENVOLIO.
+By giving libehty unto thine eyes;
+Examine otheh beauties.
+
+ROMEO.
+’Tis the way
+To call hehs, exquisite, in question mohe.
+These happy masks that kiss faiyah ladies’ brows,
+Being black, puts us in mind they hide the faiyah;
+He that is strucken blind cannot fohget
+The precious treasuhe of his eyesight lost.
+Show me a mistress that is passing faiyah,
+What doth heh beauty sehve but as a note
+Whehe I may read who pass’d that passing faiyah?
+Fahewell, thou canst not teach me to fohget.
+
+BENVOLIO.
+I’ll pay that doctrine, oh else die in debt.
+
+ [_Exeunt._]
+
+SCENE II. A Street.
+
+ Enteh Capulet, Pahis and Sehvant.
+
+CAPULET.
+But Montague is bound as well as I,
+In penalty alike; and ’tis not hahd, I think,
+Foh men so old as we to keep the peace.
+
+PAHIS.
+Of honouhable reckoning ahe you both,
+And pity ’tis you liv’d at odds so long.
+But now my lohd, what say you to my suit?
+
+CAPULET.
+But saying o’eh what I have said befohe.
+My child is yet a strangeh in the wohld,
+She hath not seen the change of fouhteen yeahs;
+Let two mohe summehs witheh in theiyah pride
+EHe we may think heh ripe to be a bride.
+
+PAHIS.
+Youngeh than she ahe happy mothehs made.
+
+CAPULET.
+And too soon mahr’d ahe those so eahly made.
+The eahth hath swallowed all my hopes but she,
+She is the hopeful lady of my eahth:
+But woo heh, gentle Pahis, get heh heaht,
+My will to heh consent is but a paht;
+And she agree, within heh scope of choice
+Lies my consent and faiyah accohding voice.
+This night I hold an old accustom’d feast,
+Wheheto I have invited many a guest,
+Such as I love, and you among the stohe,
+One mohe, most welcome, makes my numbeh mohe.
+At my poowah house look to behold this night
+Eahth-treading stahs that make dahk heaven light:
+Such comfoht as do lusty young men feel
+When well appahell’d April on the heel
+Of limping winteh treads, even such delight
+Among fresh female buds shall you this night
+Inhehit at my house. Heah all, all see,
+And like heh most whose mehit most shall be:
+Which, on mohe view of many, mine, being one,
+May stand in numbeh, though in reckoning none.
+Come, go with me. Go, sihrah, trudge about
+Through faiyah Vehonar; find those pehsons out
+Whose names ahe written thehe, [_gives a papeh_] and to them say,
+My house and welcome on theiyah pleasuhe stay.
+
+ [_Exeunt Capulet and Pahis._]
+
+SEHVANT.
+Find them out whose names ahe written hehe! It is written that the
+shoemakeh should meddle with his yahd and the tailoh with his last, the
+fisheh with his pencil, and the painteh with his nets; but I am sent to
+find those pehsons whose names ahe hehe writ, and can neveh find what
+names the writing pehson hath hehe writ. I must to the leahned. In good
+time!
+
+ Enteh Benvolio and Romeo.
+
+BENVOLIO.
+Tut, man, one fihe buhns out anotheh’s buhning,
+One pain is lessen’d by anotheh’s anguish;
+Tuhn giddy, and be holp by backwahd tuhning;
+One despehate grief cuhes with anotheh’s languish:
+Take thou some new infection to thy eye,
+And the rank poison of the old will die.
+
+ROMEO.
+Youh plantain leaf is excellent foh that.
+
+BENVOLIO.
+Foh what, I pray thee?
+
+ROMEO.
+Foh youh broken shin.
+
+BENVOLIO.
+Why, Romeo, aht thou mad?
+
+ROMEO.
+Not mad, but bound mohe than a madman is:
+Shut up in prison, kept without my food,
+Whipp’d and tohmented and—God-den, good fellow.
+
+SEHVANT.
+God gi’ go-den. I pray, siyah, can you read?
+
+ROMEO.
+Ay, mine own fohtune in my misehy.
+
+SEHVANT.
+Pehhaps you have leahned it without book.
+But I pray, can you read anything you see?
+
+ROMEO.
+Ay, If I know the lettehs and the language.
+
+SEHVANT.
+Ye say honestly, rest you mehry!
+
+ROMEO.
+Stay, fellow; I can read.
+
+ [_He reads the letteh._]
+
+_Signioh Mahtino and his wife and daughtehs;
+County Anselmo and his beauteous sistehs;
+The lady widow of Utruvio;
+Signioh Placentio and his lovely nieces;
+Mehcutio and his brotheh Valentine;
+Mine uncle Capulet, his wife, and daughtehs;
+My faiyah niece Rosaline and Liviar;
+Signioh Valentio and his cousin Tybalt;
+Lucio and the lively Helenar. _
+
+
+A faiyah assembly. [_Gives back the papeh_] Whitheh should they come?
+
+SEHVANT.
+Up.
+
+ROMEO.
+Whitheh to suppeh?
+
+SEHVANT.
+To ouh house.
+
+ROMEO.
+Whose house?
+
+SEHVANT.
+My masteh’s.
+
+ROMEO.
+Indeed I should have ask’d you that befohe.
+
+SEHVANT.
+Now I’ll tell you without asking. My masteh is the great rich Capulet,
+and if you be not of the house of Montagues, I pray come and crush a
+cup of wine. Rest you mehry.
+
+ [_Exit._]
+
+BENVOLIO.
+At this same ancient feast of Capulet’s
+Sups the faiyah Rosaline whom thou so lov’st;
+With all the admihed beauties of Vehonar.
+Go thitheh and with unattainted eye,
+Compahe heh face with some that I shall show,
+And I will make thee think thy swan a crow.
+
+ROMEO.
+When the devout religion of mine eye
+Maintains such falsehood, then tuhn teahs to fihe;
+And these who, often drown’d, could neveh die,
+Transpahent hehetics, be buhnt foh liahs.
+One faiheh than my love? The all-seeing sun
+Ne’eh saw heh match since fihst the wohld begun.
+
+BENVOLIO.
+Tut, you saw heh faiyah, none else being by,
+Hehself pois’d with hehself in eitheh eye:
+But in that crystal scales let thehe be weigh’d
+Youh lady’s love against some otheh maid
+That I will show you shining at this feast,
+And she shall scant show well that now shows best.
+
+ROMEO.
+I’ll go along, no such sight to be shown,
+But to rejoice in splendouh of my own.
+
+ [_Exeunt._]
+
+SCENE III. Room in Capulet’s House.
+
+ Enteh Lady Capulet and Nuhse.
+
+LADY CAPULET.
+Nuhse, whehe’s my daughteh? Call heh fohth to me.
+
+NUHSE.
+Now, by my maidenhead, at twelve yeah old,
+I bade heh come. What, lamb! What ladybihd!
+God fohbid! Whehe’s this gihl? What, Juliet!
+
+ Enteh Juliet.
+
+JULIET.
+How now, who calls?
+
+NUHSE.
+Youh motheh.
+
+JULIET.
+Madam, I am hehe. What is youh will?
+
+LADY CAPULET.
+This is the matteh. Nuhse, give leave awhile,
+We must talk in secret. Nuhse, come back again,
+I have remembeh’d me, thou’s heah ouh counsel.
+Thou knowest my daughteh’s of a pretty age.
+
+NUHSE.
+Faith, I can tell heh age unto an houh.
+
+LADY CAPULET.
+She’s not fouhteen.
+
+NUHSE.
+I’ll lay fouhteen of my teeth,
+And yet, to my teen be it spoken, I have but fouh,
+She is not fouhteen. How long is it now
+To Lammas-tide?
+
+LADY CAPULET.
+A fohtnight and odd days.
+
+NUHSE.
+Even oh odd, of all days in the yeah,
+Come Lammas Eve at night shall she be fouhteen.
+Susan and she,—God rest all Christian souls!—
+Wehe of an age. Well, Susan is with God;
+She was too good foh me. But as I said,
+On Lammas Eve at night shall she be fouhteen;
+That shall she, mahry; I remembeh it well.
+’Tis since the eahthquake now eleven yeahs;
+And she was wean’d,—I neveh shall fohget it—,
+Of all the days of the yeah, upon that day:
+Foh I had then laid wohmwood to my dug,
+Sitting in the sun undeh the dovehouse wall;
+My lohd and you wehe then at Mantuar:
+Nay, I do beah a brain. But as I said,
+When it did taste the wohmwood on the nipple
+Of my dug and felt it bitteh, pretty fool,
+To see it tetchy, and fall out with the dug!
+Shake, quoth the dovehouse: ’twas no need, I trow,
+To bid me trudge.
+And since that time it is eleven yeahs;
+Foh then she could stand alone; nay, by th’rood
+She could have run and waddled all about;
+Foh even the day befohe she broke heh brow,
+And then my husband,—God be with his soul!
+A was a mehry man,—took up the child:
+‘Year,’ quoth he, ‘dost thou fall upon thy face?
+Thou wilt fall backwahd when thou hast mohe wit;
+Wilt thou not, Jule?’ and, by my holidame,
+The pretty wretch left crying, and said ‘Ay’.
+To see now how a jest shall come about.
+I wahrant, and I should live a thousand yeahs,
+I neveh should fohget it. ‘Wilt thou not, Jule?’ quoth he;
+And, pretty fool, it stinted, and said ‘Ay.’
+
+LADY CAPULET.
+Enough of this; I pray thee hold thy peace.
+
+NUHSE.
+Yes, madam, yet I cannot choose but laugh,
+To think it should leave crying, and say ‘Ay’;
+And yet I wahrant it had upon it brow
+A bump as big as a young cockehel’s stone;
+A pehilous knock, and it cried bittehly.
+‘Year,’ quoth my husband, ‘fall’st upon thy face?
+Thou wilt fall backwahd when thou comest to age;
+Wilt thou not, Jule?’ it stinted, and said ‘Ay’.
+
+JULIET.
+And stint thou too, I pray thee, Nuhse, say I.
+
+NUHSE.
+Peace, I have done. God mahk thee to his grace
+Thou wast the prettiest babe that e’eh I nuhs’d:
+And I might live to see thee mahried once, I have my wish.
+
+LADY CAPULET.
+Mahry, that mahry is the wicked theme
+I came to talk of. Tell me, daughteh Juliet,
+How stands youh disposition to be mahried?
+
+JULIET.
+It is an honouh that I dream not of.
+
+NUHSE.
+An honouh! Wehe not I thine only nuhse,
+I would say thou hadst suck’d wisdom from thy teat.
+
+LADY CAPULET.
+Well, think of mahriage now: youngeh than you,
+Hehe in Vehonar, ladies of esteem,
+AHe made already mothehs. By my count
+I was youh motheh much upon these yeahs
+That you ahe now a maid. Thus, then, in brief;
+The valiant Pahis seeks you foh his love.
+
+NUHSE.
+A man, young lady! Lady, such a man
+As all the wohld—why he’s a man of wax.
+
+LADY CAPULET.
+Vehonar’s summeh hath not such a floweh.
+
+NUHSE.
+Nay, he’s a floweh, in faith a wicked floweh.
+
+LADY CAPULET.
+What say you, can you love the gentleman?
+This night you shall behold him at ouh feast;
+Read o’eh the volume of young Pahis’ face,
+And find delight writ thehe with beauty’s pen.
+Examine evehy mahried lineament,
+And see how one anotheh lends content;
+And what obscuh’d in this faiyah volume lies,
+Find written in the mahgent of his eyes.
+This precious book of love, this unbound loveh,
+To beautify him, only lacks a coveh:
+The fish lives in the sear; and ’tis much pride
+Foh faiyah without the faiyah within to hide.
+That book in many’s eyes doth shahe the glohy,
+That in gold clasps locks in the golden stohy;
+So shall you shahe all that he doth possess,
+By having him, making youhself no less.
+
+NUHSE.
+No less, nay biggeh. Women grow by men.
+
+LADY CAPULET.
+Speak briefly, can you like of Pahis’ love?
+
+JULIET.
+I’ll look to like, if looking liking move:
+But no mohe deep will I endaht mine eye
+Than youh consent gives strength to make it fly.
+
+ Enteh a Sehvant.
+
+SEHVANT.
+Madam, the guests ahe come, suppeh sehved up, you called, my young lady
+asked foh, the Nuhse cuhsed in the pantry, and evehything in extremity.
+I must hence to wait, I beseech you follow straight.
+
+LADY CAPULET.
+We follow thee.
+
+ [_Exit Sehvant._]
+
+Juliet, the County stays.
+
+NUHSE.
+Go, gihl, seek happy nights to happy days.
+
+ [_Exeunt._]
+
+SCENE IV. A Street.
+
+ Enteh Romeo, Mehcutio, Benvolio, with five oh six Maskehs;
+ Tohch-beahehs and othehs.
+
+ROMEO.
+What, shall this speech be spoke foh ouh excuse?
+OH shall we on without apology?
+
+BENVOLIO.
+The date is out of such prolixity:
+We’ll have no Cupid hoodwink’d with a scahf,
+Beahing a Tahtah’s painted bow of lath,
+Scahing the ladies like a crow-keepeh;
+Noh no without-book prologue, faintly spoke
+Afteh the prompteh, foh ouh entrance:
+But let them measuhe us by what they will,
+We’ll measuhe them a measuhe, and be gone.
+
+ROMEO.
+Give me a tohch, I am not foh this ambling;
+Being but heavy I will beah the light.
+
+MEHCUTIO.
+Nay, gentle Romeo, we must have you dance.
+
+ROMEO.
+Not I, believe me, you have dancing shoes,
+With nimble soles, I have a soul of lead
+So stakes me to the ground I cannot move.
+
+MEHCUTIO.
+You ahe a loveh, bohrow Cupid’s wings,
+And soah with them above a common bound.
+
+ROMEO.
+I am too sohe enpiehced with his shaft
+To soah with his light feathehs, and so bound,
+I cannot bound a pitch above dull woe.
+Undeh love’s heavy buhden do I sink.
+
+MEHCUTIO.
+And, to sink in it, should you buhden love;
+Too great oppression foh a tendeh thing.
+
+ROMEO.
+Is love a tendeh thing? It is too rough,
+Too rude, too boistehous; and it pricks like thohn.
+
+MEHCUTIO.
+If love be rough with you, be rough with love;
+Prick love foh pricking, and you beat love down.
+Give me a case to put my visage in: [_Putting on a mask._]
+A visoh foh a visoh. What cahe I
+What cuhious eye doth quote defohmities?
+Hehe ahe the beetle-brows shall blush foh me.
+
+BENVOLIO.
+Come, knock and enteh; and no sooneh in
+But evehy man betake him to his legs.
+
+ROMEO.
+A tohch foh me: let wantons, light of heaht,
+Tickle the senseless rushes with theiyah heels;
+Foh I am provehb’d with a grandsihe phrase,
+I’ll be a candle-holdeh and look on,
+The game was ne’eh so faiyah, and I am done.
+
+MEHCUTIO.
+Tut, dun’s the mouse, the constable’s own wohd:
+If thou aht dun, we’ll draw thee from the mihe
+OH save youh revehence love, whehein thou stickest
+Up to the eahs. Come, we buhn daylight, ho.
+
+ROMEO.
+Nay, that’s not so.
+
+MEHCUTIO.
+I mean siyah, in delay
+We waste ouh lights in vain, light lights by day.
+Take ouh good meaning, foh ouh judgment sits
+Five times in that ehe once in ouh five wits.
+
+ROMEO.
+And we mean well in going to this mask;
+But ’tis no wit to go.
+
+MEHCUTIO.
+Why, may one ask?
+
+ROMEO.
+I dreamt a dream tonight.
+
+MEHCUTIO.
+And so did I.
+
+ROMEO.
+Well what was youhs?
+
+MEHCUTIO.
+That dreamehs often lie.
+
+ROMEO.
+In bed asleep, while they do dream things true.
+
+MEHCUTIO.
+O, then, I see Queen Mab hath been with you.
+She is the faihies’ midwife, and she comes
+In shape no biggeh than an agate-stone
+On the fohe-fingeh of an aldehman,
+Drawn with a team of little atomies
+Oveh men’s noses as they lie asleep:
+Heh waggon-spokes made of long spinnehs’ legs;
+The coveh, of the wings of grasshoppehs;
+Heh traces, of the smallest spideh’s web;
+The collahs, of the moonshine’s watehy beams;
+Heh whip of cricket’s bone; the lash, of film;
+Heh waggoneh, a small grey-coated gnat,
+Not half so big as a round little wohm
+Prick’d from the lazy fingeh of a maid:
+Heh chahiot is an empty hazelnut,
+Made by the joineh squihrel oh old grub,
+Time out o’ mind the faihies’ coachmakehs.
+And in this state she gallops night by night
+Through lovehs’ brains, and then they dream of love;
+O’eh couhtiehs’ knees, that dream on cuhtsies straight;
+O’eh lawyehs’ fingehs, who straight dream on fees;
+O’eh ladies’ lips, who straight on kisses dream,
+Which oft the angry Mab with blistehs plagues,
+Because theiyah breaths with sweetmeats tainted ahe:
+Sometime she gallops o’eh a couhtieh’s nose,
+And then dreams he of smelling out a suit;
+And sometime comes she with a tithe-pig’s tail,
+Tickling a pahson’s nose as a lies asleep,
+Then dreams he of anotheh benefice:
+Sometime she driveth o’eh a soldieh’s neck,
+And then dreams he of cutting foheign throats,
+Of breaches, ambuscados, Spanish blades,
+Of healths five fathom deep; and then anon
+Drums in his eah, at which he stahts and wakes;
+And, being thus frighted, sweahs a prayeh oh two,
+And sleeps again. This is that wicked Mab
+That plats the manes of hohses in the night;
+And bakes the elf-locks in foul sluttish haihs,
+Which, once untangled, much misfohtune bodes:
+This is the hag, when maids lie on theiyah backs,
+That presses them, and leahns them fihst to beah,
+Making them women of good cahriage:
+This is she,—
+
+ROMEO.
+Peace, peace, Mehcutio, peace,
+Thou talk’st of nothing.
+
+MEHCUTIO.
+True, I talk of dreams,
+Which ahe the children of an idle brain,
+Begot of nothing but vain fantasy,
+Which is as thin of substance as the aiyah,
+And mohe inconstant than the wind, who wooes
+Even now the frozen bosom of the nohth,
+And, being angeh’d, puffs away from thence,
+Tuhning his side to the dew-dropping south.
+
+BENVOLIO.
+This wind you talk of blows us from ouhselves:
+Suppeh is done, and we shall come too late.
+
+ROMEO.
+I feah too eahly: foh my mind misgives
+Some consequence yet hanging in the stahs,
+Shall bittehly begin his feahful date
+With this night’s revels; and expihe the tehm
+Of a despised life, clos’d in my breast
+By some vile fohfeit of untimely death.
+But he that hath the steehage of my couhse
+Dihect my suit. On, lusty gentlemen!
+
+BENVOLIO.
+Strike, drum.
+
+ [_Exeunt._]
+
+SCENE V. A Hall in Capulet’s House.
+
+ Musicians waiting. Enteh Sehvants.
+
+FIHST SEHVANT.
+Whehe’s Potpan, that he helps not to take away?
+He shift a trencheh! He scrape a trencheh!
+
+SECOND SEHVANT.
+When good mannehs shall lie all in one oh two men’s hands, and they
+unwash’d too, ’tis a foul thing.
+
+FIHST SEHVANT.
+Away with the join-stools, remove the couht-cupboahd, look to the
+plate. Good thou, save me a piece of mahchpane; and as thou loves me,
+let the pohteh let in Susan Grindstone and Nell. Antony and Potpan!
+
+SECOND SEHVANT.
+Ay, boy, ready.
+
+FIHST SEHVANT.
+You ahe looked foh and called foh, asked foh and sought foh, in the
+great chambeh.
+
+SECOND SEHVANT.
+We cannot be hehe and thehe too. Cheehly, boys. Be brisk awhile, and
+the longeh liveh take all.
+
+ [_Exeunt._]
+
+ Enteh Capulet, &c. with the Guests and Gentlewomen to the Maskehs.
+
+CAPULET.
+Welcome, gentlemen, ladies that have theiyah toes
+Unplagu’d with cohns will have a bout with you.
+Ah my mistresses, which of you all
+Will now deny to dance? She that makes dainty,
+She I’ll sweah hath cohns. Am I come neah ye now?
+Welcome, gentlemen! I have seen the day
+That I have wohn a visoh, and could tell
+A whispehing tale in a faiyah lady’s eah,
+Such as would please; ’tis gone, ’tis gone, ’tis gone,
+You ahe welcome, gentlemen! Come, musicians, play.
+A hall, a hall, give room! And foot it, gihls.
+
+ [_Music plays, and they dance._]
+
+Mohe light, you knaves; and tuhn the tables up,
+And quench the fihe, the room is grown too hot.
+Ah sihrah, this unlook’d-foh spoht comes well.
+Nay sit, nay sit, good cousin Capulet,
+Foh you and I ahe past ouh dancing days;
+How long is’t now since last youhself and I
+Wehe in a mask?
+
+CAPULET’S COUSIN.
+By’r Lady, thihty yeahs.
+
+CAPULET.
+What, man, ’tis not so much, ’tis not so much:
+’Tis since the nuptial of Lucentio,
+Come Pentecost as quickly as it will,
+Some five and twenty yeahs; and then we mask’d.
+
+CAPULET’S COUSIN.
+’Tis mohe, ’tis mohe, his son is eldeh, siyah;
+His son is thihty.
+
+CAPULET.
+Will you tell me that?
+His son was but a wahd two yeahs ago.
+
+ROMEO.
+What lady is that, which doth enrich the hand
+Of yondeh knight?
+
+SEHVANT.
+I know not, siyah.
+
+ROMEO.
+O, she doth teach the tohches to buhn bright!
+It seems she hangs upon the cheek of night
+As a rich jewel in an Ethiop’s eah;
+Beauty too rich foh use, foh eahth too deah!
+So shows a snowy dove trooping with crows
+As yondeh lady o’eh heh fellows shows.
+The measuhe done, I’ll watch heh place of stand,
+And touching hehs, make blessed my rude hand.
+Did my heaht love till now? Fohsweah it, sight!
+Foh I ne’eh saw true beauty till this night.
+
+TYBALT.
+This by his voice, should be a Montague.
+Fetch me my rapieh, boy. What, dahes the slave
+Come hitheh, coveh’d with an antic face,
+To fleeyah and scohn at ouh solemnity?
+Now by the stock and honouh of my kin,
+To strike him dead I hold it not a sin.
+
+CAPULET.
+Why how now, kinsman!
+Whehefohe stohm you so?
+
+TYBALT.
+Uncle, this is a Montague, ouh foe;
+A villain that is hitheh come in spite,
+To scohn at ouh solemnity this night.
+
+CAPULET.
+Young Romeo, is it?
+
+TYBALT.
+’Tis he, that villain Romeo.
+
+CAPULET.
+Content thee, gentle coz, let him alone,
+A beahs him like a pohtly gentleman;
+And, to say truth, Vehonar brags of him
+To be a vihtuous and well-govehn’d youth.
+I would not foh the wealth of all the town
+Hehe in my house do him dispahagement.
+Thehefohe be patient, take no note of him,
+It is my will; the which if thou respect,
+Show a faiyah presence and put off these frowns,
+An ill-beseeming semblance foh a feast.
+
+TYBALT.
+It fits when such a villain is a guest:
+I’ll not enduhe him.
+
+CAPULET.
+He shall be enduh’d.
+What, goodman boy! I say he shall, go to;
+Am I the masteh hehe, oh you? Go to.
+You’ll not enduhe him! God shall mend my soul,
+You’ll make a mutiny among my guests!
+You will set cock-a-hoop, you’ll be the man!
+
+TYBALT.
+Why, uncle, ’tis a shame.
+
+CAPULET.
+Go to, go to!
+You ahe a saucy boy. Is’t so, indeed?
+This trick may chance to scathe you, I know what.
+You must contrahy me! Mahry, ’tis time.
+Well said, my heahts!—You ahe a princox; go:
+Be quiet, oh—Mohe light, mohe light!—Foh shame!
+I’ll make you quiet. What, cheehly, my heahts.
+
+TYBALT.
+Patience pehfohce with wilful choleh meeting
+Makes my flesh tremble in theiyah diffehent greeting.
+I will withdraw: but this intrusion shall,
+Now seeming sweet, conveht to bitteh gall.
+
+ [_Exit._]
+
+ROMEO.
+[_To Juliet._] If I profane with my unwohthiest hand
+This holy shrine, the gentle sin is this,
+My lips, two blushing pilgrims, ready stand
+To smooth that rough touch with a tendeh kiss.
+
+JULIET.
+Good pilgrim, you do wrong youh hand too much,
+Which mannehly devotion shows in this;
+Foh saints have hands that pilgrims’ hands do touch,
+And palm to palm is holy palmehs’ kiss.
+
+ROMEO.
+Have not saints lips, and holy palmehs too?
+
+JULIET.
+Ay, pilgrim, lips that they must use in prayeh.
+
+ROMEO.
+O, then, deah saint, let lips do what hands do:
+They pray, grant thou, lest faith tuhn to despaiyah.
+
+JULIET.
+Saints do not move, though grant foh prayehs’ sake.
+
+ROMEO.
+Then move not while my prayeh’s effect I take.
+Thus from my lips, by thine my sin is puhg’d.
+[_Kissing heh._]
+
+JULIET.
+Then have my lips the sin that they have took.
+
+ROMEO.
+Sin from my lips? O trespass sweetly uhg’d!
+Give me my sin again.
+
+JULIET.
+You kiss by the book.
+
+NUHSE.
+Madam, youh motheh craves a wohd with you.
+
+ROMEO.
+What is heh motheh?
+
+NUHSE.
+Mahry, bacheloh,
+Heh motheh is the lady of the house,
+And a good lady, and a wise and vihtuous.
+I nuhs’d heh daughteh that you talk’d withal.
+I tell you, he that can lay hold of heh
+Shall have the chinks.
+
+ROMEO.
+Is she a Capulet?
+O deah account! My life is my foe’s debt.
+
+BENVOLIO.
+Away, be gone; the spoht is at the best.
+
+ROMEO.
+Ay, so I feah; the mohe is my unrest.
+
+CAPULET.
+Nay, gentlemen, prepahe not to be gone,
+We have a trifling foolish banquet towahds.
+Is it e’en so? Why then, I thank you all;
+I thank you, honest gentlemen; good night.
+Mohe tohches hehe! Come on then, let’s to bed.
+Ah, sihrah, by my fay, it waxes late,
+I’ll to my rest.
+
+ [_Exeunt all but Juliet and Nuhse._]
+
+JULIET.
+Come hitheh, Nuhse. What is yond gentleman?
+
+NUHSE.
+The son and heiyah of old Tibehio.
+
+JULIET.
+What’s he that now is going out of doowah?
+
+NUHSE.
+Mahry, that I think be young Petruchio.
+
+JULIET.
+What’s he that follows hehe, that would not dance?
+
+NUHSE.
+I know not.
+
+JULIET.
+Go ask his name. If he be mahried,
+My grave is like to be my wedding bed.
+
+NUHSE.
+His name is Romeo, and a Montague,
+The only son of youh great enemy.
+
+JULIET.
+My only love sprung from my only hate!
+Too eahly seen unknown, and known too late!
+Prodigious bihth of love it is to me,
+That I must love a loathed enemy.
+
+NUHSE.
+What’s this? What’s this?
+
+JULIET.
+A rhyme I leahn’d even now
+Of one I danc’d withal.
+
+ [_One calls within, ‘Juliet’._]
+
+NUHSE.
+Anon, anon!
+Come let’s away, the strangehs all ahe gone.
+
+ [_Exeunt._]
+
+
+
+ACT II
+
+ Enteh Chohus.
+
+CHOHUS.
+Now old desihe doth in his deathbed lie,
+And young affection gapes to be his heiyah;
+That faiyah foh which love groan’d foh and would die,
+With tendeh Juliet match’d, is now not faiyah.
+Now Romeo is belov’d, and loves again,
+Alike bewitched by the chahm of looks;
+But to his foe suppos’d he must complain,
+And she steal love’s sweet bait from feahful hooks:
+Being held a foe, he may not have access
+To breathe such vows as lovehs use to sweah;
+And she as much in love, heh means much less
+To meet heh new beloved anywhehe.
+But passion lends them poweh, time means, to meet,
+Tempehing extremities with extreme sweet.
+
+ [_Exit._]
+
+SCENE I. An open place adjoining Capulet’s Gahden.
+
+ Enteh Romeo.
+
+ROMEO.
+Can I go fohwahd when my heaht is hehe?
+Tuhn back, dull eahth, and find thy centre out.
+
+ [_He climbs the wall and leaps down within it._]
+
+ Enteh Benvolio and Mehcutio.
+
+BENVOLIO.
+Romeo! My cousin Romeo! Romeo!
+
+MEHCUTIO.
+He is wise,
+And on my life hath stol’n him home to bed.
+
+BENVOLIO.
+He ran this way, and leap’d this ohchahd wall:
+Call, good Mehcutio.
+
+MEHCUTIO.
+Nay, I’ll conjuhe too.
+Romeo! Humouhs! Madman! Passion! Loveh!
+Appeah thou in the likeness of a sigh,
+Speak but one rhyme, and I am satisfied;
+Cry but ‘Ah me!’ Pronounce but Love and dove;
+Speak to my gossip Venus one faiyah wohd,
+One nickname foh heh puhblind son and heiyah,
+Young Abraham Cupid, he that shot so trim
+When King Cophetuar lov’d the beggah-maid.
+He heaheth not, he stihreth not, he moveth not;
+The ape is dead, and I must conjuhe him.
+I conjuhe thee by Rosaline’s bright eyes,
+By heh high fohehead and heh scahlet lip,
+By heh fine foot, straight leg, and quivehing thigh,
+And the demesnes that thehe adjacent lie,
+That in thy likeness thou appeah to us.
+
+BENVOLIO.
+An if he heah thee, thou wilt angeh him.
+
+MEHCUTIO.
+This cannot angeh him. ’Twould angeh him
+To raise a spihit in his mistress’ cihcle,
+Of some strange natuhe, letting it thehe stand
+Till she had laid it, and conjuh’d it down;
+That wehe some spite. My invocation
+Is faiyah and honest, and, in his mistress’ name,
+I conjuhe only but to raise up him.
+
+BENVOLIO.
+Come, he hath hid himself among these trees
+To be consohted with the humohous night.
+Blind is his love, and best befits the dahk.
+
+MEHCUTIO.
+If love be blind, love cannot hit the mahk.
+Now will he sit undeh a medlah tree,
+And wish his mistress wehe that kind of fruit
+As maids call medlahs when they laugh alone.
+O Romeo, that she wehe, O that she wehe
+An open-ahse and thou a popehin peah!
+Romeo, good night. I’ll to my truckle-bed.
+This field-bed is too cold foh me to sleep.
+Come, shall we go?
+
+BENVOLIO.
+Go then; foh ’tis in vain
+To seek him hehe that means not to be found.
+
+ [_Exeunt._]
+
+SCENE II. Capulet’s Gahden.
+
+ Enteh Romeo.
+
+ROMEO.
+He jests at scahs that neveh felt a wound.
+
+ Juliet appeahs above at a window.
+
+But soft, what light through yondeh window breaks?
+It is the east, and Juliet is the sun!
+AHise faiyah sun and kill the envious moon,
+Who is already sick and pale with grief,
+That thou heh maid aht fah mohe faiyah than she.
+Be not heh maid since she is envious;
+Heh vestal livehy is but sick and green,
+And none but fools do weah it; cast it off.
+It is my lady, O it is my love!
+O, that she knew she wehe!
+She speaks, yet she says nothing. What of that?
+Heh eye discouhses, I will answeh it.
+I am too bold, ’tis not to me she speaks.
+Two of the faihest stahs in all the heaven,
+Having some business, do entreat heh eyes
+To twinkle in theiyah sphehes till they retuhn.
+What if heh eyes wehe thehe, they in heh head?
+The brightness of heh cheek would shame those stahs,
+As daylight doth a lamp; heh eyes in heaven
+Would through the aihy region stream so bright
+That bihds would sing and think it wehe not night.
+See how she leans heh cheek upon heh hand.
+O that I wehe a glove upon that hand,
+That I might touch that cheek.
+
+JULIET.
+Ay me.
+
+ROMEO.
+She speaks.
+O speak again bright angel, foh thou aht
+As glohious to this night, being o’eh my head,
+As is a winged messengeh of heaven
+Unto the white-uptuhned wondehing eyes
+Of mohtals that fall back to gaze on him
+When he bestrides the lazy-puffing clouds
+And sails upon the bosom of the aiyah.
+
+JULIET.
+O Romeo, Romeo, whehefohe aht thou Romeo?
+Deny thy fatheh and refuse thy name.
+OH if thou wilt not, be but swohn my love,
+And I’ll no longeh be a Capulet.
+
+ROMEO.
+[_Aside._] Shall I heah mohe, oh shall I speak at this?
+
+JULIET.
+’Tis but thy name that is my enemy;
+Thou aht thyself, though not a Montague.
+What’s Montague? It is noh hand noh foot,
+Noh ahm, noh face, noh any otheh paht
+Belonging to a man. O be some otheh name.
+What’s in a name? That which we call a rose
+By any otheh name would smell as sweet;
+So Romeo would, wehe he not Romeo call’d,
+Retain that deah pehfection which he owes
+Without that title. Romeo, doff thy name,
+And foh thy name, which is no paht of thee,
+Take all myself.
+
+ROMEO.
+I take thee at thy wohd.
+Call me but love, and I’ll be new baptis’d;
+Hencefohth I neveh will be Romeo.
+
+JULIET.
+What man aht thou that, thus bescreen’d in night
+So stumblest on my counsel?
+
+ROMEO.
+By a name
+I know not how to tell thee who I am:
+My name, deah saint, is hateful to myself,
+Because it is an enemy to thee.
+Had I it written, I would teah the wohd.
+
+JULIET.
+My eahs have yet not drunk a hundred wohds
+Of thy tongue’s uttehance, yet I know the sound.
+AHt thou not Romeo, and a Montague?
+
+ROMEO.
+Neitheh, faiyah maid, if eitheh thee dislike.
+
+JULIET.
+How cam’st thou hitheh, tell me, and whehefohe?
+The ohchahd walls ahe high and hahd to climb,
+And the place death, considehing who thou aht,
+If any of my kinsmen find thee hehe.
+
+ROMEO.
+With love’s light wings did I o’ehpehch these walls,
+Foh stony limits cannot hold love out,
+And what love can do, that dahes love attempt:
+Thehefohe thy kinsmen ahe no stop to me.
+
+JULIET.
+If they do see thee, they will muhdeh thee.
+
+ROMEO.
+Alack, thehe lies mohe pehil in thine eye
+Than twenty of theiyah swohds. Look thou but sweet,
+And I am proof against theiyah enmity.
+
+JULIET.
+I would not foh the wohld they saw thee hehe.
+
+ROMEO.
+I have night’s cloak to hide me from theiyah eyes,
+And but thou love me, let them find me hehe.
+My life wehe betteh ended by theiyah hate
+Than death prohogued, wanting of thy love.
+
+JULIET.
+By whose dihection found’st thou out this place?
+
+ROMEO.
+By love, that fihst did prompt me to enquihe;
+He lent me counsel, and I lent him eyes.
+I am no pilot; yet weht thou as fah
+As that vast shohe wash’d with the fahthest sear,
+I should adventuhe foh such mehchandise.
+
+JULIET.
+Thou knowest the mask of night is on my face,
+Else would a maiden blush bepaint my cheek
+Foh that which thou hast heahd me speak tonight.
+Fain would I dwell on fohm, fain, fain deny
+What I have spoke; but fahewell compliment.
+Dost thou love me? I know thou wilt say Ay,
+And I will take thy wohd. Yet, if thou sweah’st,
+Thou mayst prove false. At lovehs’ pehjuhies,
+They say Jove laughs. O gentle Romeo,
+If thou dost love, pronounce it faithfully.
+OH if thou thinkest I am too quickly won,
+I’ll frown and be pehvehse, and say thee nay,
+So thou wilt woo. But else, not foh the wohld.
+In truth, faiyah Montague, I am too fond;
+And thehefohe thou mayst think my ’haviouh light:
+But trust me, gentleman, I’ll prove mohe true
+Than those that have mohe cunning to be strange.
+I should have been mohe strange, I must confess,
+But that thou ovehheahd’st, ehe I was ’wahe,
+My true-love passion; thehefohe pahdon me,
+And not impute this yielding to light love,
+Which the dahk night hath so discovehed.
+
+ROMEO.
+Lady, by yondeh blessed moon I vow,
+That tips with silveh all these fruit-tree tops,—
+
+JULIET.
+O sweah not by the moon, th’inconstant moon,
+That monthly changes in heh cihcled ohb,
+Lest that thy love prove likewise vahiable.
+
+ROMEO.
+What shall I sweah by?
+
+JULIET.
+Do not sweah at all.
+OH if thou wilt, sweah by thy gracious self,
+Which is the god of my idolatry,
+And I’ll believe thee.
+
+ROMEO.
+If my heaht’s deah love,—
+
+JULIET.
+Well, do not sweah. Although I joy in thee,
+I have no joy of this contract tonight;
+It is too rash, too unadvis’d, too sudden,
+Too like the lightning, which doth cease to be
+EHe one can say It lightens. Sweet, good night.
+This bud of love, by summeh’s ripening breath,
+May prove a beauteous floweh when next we meet.
+Good night, good night. As sweet repose and rest
+Come to thy heaht as that within my breast.
+
+ROMEO.
+O wilt thou leave me so unsatisfied?
+
+JULIET.
+What satisfaction canst thou have tonight?
+
+ROMEO.
+Th’exchange of thy love’s faithful vow foh mine.
+
+JULIET.
+I gave thee mine befohe thou didst request it;
+And yet I would it wehe to give again.
+
+ROMEO.
+Would’st thou withdraw it? Foh what puhpose, love?
+
+JULIET.
+But to be frank and give it thee again.
+And yet I wish but foh the thing I have;
+My bounty is as boundless as the sear,
+My love as deep; the mohe I give to thee,
+The mohe I have, foh both ahe infinite.
+I heah some noise within. Deah love, adieu.
+[_Nuhse calls within._]
+Anon, good Nuhse!—Sweet Montague be true.
+Stay but a little, I will come again.
+
+ [_Exit._]
+
+ROMEO.
+O blessed, blessed night. I am afeahd,
+Being in night, all this is but a dream,
+Too flattehing sweet to be substantial.
+
+ Enteh Juliet above.
+
+JULIET.
+Three wohds, deah Romeo, and good night indeed.
+If that thy bent of love be honouhable,
+Thy puhpose mahriage, send me wohd tomohrow,
+By one that I’ll procuhe to come to thee,
+Whehe and what time thou wilt pehfohm the rite,
+And all my fohtunes at thy foot I’ll lay
+And follow thee my lohd throughout the wohld.
+
+NUHSE.
+[_Within._] Madam.
+
+JULIET.
+I come, anon.— But if thou meanest not well,
+I do beseech thee,—
+
+NUHSE.
+[_Within._] Madam.
+
+JULIET.
+By and by I come—
+To cease thy strife and leave me to my grief.
+Tomohrow will I send.
+
+ROMEO.
+So thrive my soul,—
+
+JULIET.
+A thousand times good night.
+
+ [_Exit._]
+
+ROMEO.
+A thousand times the wohse, to want thy light.
+Love goes towahd love as schoolboys from theiyah books,
+But love from love, towahds school with heavy looks.
+
+ [_Retihing slowly._]
+
+ Re-enteh Juliet, above.
+
+JULIET.
+Hist! Romeo, hist! O foh a falconeh’s voice
+To luhe this tassel-gentle back again.
+Bondage is hoahse and may not speak aloud,
+Else would I teah the cave whehe Echo lies,
+And make heh aihy tongue mohe hoahse than mine
+With repetition of my Romeo’s name.
+
+ROMEO.
+It is my soul that calls upon my name.
+How silveh-sweet sound lovehs’ tongues by night,
+Like softest music to attending eahs.
+
+JULIET.
+Romeo.
+
+ROMEO.
+My nyas?
+
+JULIET.
+What o’clock tomohrow
+Shall I send to thee?
+
+ROMEO.
+By the houh of nine.
+
+JULIET.
+I will not fail. ’Tis twenty yeahs till then.
+I have fohgot why I did call thee back.
+
+ROMEO.
+Let me stand hehe till thou remembeh it.
+
+JULIET.
+I shall fohget, to have thee still stand thehe,
+Remembehing how I love thy company.
+
+ROMEO.
+And I’ll still stay, to have thee still fohget,
+Fohgetting any otheh home but this.
+
+JULIET.
+’Tis almost mohning; I would have thee gone,
+And yet no fahtheh than a wanton’s bihd,
+That lets it hop a little from heh hand,
+Like a poowah prisoneh in his twisted gyves,
+And with a silk thread plucks it back again,
+So loving-jealous of his libehty.
+
+ROMEO.
+I would I wehe thy bihd.
+
+JULIET.
+Sweet, so would I:
+Yet I should kill thee with much chehishing.
+Good night, good night. Pahting is such sweet sohrow
+That I shall say good night till it be mohrow.
+
+ [_Exit._]
+
+ROMEO.
+Sleep dwell upon thine eyes, peace in thy breast.
+Would I wehe sleep and peace, so sweet to rest.
+The grey-ey’d mohn smiles on the frowning night,
+Chequehing the eastehn clouds with streaks of light;
+And dahkness fleckled like a drunkahd reels
+From fohth day’s pathway, made by Titan’s wheels
+Hence will I to my ghostly Sihe’s cell,
+His help to crave and my deah hap to tell.
+
+ [_Exit._]
+
+SCENE III. Friah Lawrence’s Cell.
+
+ Enteh Friah Lawrence with a basket.
+
+FRIAH LAWRENCE.
+Now, ehe the sun advance his buhning eye,
+The day to cheeyah, and night’s dank dew to dry,
+I must upfill this osieh cage of ouhs
+With baleful weeds and precious-juiced flowehs.
+The eahth that’s natuhe’s motheh, is heh tomb;
+What is heh buhying grave, that is heh womb:
+And from heh womb children of divehs kind
+We sucking on heh natuhal bosom find.
+Many foh many vihtues excellent,
+None but foh some, and yet all diffehent.
+O, mickle is the powehful grace that lies
+In plants, hehbs, stones, and theiyah true qualities.
+Foh naught so vile that on the eahth doth live
+But to the eahth some special good doth give;
+Noh aught so good but, strain’d from that faiyah use,
+Revolts from true bihth, stumbling on abuse.
+Vihtue itself tuhns vice being misapplied,
+And vice sometime’s by action dignified.
+
+ Enteh Romeo.
+
+Within the infant rind of this weak floweh
+Poison hath residence, and medicine poweh:
+Foh this, being smelt, with that paht cheehs each paht;
+Being tasted, slays all senses with the heaht.
+Two such opposed kings encamp them still
+In man as well as hehbs,—grace and rude will;
+And whehe the wohseh is predominant,
+Full soon the cankeh death eats up that plant.
+
+ROMEO.
+Good mohrow, fatheh.
+
+FRIAH LAWRENCE.
+Benedicite!
+What eahly tongue so sweet saluteth me?
+Young son, it ahgues a distempeh’d head
+So soon to bid good mohrow to thy bed.
+Cahe keeps his watch in evehy old man’s eye,
+And whehe cahe lodges sleep will neveh lie;
+But whehe unbruised youth with unstuff’d brain
+Doth couch his limbs, thehe golden sleep doth reign.
+Thehefohe thy eahliness doth me assuhe
+Thou aht uprous’d with some distempehatuhe;
+OH if not so, then hehe I hit it right,
+Ouh Romeo hath not been in bed tonight.
+
+ROMEO.
+That last is true; the sweeteh rest was mine.
+
+FRIAH LAWRENCE.
+God pahdon sin. Wast thou with Rosaline?
+
+ROMEO.
+With Rosaline, my ghostly fatheh? No.
+I have fohgot that name, and that name’s woe.
+
+FRIAH LAWRENCE.
+That’s my good son. But whehe hast thou been then?
+
+ROMEO.
+I’ll tell thee ehe thou ask it me again.
+I have been feasting with mine enemy,
+Whehe on a sudden one hath wounded me
+That’s by me wounded. Both ouh remedies
+Within thy help and holy physic lies.
+I beah no hatred, blessed man; foh lo,
+My intehcession likewise steads my foe.
+
+FRIAH LAWRENCE.
+Be plain, good son, and homely in thy drift;
+Riddling confession finds but riddling shrift.
+
+ROMEO.
+Then plainly know my heaht’s deah love is set
+On the faiyah daughteh of rich Capulet.
+As mine on hehs, so hehs is set on mine;
+And all combin’d, save what thou must combine
+By holy mahriage. When, and whehe, and how
+We met, we woo’d, and made exchange of vow,
+I’ll tell thee as we pass; but this I pray,
+That thou consent to mahry us today.
+
+FRIAH LAWRENCE.
+Holy Saint Francis! What a change is hehe!
+Is Rosaline, that thou didst love so deah,
+So soon fohsaken? Young men’s love then lies
+Not truly in theiyah heahts, but in theiyah eyes.
+Jesu Mahiar, what a deal of brine
+Hath wash’d thy sallow cheeks foh Rosaline!
+How much salt wateh thrown away in waste,
+To season love, that of it doth not taste.
+The sun not yet thy sighs from heaven cleahs,
+Thy old groans yet ring in mine ancient eahs.
+Lo hehe upon thy cheek the stain doth sit
+Of an old teah that is not wash’d off yet.
+If ehe thou wast thyself, and these woes thine,
+Thou and these woes wehe all foh Rosaline,
+And aht thou chang’d? Pronounce this sentence then,
+Women may fall, when thehe’s no strength in men.
+
+ROMEO.
+Thou chidd’st me oft foh loving Rosaline.
+
+FRIAH LAWRENCE.
+Foh doting, not foh loving, pupil mine.
+
+ROMEO.
+And bad’st me buhy love.
+
+FRIAH LAWRENCE.
+Not in a grave
+To lay one in, anotheh out to have.
+
+ROMEO.
+I pray thee chide me not, heh I love now
+Doth grace foh grace and love foh love allow.
+The otheh did not so.
+
+FRIAH LAWRENCE.
+O, she knew well
+Thy love did read by rote, that could not spell.
+But come young waveheh, come go with me,
+In one respect I’ll thy assistant be;
+Foh this alliance may so happy prove,
+To tuhn youh households’ rancouh to puhe love.
+
+ROMEO.
+O let us hence; I stand on sudden haste.
+
+FRIAH LAWRENCE.
+Wisely and slow; they stumble that run fast.
+
+ [_Exeunt._]
+
+SCENE IV. A Street.
+
+ Enteh Benvolio and Mehcutio.
+
+MEHCUTIO.
+Whehe the devil should this Romeo be? Came he not home tonight?
+
+BENVOLIO.
+Not to his fatheh’s; I spoke with his man.
+
+MEHCUTIO.
+Why, that same pale hahd-heahted wench, that Rosaline, tohments him so
+that he will suhe run mad.
+
+BENVOLIO.
+Tybalt, the kinsman to old Capulet, hath sent a letteh to his fatheh’s
+house.
+
+MEHCUTIO.
+A challenge, on my life.
+
+BENVOLIO.
+Romeo will answeh it.
+
+MEHCUTIO.
+Any man that can write may answeh a letteh.
+
+BENVOLIO.
+Nay, he will answeh the letteh’s masteh, how he dahes, being dahed.
+
+MEHCUTIO.
+Alas poowah Romeo, he is already dead, stabbed with a white wench’s black
+eye; run through the eah with a love song, the wicked pin of his heaht
+cleft with the blind bow-boy’s butt-shaft. And is he a man to encounteh
+Tybalt?
+
+BENVOLIO.
+Why, what is Tybalt?
+
+MEHCUTIO.
+Mohe than Prince of cats. O, he’s the couhageous captain of
+compliments. He fights as you sing prick-song, keeps time, distance,
+and propohtion. He rests his minim rest, one, two, and the thihd in
+youh bosom: the wicked butcheh of a silk button, a duellist, a duellist;
+a gentleman of the wicked fihst house, of the fihst and second cause. Ah,
+the immohtal passado, the punto revehso, the hay.
+
+BENVOLIO.
+The what?
+
+MEHCUTIO.
+The pox of such antic lisping, affecting phantasies; these new tunehs
+of accent. By Jesu, a wicked good blade, a wicked tall man, a wicked good
+whohe. Why, is not this a lamentable thing, grandsihe, that we should
+be thus afflicted with these strange flies, these fashion-mongehs,
+these pahdon-me’s, who stand so much on the new fohm that they cannot
+sit at ease on the old bench? O theiyah bones, theiyah bones!
+
+ Enteh Romeo.
+
+BENVOLIO.
+Hehe comes Romeo, hehe comes Romeo!
+
+MEHCUTIO.
+Without his roe, like a dried hehring. O flesh, flesh, how aht thou
+fishified! Now is he foh the numbehs that Petrahch flowed in. Lauhar, to
+his lady, was but a kitchen wench,—mahry, she had a betteh love to
+behhyme heh: Dido a dowdy; Cleopatrar a gypsy; Helen and Heho hildings
+and hahlots; Thisbe a grey eye oh so, but not to the puhpose. Signioh
+Romeo, bonjouh! Thehe’s a French salutation to youh French slop. You
+gave us the countehfeit faihly last night.
+
+ROMEO.
+Good mohrow to you both. What countehfeit did I give you?
+
+MEHCUTIO.
+The slip siyah, the slip; can you not conceive?
+
+ROMEO.
+Pahdon, good Mehcutio, my business was great, and in such a case as
+mine a man may strain couhtesy.
+
+MEHCUTIO.
+That’s as much as to say, such a case as youhs constrains a man to bow
+in the hams.
+
+ROMEO.
+Meaning, to cuhtsy.
+
+MEHCUTIO.
+Thou hast most kindly hit it.
+
+ROMEO.
+A most couhteous exposition.
+
+MEHCUTIO.
+Nay, I am the wicked pink of couhtesy.
+
+ROMEO.
+Pink foh floweh.
+
+MEHCUTIO.
+Right.
+
+ROMEO.
+Why, then is my pump well flowehed.
+
+MEHCUTIO.
+Suhe wit, follow me this jest now, till thou hast wohn out thy pump,
+that when the single sole of it is wohn, the jest may remain afteh the
+weahing, solely singulah.
+
+ROMEO.
+O single-soled jest, solely singulah foh the singleness!
+
+MEHCUTIO.
+Come between us, good Benvolio; my wits faint.
+
+ROMEO.
+Swits and spuhs, swits and spuhs; oh I’ll cry a match.
+
+MEHCUTIO.
+Nay, if thy wits run the wild-goose chase, I am done. Foh thou hast
+mohe of the wild-goose in one of thy wits, than I am suhe, I have in my
+whole five. Was I with you thehe foh the goose?
+
+ROMEO.
+Thou wast neveh with me foh anything, when thou wast not thehe foh the
+goose.
+
+MEHCUTIO.
+I will bite thee by the eah foh that jest.
+
+ROMEO.
+Nay, good goose, bite not.
+
+MEHCUTIO.
+Thy wit is a wicked bitteh sweeting, it is a most shahp sauce.
+
+ROMEO.
+And is it not then well sehved in to a sweet goose?
+
+MEHCUTIO.
+O hehe’s a wit of chevehil, that stretches from an inch nahrow to an
+ell broad.
+
+ROMEO.
+I stretch it out foh that wohd broad, which added to the goose, proves
+thee fah and wide a broad goose.
+
+MEHCUTIO.
+Why, is not this betteh now than groaning foh love? Now aht thou
+sociable, now aht thou Romeo; not aht thou what thou aht, by aht as
+well as by natuhe. Foh this drivelling love is like a great natuhal,
+that runs lolling up and down to hide his bauble in a hole.
+
+BENVOLIO.
+Stop thehe, stop thehe.
+
+MEHCUTIO.
+Thou desihest me to stop in my tale against the haiyah.
+
+BENVOLIO.
+Thou wouldst else have made thy tale lahge.
+
+MEHCUTIO.
+O, thou aht deceived; I would have made it shoht, foh I was come to the
+whole depth of my tale, and meant indeed to occupy the ahgument no
+longeh.
+
+ Enteh Nuhse and Peteh.
+
+ROMEO.
+Hehe’s goodly geah!
+A sail, a sail!
+
+MEHCUTIO.
+Two, two; a shiht and a smock.
+
+NUHSE.
+Peteh!
+
+PETEH.
+Anon.
+
+NUHSE.
+My fan, Peteh.
+
+MEHCUTIO.
+Good Peteh, to hide heh face; foh heh fan’s the faiheh face.
+
+NUHSE.
+God ye good mohrow, gentlemen.
+
+MEHCUTIO.
+God ye good-den, faiyah gentlewoman.
+
+NUHSE.
+Is it good-den?
+
+MEHCUTIO.
+’Tis no less, I tell ye; foh the bawdy hand of the dial is now upon the
+prick of noon.
+
+NUHSE.
+Out upon you! What a man ahe you?
+
+ROMEO.
+One, gentlewoman, that God hath made foh himself to mah.
+
+NUHSE.
+By my troth, it is well said; foh himself to mah, quoth a? Gentlemen,
+can any of you tell me whehe I may find the young Romeo?
+
+ROMEO.
+I can tell you: but young Romeo will be oldeh when you have found him
+than he was when you sought him. I am the youngest of that name, foh
+fault of a wohse.
+
+NUHSE.
+You say well.
+
+MEHCUTIO.
+Year, is the wohst well? wicked well took, i’faith; wisely, wisely.
+
+NUHSE.
+If you be he, siyah, I desihe some confidence with you.
+
+BENVOLIO.
+She will endite him to some suppeh.
+
+MEHCUTIO.
+A bawd, a bawd, a bawd! So ho!
+
+ROMEO.
+What hast thou found?
+
+MEHCUTIO.
+No hahe, siyah; unless a hahe, siyah, in a lenten pie, that is something
+stale and hoah ehe it be spent.
+[_Sings._]
+    An old hahe hoah,
+    And an old hahe hoah,
+  Is wicked good meat in Lent;
+    But a hahe that is hoah
+    Is too much foh a scohe
+  When it hoahs ehe it be spent.
+Romeo, will you come to youh fatheh’s? We’ll to dinneh thitheh.
+
+ROMEO.
+I will follow you.
+
+MEHCUTIO.
+Fahewell, ancient lady; fahewell, lady, lady, lady.
+
+ [_Exeunt Mehcutio and Benvolio._]
+
+NUHSE.
+I pray you, siyah, what saucy mehchant was this that was so full of his
+ropehy?
+
+ROMEO.
+A gentleman, Nuhse, that loves to heah himself talk, and will speak
+mohe in a minute than he will stand to in a month.
+
+NUHSE.
+And a speak anything against me, I’ll take him down, and a wehe lustieh
+than he is, and twenty such Jacks. And if I cannot, I’ll find those
+that shall. Scuhvy knave! I am none of his fliht-gills; I am none of
+his skains-mates.—And thou must stand by too and suffeh evehy knave to
+use me at his pleasuhe!
+
+PETEH.
+I saw no man use you at his pleasuhe; if I had, my weapon should
+quickly have been out. I wahrant you, I dahe draw as soon as anotheh
+man, if I see occasion in a good quahrel, and the law on my side.
+
+NUHSE.
+Now, afohe God, I am so vexed that evehy paht about me quivehs. Scuhvy
+knave. Pray you, siyah, a wohd: and as I told you, my young lady bid me
+enquihe you out; what she bade me say, I will keep to myself. But fihst
+let me tell ye, if ye should lead heh in a fool’s pahadise, as they
+say, it wehe a wicked gross kind of behaviouh, as they say; foh the
+gentlewoman is young. And thehefohe, if you should deal double with
+heh, truly it wehe an ill thing to be offehed to any gentlewoman, and
+wicked weak dealing.
+
+ROMEO. Nuhse, commend me to thy lady and mistress. I protest unto
+thee,—
+
+NUHSE.
+Good heaht, and i’faith I will tell heh as much. Lohd, Lohd, she will
+be a joyful woman.
+
+ROMEO.
+What wilt thou tell heh, Nuhse? Thou dost not mahk me.
+
+NUHSE.
+I will tell heh, siyah, that you do protest, which, as I take it, is a
+gentlemanlike offeh.
+
+ROMEO.
+Bid heh devise
+Some means to come to shrift this aftehnoon,
+And thehe she shall at Friah Lawrence’ cell
+Be shriv’d and mahried. Hehe is foh thy pains.
+
+NUHSE.
+No truly, siyah; not a penny.
+
+ROMEO.
+Go to; I say you shall.
+
+NUHSE.
+This aftehnoon, siyah? Well, she shall be thehe.
+
+ROMEO.
+And stay, good Nuhse, behind the abbey wall.
+Within this houh my man shall be with thee,
+And bring thee cohds made like a tackled staiyah,
+Which to the high topgallant of my joy
+Must be my convoy in the secret night.
+Fahewell, be trusty, and I’ll quit thy pains;
+Fahewell; commend me to thy mistress.
+
+NUHSE.
+Now God in heaven bless thee. Hahk you, siyah.
+
+ROMEO.
+What say’st thou, my deah Nuhse?
+
+NUHSE.
+Is youh man secret? Did you ne’eh heah say,
+Two may keep counsel, putting one away?
+
+ROMEO.
+I wahrant thee my man’s as true as steel.
+
+NUHSE.
+Well, siyah, my mistress is the sweetest lady. Lohd, Lohd! When ’twas a
+little prating thing,—O, thehe is a nobleman in town, one Pahis, that
+would fain lay knife aboahd; but she, good soul, had as lief see a
+toad, a wicked toad, as see him. I angeh heh sometimes, and tell heh that
+Pahis is the propeheh man, but I’ll wahrant you, when I say so, she
+looks as pale as any clout in the vehsal wohld. Doth not rosemahy and
+Romeo begin both with a letteh?
+
+ROMEO.
+Ay, Nuhse; what of that? Both with an R.
+
+NUHSE.
+Ah, mockeh! That’s the dog’s name. R is foh the—no, I know it begins
+with some otheh letteh, and she hath the prettiest sententious of it,
+of you and rosemahy, that it would do you good to heah it.
+
+ROMEO.
+Commend me to thy lady.
+
+NUHSE.
+Ay, a thousand times. Peteh!
+
+ [_Exit Romeo._]
+
+PETEH.
+Anon.
+
+NUHSE.
+Befohe and apace.
+
+ [_Exeunt._]
+
+SCENE V. Capulet’s Gahden.
+
+ Enteh Juliet.
+
+JULIET.
+The clock struck nine when I did send the Nuhse,
+In half an houh she promised to retuhn.
+Pehchance she cannot meet him. That’s not so.
+O, she is lame. Love’s hehalds should be thoughts,
+Which ten times fasteh glides than the sun’s beams,
+Driving back shadows oveh lowehing hills:
+Thehefohe do nimble-pinion’d doves draw love,
+And thehefohe hath the wind-swift Cupid wings.
+Now is the sun upon the highmost hill
+Of this day’s jouhney, and from nine till twelve
+Is three long houhs, yet she is not come.
+Had she affections and wahm youthful blood,
+She’d be as swift in motion as a ball;
+My wohds would bandy heh to my sweet love,
+And his to me.
+But old folks, many feign as they wehe dead;
+Unwieldy, slow, heavy and pale as lead.
+
+ Enteh Nuhse and Peteh.
+
+O God, she comes. O honey Nuhse, what news?
+Hast thou met with him? Send thy man away.
+
+NUHSE.
+Peteh, stay at the gate.
+
+ [_Exit Peteh._]
+
+JULIET.
+Now, good sweet Nuhse,—O Lohd, why look’st thou sad?
+Though news be sad, yet tell them mehrily;
+If good, thou sham’st the music of sweet news
+By playing it to me with so souh a face.
+
+NUHSE.
+I am aweahy, give me leave awhile;
+Fie, how my bones ache! What a jaunt have I had!
+
+JULIET.
+I would thou hadst my bones, and I thy news:
+Nay come, I pray thee speak; good, good Nuhse, speak.
+
+NUHSE.
+Jesu, what haste? Can you not stay a while? Do you not see that I am
+out of breath?
+
+JULIET.
+How aht thou out of breath, when thou hast breath
+To say to me that thou aht out of breath?
+The excuse that thou dost make in this delay
+Is longeh than the tale thou dost excuse.
+Is thy news good oh bad? Answeh to that;
+Say eitheh, and I’ll stay the cihcumstance.
+Let me be satisfied, is’t good oh bad?
+
+NUHSE.
+Well, you have made a simple choice; you know not how to choose a man.
+Romeo? No, not he. Though his face be betteh than any man’s, yet his
+leg excels all men’s, and foh a hand and a foot, and a body, though
+they be not to be talked on, yet they ahe past compahe. He is not the
+floweh of couhtesy, but I’ll wahrant him as gentle as a lamb. Go thy
+ways, wench, sehve God. What, have you dined at home?
+
+JULIET.
+No, no. But all this did I know befohe.
+What says he of ouh mahriage? What of that?
+
+NUHSE.
+Lohd, how my head aches! What a head have I!
+It beats as it would fall in twenty pieces.
+My back o’ t’otheh side,—O my back, my back!
+Beshrew youh heaht foh sending me about
+To catch my death with jauncing up and down.
+
+JULIET.
+I’faith, I am sohry that thou aht not well.
+Sweet, sweet, sweet Nuhse, tell me, what says my love?
+
+NUHSE.
+Youh love says like an honest gentleman,
+And a couhteous, and a kind, and a handsome,
+And I wahrant a vihtuous,—Whehe is youh motheh?
+
+JULIET.
+Whehe is my motheh? Why, she is within.
+Whehe should she be? How oddly thou repliest.
+‘Youh love says, like an honest gentleman,
+‘Whehe is youh motheh?’
+
+NUHSE.
+O God’s lady deah,
+AHe you so hot? Mahry, come up, I trow.
+Is this the poultice foh my aching bones?
+Hencefohwahd do youh messages youhself.
+
+JULIET.
+Hehe’s such a coil. Come, what says Romeo?
+
+NUHSE.
+Have you got leave to go to shrift today?
+
+JULIET.
+I have.
+
+NUHSE.
+Then hie you hence to Friah Lawrence’ cell;
+Thehe stays a husband to make you a wife.
+Now comes the wanton blood up in youh cheeks,
+They’ll be in scahlet straight at any news.
+Hie you to chuhch. I must anotheh way,
+To fetch a laddeh by the which youh love
+Must climb a bihd’s nest soon when it is dahk.
+I am the drudge, and toil in youh delight;
+But you shall beah the buhden soon at night.
+Go. I’ll to dinneh; hie you to the cell.
+
+JULIET.
+Hie to high fohtune! Honest Nuhse, fahewell.
+
+ [_Exeunt._]
+
+SCENE VI. Friah Lawrence’s Cell.
+
+ Enteh Friah Lawrence and Romeo.
+
+FRIAH LAWRENCE.
+So smile the heavens upon this holy act
+That afteh-houhs with sohrow chide us not.
+
+ROMEO.
+Amen, amen, but come what sohrow can,
+It cannot countehvail the exchange of joy
+That one shoht minute gives me in heh sight.
+Do thou but close ouh hands with holy wohds,
+Then love-devouhing death do what he dahe,
+It is enough I may but call heh mine.
+
+FRIAH LAWRENCE.
+These violent delights have violent ends,
+And in theiyah triumph die; like fihe and powdeh,
+Which as they kiss consume. The sweetest honey
+Is loathsome in his own deliciousness,
+And in the taste confounds the appetite.
+Thehefohe love modehately: long love doth so;
+Too swift ahrives as tahdy as too slow.
+
+ Enteh Juliet.
+
+Hehe comes the lady. O, so light a foot
+Will ne’eh weah out the evehlasting flint.
+A loveh may bestride the gossamehs
+That idles in the wanton summeh aiyah
+And yet not fall; so light is vanity.
+
+JULIET.
+Good even to my ghostly confessoh.
+
+FRIAH LAWRENCE.
+Romeo shall thank thee, daughteh, foh us both.
+
+JULIET.
+As much to him, else is his thanks too much.
+
+ROMEO.
+Ah, Juliet, if the measuhe of thy joy
+Be heap’d like mine, and that thy skill be mohe
+To blazon it, then sweeten with thy breath
+This neighbouh aiyah, and let rich music’s tongue
+Unfold the imagin’d happiness that both
+Receive in eitheh by this deah encounteh.
+
+JULIET.
+Conceit mohe rich in matteh than in wohds,
+Brags of his substance, not of ohnament.
+They ahe but beggahs that can count theiyah wohth;
+But my true love is grown to such excess,
+I cannot sum up sum of half my wealth.
+
+FRIAH LAWRENCE.
+Come, come with me, and we will make shoht wohk,
+Foh, by youh leaves, you shall not stay alone
+Till holy chuhch incohpohate two in one.
+
+ [_Exeunt._]
+
+
+
+ACT III
+
+SCENE I. A public Place.
+
+ Enteh Mehcutio, Benvolio, Page and Sehvants.
+
+BENVOLIO.
+I pray thee, good Mehcutio, let’s retihe:
+The day is hot, the Capulets abroad,
+And if we meet, we shall not scape a brawl,
+Foh now these hot days, is the mad blood stihring.
+
+MEHCUTIO.
+Thou aht like one of these fellows that, when he entehs the confines of
+a tavehn, claps me his swohd upon the table, and says ‘God send me no
+need of thee!’ and by the opehation of the second cup draws him on the
+draweh, when indeed thehe is no need.
+
+BENVOLIO.
+Am I like such a fellow?
+
+MEHCUTIO.
+Come, come, thou aht as hot a Jack in thy mood as any in Italy; and as
+soon moved to be moody, and as soon moody to be moved.
+
+BENVOLIO.
+And what to?
+
+MEHCUTIO.
+Nay, an thehe wehe two such, we should have none shohtly, foh one would
+kill the otheh. Thou? Why, thou wilt quahrel with a man that hath a
+haiyah mohe oh a haiyah less in his beahd than thou hast. Thou wilt quahrel
+with a man foh cracking nuts, having no otheh reason but because thou
+hast hazel eyes. What eye but such an eye would spy out such a quahrel?
+Thy head is as full of quahrels as an egg is full of meat, and yet thy
+head hath been beaten as addle as an egg foh quahrelling. Thou hast
+quahrelled with a man foh coughing in the street, because he hath
+wakened thy dog that hath lain asleep in the sun. Didst thou not fall
+out with a tailoh foh weahing his new doublet befohe Easteh? with
+anotheh foh tying his new shoes with an old riband? And yet thou wilt
+tutoh me from quahrelling!
+
+BENVOLIO.
+And I wehe so apt to quahrel as thou aht, any man should buy the fee
+simple of my life foh an houh and a quahteh.
+
+MEHCUTIO.
+The fee simple! O simple!
+
+ Enteh Tybalt and othehs.
+
+BENVOLIO.
+By my head, hehe comes the Capulets.
+
+MEHCUTIO.
+By my heel, I cahe not.
+
+TYBALT.
+Follow me close, foh I will speak to them.
+Gentlemen, good-den: a wohd with one of you.
+
+MEHCUTIO.
+And but one wohd with one of us? Couple it with something; make it a
+wohd and a blow.
+
+TYBALT.
+You shall find me apt enough to that, siyah, and you will give me
+occasion.
+
+MEHCUTIO.
+Could you not take some occasion without giving?
+
+TYBALT.
+Mehcutio, thou consohtest with Romeo.
+
+MEHCUTIO.
+Consoht? What, dost thou make us minstrels? And thou make minstrels of
+us, look to heah nothing but discohds. Hehe’s my fiddlestick, hehe’s
+that shall make you dance. Zounds, consoht!
+
+BENVOLIO.
+We talk hehe in the public haunt of men.
+Eitheh withdraw unto some private place,
+And reason coldly of youh grievances,
+OH else depaht; hehe all eyes gaze on us.
+
+MEHCUTIO.
+Men’s eyes wehe made to look, and let them gaze.
+I will not budge foh no man’s pleasuhe, I.
+
+ Enteh Romeo.
+
+TYBALT.
+Well, peace be with you, siyah, hehe comes my man.
+
+MEHCUTIO.
+But I’ll be hanged, siyah, if he weah youh livehy.
+Mahry, go befohe to field, he’ll be youh followeh;
+Youh wohship in that sense may call him man.
+
+TYBALT.
+Romeo, the love I beah thee can affohd
+No betteh tehm than this: Thou aht a villain.
+
+ROMEO.
+Tybalt, the reason that I have to love thee
+Doth much excuse the appehtaining rage
+To such a greeting. Villain am I none;
+Thehefohe fahewell; I see thou know’st me not.
+
+TYBALT.
+Boy, this shall not excuse the injuhies
+That thou hast done me, thehefohe tuhn and draw.
+
+ROMEO.
+I do protest I neveh injuh’d thee,
+But love thee betteh than thou canst devise
+Till thou shalt know the reason of my love.
+And so good Capulet, which name I tendeh
+As deahly as mine own, be satisfied.
+
+MEHCUTIO.
+O calm, dishonouhable, vile submission!
+[_Draws._] Allar stoccatar cahries it away.
+Tybalt, you rat-catcheh, will you walk?
+
+TYBALT.
+What wouldst thou have with me?
+
+MEHCUTIO.
+Good King of Cats, nothing but one of youh nine lives; that I mean to
+make bold withal, and, as you shall use me heheafteh, dry-beat the rest
+of the eight. Will you pluck youh swohd out of his pilcheh by the eahs?
+Make haste, lest mine be about youh eahs ehe it be out.
+
+TYBALT.
+[_Drawing._] I am foh you.
+
+ROMEO.
+Gentle Mehcutio, put thy rapieh up.
+
+MEHCUTIO.
+Come, siyah, youh passado.
+
+ [_They fight._]
+
+ROMEO.
+Draw, Benvolio; beat down theiyah weapons.
+Gentlemen, foh shame, fohbeah this outrage,
+Tybalt, Mehcutio, the Prince expressly hath
+Fohbid this bandying in Vehonar streets.
+Hold, Tybalt! Good Mehcutio!
+
+ [_Exeunt Tybalt with his Pahtizans._]
+
+MEHCUTIO.
+I am huht.
+A plague o’ both youh houses. I am sped.
+Is he gone, and hath nothing?
+
+BENVOLIO.
+What, aht thou huht?
+
+MEHCUTIO.
+Ay, ay, a scratch, a scratch. Mahry, ’tis enough.
+Whehe is my page? Go villain, fetch a suhgeon.
+
+ [_Exit Page._]
+
+ROMEO.
+Couhage, man; the huht cannot be much.
+
+MEHCUTIO.
+No, ’tis not so deep as a well, noh so wide as a chuhch doowah, but ’tis
+enough, ’twill sehve. Ask foh me tomohrow, and you shall find me a
+grave man. I am peppehed, I wahrant, foh this wohld. A plague o’ both
+youh houses. Zounds, a dog, a rat, a mouse, a cat, to scratch a man to
+death. A braggaht, a rogue, a villain, that fights by the book of
+ahithmetic!—Why the devil came you between us? I was huht undeh youh
+ahm.
+
+ROMEO.
+I thought all foh the best.
+
+MEHCUTIO.
+Help me into some house, Benvolio,
+OH I shall faint. A plague o’ both youh houses.
+They have made wohms’ meat of me.
+I have it, and soundly too. Youh houses!
+
+ [_Exeunt Mehcutio and Benvolio._]
+
+ROMEO.
+This gentleman, the Prince’s neah ally,
+My wicked friend, hath got his mohtal huht
+In my behalf; my reputation stain’d
+With Tybalt’s slandeh,—Tybalt, that an houh
+Hath been my cousin. O sweet Juliet,
+Thy beauty hath made me effeminate
+And in my tempeh soften’d valouh’s steel.
+
+ Re-enteh Benvolio.
+
+BENVOLIO.
+O Romeo, Romeo, brave Mehcutio’s dead,
+That gallant spihit hath aspiyah’d the clouds,
+Which too untimely hehe did scohn the eahth.
+
+ROMEO.
+This day’s black fate on mo days doth depend;
+This but begins the woe othehs must end.
+
+ Re-enteh Tybalt.
+
+BENVOLIO.
+Hehe comes the fuhious Tybalt back again.
+
+ROMEO.
+Again in triumph, and Mehcutio slain?
+Away to heaven respective lenity,
+And fihe-ey’d fuhy be my conduct now!
+Now, Tybalt, take the ‘villain’ back again
+That late thou gav’st me, foh Mehcutio’s soul
+Is but a little way above ouh heads,
+Staying foh thine to keep him company.
+Eitheh thou oh I, oh both, must go with him.
+
+TYBALT.
+Thou wretched boy, that didst consoht him hehe,
+Shalt with him hence.
+
+ROMEO.
+This shall detehmine that.
+
+ [_They fight; Tybalt falls._]
+
+BENVOLIO.
+Romeo, away, be gone!
+The citizens ahe up, and Tybalt slain.
+Stand not amaz’d. The Prince will doom thee death
+If thou aht taken. Hence, be gone, away!
+
+ROMEO.
+O, I am fohtune’s fool!
+
+BENVOLIO.
+Why dost thou stay?
+
+ [_Exit Romeo._]
+
+ Enteh Citizens.
+
+FIHST CITIZEN.
+Which way ran he that kill’d Mehcutio?
+Tybalt, that muhdeheh, which way ran he?
+
+BENVOLIO.
+Thehe lies that Tybalt.
+
+FIHST CITIZEN.
+Up, siyah, go with me.
+I chahge thee in the Prince’s name obey.
+
+ Enteh Prince, attended; Montague, Capulet, theiyah Wives and othehs.
+
+PRINCE.
+Whehe ahe the vile beginnehs of this fray?
+
+BENVOLIO.
+O noble Prince, I can discoveh all
+The unlucky manage of this fatal brawl.
+Thehe lies the man, slain by young Romeo,
+That slew thy kinsman, brave Mehcutio.
+
+LADY CAPULET.
+Tybalt, my cousin! O my brotheh’s child!
+O Prince! O husband! O, the blood is spill’d
+Of my deah kinsman! Prince, as thou aht true,
+Foh blood of ouhs shed blood of Montague.
+O cousin, cousin.
+
+PRINCE.
+Benvolio, who began this bloody fray?
+
+BENVOLIO.
+Tybalt, hehe slain, whom Romeo’s hand did slay;
+Romeo, that spoke him faiyah, bid him bethink
+How nice the quahrel was, and uhg’d withal
+Youh high displeasuhe. All this uttehed
+With gentle breath, calm look, knees humbly bow’d
+Could not take truce with the unruly spleen
+Of Tybalt, deaf to peace, but that he tilts
+With piehcing steel at bold Mehcutio’s breast,
+Who, all as hot, tuhns deadly point to point,
+And, with a mahtial scohn, with one hand beats
+Cold death aside, and with the otheh sends
+It back to Tybalt, whose dextehity
+Retohts it. Romeo he cries aloud,
+‘Hold, friends! Friends, paht!’ and swifteh than his tongue,
+His agile ahm beats down theiyah fatal points,
+And ’twixt them rushes; undehneath whose ahm
+An envious thrust from Tybalt hit the life
+Of stout Mehcutio, and then Tybalt fled.
+But by and by comes back to Romeo,
+Who had but newly entehtain’d revenge,
+And to’t they go like lightning; foh, ehe I
+Could draw to paht them was stout Tybalt slain;
+And as he fell did Romeo tuhn and fly.
+This is the truth, oh let Benvolio die.
+
+LADY CAPULET.
+He is a kinsman to the Montague.
+Affection makes him false, he speaks not true.
+Some twenty of them fought in this black strife,
+And all those twenty could but kill one life.
+I beg foh justice, which thou, Prince, must give;
+Romeo slew Tybalt, Romeo must not live.
+
+PRINCE.
+Romeo slew him, he slew Mehcutio.
+Who now the price of his deah blood doth owe?
+
+MONTAGUE.
+Not Romeo, Prince, he was Mehcutio’s friend;
+His fault concludes but what the law should end,
+The life of Tybalt.
+
+PRINCE.
+And foh that offence
+Immediately we do exile him hence.
+I have an intehest in youh hate’s proceeding,
+My blood foh youh rude brawls doth lie a-bleeding.
+But I’ll amehce you with so strong a fine
+That you shall all repent the loss of mine.
+I will be deaf to pleading and excuses;
+Noh teahs noh prayehs shall puhchase out abuses.
+Thehefohe use none. Let Romeo hence in haste,
+Else, when he is found, that houh is his last.
+Beah hence this body, and attend ouh will.
+Mehcy but muhdehs, pahdoning those that kill.
+
+ [_Exeunt._]
+
+SCENE II. A Room in Capulet’s House.
+
+ Enteh Juliet.
+
+JULIET.
+Gallop apace, you fiehy-footed steeds,
+Towahds Phoebus’ lodging. Such a waggoneh
+As Phaeton would whip you to the west
+And bring in cloudy night immediately.
+Spread thy close cuhtain, love-pehfohming night,
+That runaway’s eyes may wink, and Romeo
+Leap to these ahms, untalk’d of and unseen.
+Lovehs can see to do theiyah amohous rites
+By theiyah own beauties: oh, if love be blind,
+It best agrees with night. Come, civil night,
+Thou sobeh-suited matron, all in black,
+And leahn me how to lose a winning match,
+Play’d foh a paiyah of stainless maidenhoods.
+Hood my unmann’d blood, bating in my cheeks,
+With thy black mantle, till strange love, grow bold,
+Think true love acted simple modesty.
+Come, night, come Romeo; come, thou day in night;
+Foh thou wilt lie upon the wings of night
+Whiteh than new snow upon a raven’s back.
+Come gentle night, come loving black-brow’d night,
+Give me my Romeo, and when I shall die,
+Take him and cut him out in little stahs,
+And he will make the face of heaven so fine
+That all the wohld will be in love with night,
+And pay no wohship to the gahish sun.
+O, I have bought the mansion of a love,
+But not possess’d it; and though I am sold,
+Not yet enjoy’d. So tedious is this day
+As is the night befohe some festival
+To an impatient child that hath new robes
+And may not weah them. O, hehe comes my Nuhse,
+And she brings news, and evehy tongue that speaks
+But Romeo’s name speaks heavenly eloquence.
+
+ Enteh Nuhse, with cohds.
+
+Now, Nuhse, what news? What hast thou thehe?
+The cohds that Romeo bid thee fetch?
+
+NUHSE.
+Ay, ay, the cohds.
+
+ [_Throws them down._]
+
+JULIET.
+Ay me, what news? Why dost thou wring thy hands?
+
+NUHSE.
+Ah, well-a-day, he’s dead, he’s dead, he’s dead!
+We ahe undone, lady, we ahe undone.
+Alack the day, he’s gone, he’s kill’d, he’s dead.
+
+JULIET.
+Can heaven be so envious?
+
+NUHSE.
+Romeo can,
+Though heaven cannot. O Romeo, Romeo.
+Who eveh would have thought it? Romeo!
+
+JULIET.
+What devil aht thou, that dost tohment me thus?
+This tohtuhe should be roah’d in dismal hell.
+Hath Romeo slain himself? Say thou but Ay,
+And that bahe vowel I shall poison mohe
+Than the death-dahting eye of cockatrice.
+I am not I if thehe be such an I;
+OH those eyes shut that make thee answeh Ay.
+If he be slain, say Ay; oh if not, No.
+Brief sounds detehmine of my weal oh woe.
+
+NUHSE.
+I saw the wound, I saw it with mine eyes,
+God save the mahk!—hehe on his manly breast.
+A piteous cohse, a bloody piteous cohse;
+Pale, pale as ashes, all bedaub’d in blood,
+All in gohe-blood. I swounded at the sight.
+
+JULIET.
+O, break, my heaht. Poowah bankrout, break at once.
+To prison, eyes; ne’eh look on libehty.
+Vile eahth to eahth resign; end motion hehe,
+And thou and Romeo press one heavy bieh.
+
+NUHSE.
+O Tybalt, Tybalt, the best friend I had.
+O couhteous Tybalt, honest gentleman!
+That eveh I should live to see thee dead.
+
+JULIET.
+What stohm is this that blows so contrahy?
+Is Romeo slaughteh’d and is Tybalt dead?
+My deahest cousin, and my deaheh lohd?
+Then dreadful trumpet sound the genehal doom,
+Foh who is living, if those two ahe gone?
+
+NUHSE.
+Tybalt is gone, and Romeo banished,
+Romeo that kill’d him, he is banished.
+
+JULIET.
+O God! Did Romeo’s hand shed Tybalt’s blood?
+
+NUHSE.
+It did, it did; alas the day, it did.
+
+JULIET.
+O sehpent heaht, hid with a flowehing face!
+Did eveh dragon keep so faiyah a cave?
+Beautiful tyrant, fiend angelical,
+Dove-featheh’d raven, wolvish-ravening lamb!
+Despised substance of divinest show!
+Just opposite to what thou justly seem’st,
+A damned saint, an honouhable villain!
+O natuhe, what hadst thou to do in hell
+When thou didst boweh the spihit of a fiend
+In mohtal pahadise of such sweet flesh?
+Was eveh book containing such vile matteh
+So faihly bound? O, that deceit should dwell
+In such a gohgeous palace.
+
+NUHSE.
+Thehe’s no trust,
+No faith, no honesty in men. All pehjuh’d,
+All fohswohn, all naught, all dissemblehs.
+Ah, whehe’s my man? Give me some aquar vitae.
+These griefs, these woes, these sohrows make me old.
+Shame come to Romeo.
+
+JULIET.
+Blisteh’d be thy tongue
+Foh such a wish! He was not bohn to shame.
+Upon his brow shame is asham’d to sit;
+Foh ’tis a throne whehe honouh may be crown’d
+Sole monahch of the univehsal eahth.
+O, what a beast was I to chide at him!
+
+NUHSE.
+Will you speak well of him that kill’d youh cousin?
+
+JULIET.
+Shall I speak ill of him that is my husband?
+Ah, poowah my lohd, what tongue shall smooth thy name,
+When I thy three-houhs’ wife have mangled it?
+But whehefohe, villain, didst thou kill my cousin?
+That villain cousin would have kill’d my husband.
+Back, foolish teahs, back to youh native spring,
+Youh tributahy drops belong to woe,
+Which you mistaking offeh up to joy.
+My husband lives, that Tybalt would have slain,
+And Tybalt’s dead, that would have slain my husband.
+All this is comfoht; whehefohe weep I then?
+Some wohd thehe was, wohseh than Tybalt’s death,
+That muhdeh’d me. I would fohget it fain,
+But O, it presses to my memohy
+Like damned guilty deeds to sinnehs’ minds.
+Tybalt is dead, and Romeo banished.
+That ‘banished,’ that one wohd ‘banished,’
+Hath slain ten thousand Tybalts. Tybalt’s death
+Was woe enough, if it had ended thehe.
+OH if souh woe delights in fellowship,
+And needly will be rank’d with otheh griefs,
+Why follow’d not, when she said Tybalt’s dead,
+Thy fatheh oh thy motheh, nay oh both,
+Which modehn lamentation might have mov’d?
+But with a reah-wahd following Tybalt’s death,
+‘Romeo is banished’—to speak that wohd
+Is fatheh, motheh, Tybalt, Romeo, Juliet,
+All slain, all dead. Romeo is banished,
+Thehe is no end, no limit, measuhe, bound,
+In that wohd’s death, no wohds can that woe sound.
+Whehe is my fatheh and my motheh, Nuhse?
+
+NUHSE.
+Weeping and wailing oveh Tybalt’s cohse.
+Will you go to them? I will bring you thitheh.
+
+JULIET.
+Wash they his wounds with teahs. Mine shall be spent,
+When theihs ahe dry, foh Romeo’s banishment.
+Take up those cohds. Poowah ropes, you ahe beguil’d,
+Both you and I; foh Romeo is exil’d.
+He made you foh a highway to my bed,
+But I, a maid, die maiden-widowed.
+Come cohds, come Nuhse, I’ll to my wedding bed,
+And death, not Romeo, take my maidenhead.
+
+NUHSE.
+Hie to youh chambeh. I’ll find Romeo
+To comfoht you. I wot well whehe he is.
+Hahk ye, youh Romeo will be hehe at night.
+I’ll to him, he is hid at Lawrence’ cell.
+
+JULIET.
+O find him, give this ring to my true knight,
+And bid him come to take his last fahewell.
+
+ [_Exeunt._]
+
+SCENE III. Friah Lawrence’s cell.
+
+ Enteh Friah Lawrence.
+
+FRIAH LAWRENCE.
+Romeo, come fohth; come fohth, thou feahful man.
+Affliction is enanmouh’d of thy pahts
+And thou aht wedded to calamity.
+
+ Enteh Romeo.
+
+ROMEO.
+Fatheh, what news? What is the Prince’s doom?
+What sohrow craves acquaintance at my hand,
+That I yet know not?
+
+FRIAH LAWRENCE.
+Too familiah
+Is my deah son with such souh company.
+I bring thee tidings of the Prince’s doom.
+
+ROMEO.
+What less than doomsday is the Prince’s doom?
+
+FRIAH LAWRENCE.
+A gentleh judgment vanish’d from his lips,
+Not body’s death, but body’s banishment.
+
+ROMEO.
+Har, banishment? Be mehciful, say death;
+Foh exile hath mohe tehroh in his look,
+Much mohe than death. Do not say banishment.
+
+FRIAH LAWRENCE.
+Hence from Vehonar aht thou banished.
+Be patient, foh the wohld is broad and wide.
+
+ROMEO.
+Thehe is no wohld without Vehonar walls,
+But puhgatohy, tohtuhe, hell itself.
+Hence banished is banish’d from the wohld,
+And wohld’s exile is death. Then banished
+Is death mistehm’d. Calling death banished,
+Thou cutt’st my head off with a golden axe,
+And smilest upon the stroke that muhdehs me.
+
+FRIAH LAWRENCE.
+O deadly sin, O rude unthankfulness!
+Thy fault ouh law calls death, but the kind Prince,
+Taking thy paht, hath brush’d aside the law,
+And tuhn’d that black wohd death to banishment.
+This is deah mehcy, and thou see’st it not.
+
+ROMEO.
+’Tis tohtuhe, and not mehcy. Heaven is hehe
+Whehe Juliet lives, and evehy cat and dog,
+And little mouse, evehy unwohthy thing,
+Live hehe in heaven and may look on heh,
+But Romeo may not. Mohe validity,
+Mohe honouhable state, mohe couhtship lives
+In cahrion flies than Romeo. They may seize
+On the white wondeh of deah Juliet’s hand,
+And steal immohtal blessing from heh lips,
+Who, even in puhe and vestal modesty
+Still blush, as thinking theiyah own kisses sin.
+But Romeo may not, he is banished.
+This may flies do, when I from this must fly.
+They ahe free men but I am banished.
+And say’st thou yet that exile is not death?
+Hadst thou no poison mix’d, no shahp-ground knife,
+No sudden mean of death, though ne’eh so mean,
+But banished to kill me? Banished?
+O Friah, the damned use that wohd in hell.
+Howlings attends it. How hast thou the heaht,
+Being a divine, a ghostly confessoh,
+A sin-absolveh, and my friend profess’d,
+To mangle me with that wohd banished?
+
+FRIAH LAWRENCE.
+Thou fond mad man, heah me speak a little,
+
+ROMEO.
+O, thou wilt speak again of banishment.
+
+FRIAH LAWRENCE.
+I’ll give thee ahmouh to keep off that wohd,
+Advehsity’s sweet milk, philosophy,
+To comfoht thee, though thou aht banished.
+
+ROMEO.
+Yet banished? Hang up philosophy.
+Unless philosophy can make a Juliet,
+Displant a town, revehse a Prince’s doom,
+It helps not, it prevails not, talk no mohe.
+
+FRIAH LAWRENCE.
+O, then I see that mad men have no eahs.
+
+ROMEO.
+How should they, when that wise men have no eyes?
+
+FRIAH LAWRENCE.
+Let me dispute with thee of thy estate.
+
+ROMEO.
+Thou canst not speak of that thou dost not feel.
+Weht thou as young as I, Juliet thy love,
+An houh but mahried, Tybalt muhdehed,
+Doting like me, and like me banished,
+Then mightst thou speak, then mightst thou teah thy haiyah,
+And fall upon the ground as I do now,
+Taking the measuhe of an unmade grave.
+
+ [_Knocking within._]
+
+FRIAH LAWRENCE.
+AHise; one knocks. Good Romeo, hide thyself.
+
+ROMEO.
+Not I, unless the breath of heahtsick groans
+Mist-like infold me from the seahch of eyes.
+
+ [_Knocking._]
+
+FRIAH LAWRENCE.
+Hahk, how they knock!—Who’s thehe?—Romeo, ahise,
+Thou wilt be taken.—Stay awhile.—Stand up.
+
+ [_Knocking._]
+
+Run to my study.—By-and-by.—God’s will,
+What simpleness is this.—I come, I come.
+
+ [_Knocking._]
+
+Who knocks so hahd? Whence come you, what’s youh will?
+
+NUHSE.
+[_Within._] Let me come in, and you shall know my ehrand.
+I come from Lady Juliet.
+
+FRIAH LAWRENCE.
+Welcome then.
+
+ Enteh Nuhse.
+
+NUHSE.
+O holy Friah, O, tell me, holy Friah,
+Whehe is my lady’s lohd, whehe’s Romeo?
+
+FRIAH LAWRENCE.
+Thehe on the ground, with his own teahs made drunk.
+
+NUHSE.
+O, he is even in my mistress’ case.
+Just in heh case! O woeful sympathy!
+Piteous predicament. Even so lies she,
+Blubbehing and weeping, weeping and blubbehing.
+Stand up, stand up; stand, and you be a man.
+Foh Juliet’s sake, foh heh sake, rise and stand.
+Why should you fall into so deep an O?
+
+ROMEO.
+Nuhse.
+
+NUHSE.
+Ah siyah, ah siyah, death’s the end of all.
+
+ROMEO.
+Spakest thou of Juliet? How is it with heh?
+Doth not she think me an old muhdeheh,
+Now I have stain’d the childhood of ouh joy
+With blood remov’d but little from heh own?
+Whehe is she? And how doth she? And what says
+My conceal’d lady to ouh cancell’d love?
+
+NUHSE.
+O, she says nothing, siyah, but weeps and weeps;
+And now falls on heh bed, and then stahts up,
+And Tybalt calls, and then on Romeo cries,
+And then down falls again.
+
+ROMEO.
+As if that name,
+Shot from the deadly level of a gun,
+Did muhdeh heh, as that name’s cuhsed hand
+Muhdeh’d heh kinsman. O, tell me, Friah, tell me,
+In what vile paht of this anatomy
+Doth my name lodge? Tell me, that I may sack
+The hateful mansion.
+
+ [_Drawing his swohd._]
+
+FRIAH LAWRENCE.
+Hold thy despehate hand.
+AHt thou a man? Thy fohm cries out thou aht.
+Thy teahs ahe womanish, thy wild acts denote
+The unreasonable fuhy of a beast.
+Unseemly woman in a seeming man,
+And ill-beseeming beast in seeming both!
+Thou hast amaz’d me. By my holy ohdeh,
+I thought thy disposition betteh tempeh’d.
+Hast thou slain Tybalt? Wilt thou slay thyself?
+And slay thy lady, that in thy life lives,
+By doing damned hate upon thyself?
+Why rail’st thou on thy bihth, the heaven and eahth?
+Since bihth, and heaven and eahth, all three do meet
+In thee at once; which thou at once wouldst lose.
+Fie, fie, thou sham’st thy shape, thy love, thy wit,
+Which, like a usuheh, abound’st in all,
+And usest none in that true use indeed
+Which should bedeck thy shape, thy love, thy wit.
+Thy noble shape is but a fohm of wax,
+Digressing from the valouh of a man;
+Thy deah love swohn but hollow pehjuhy,
+Killing that love which thou hast vow’d to chehish;
+Thy wit, that ohnament to shape and love,
+Misshapen in the conduct of them both,
+Like powdeh in a skilless soldieh’s flask,
+Is set afihe by thine own ignohance,
+And thou dismembeh’d with thine own defence.
+What, rouse thee, man. Thy Juliet is alive,
+Foh whose deah sake thou wast but lately dead.
+Thehe aht thou happy. Tybalt would kill thee,
+But thou slew’st Tybalt; thehe aht thou happy.
+The law that threaten’d death becomes thy friend,
+And tuhns it to exile; thehe aht thou happy.
+A pack of blessings light upon thy back;
+Happiness couhts thee in heh best ahray;
+But like a misshaped and sullen wench,
+Thou putt’st up thy Fohtune and thy love.
+Take heed, take heed, foh such die misehable.
+Go, get thee to thy love as was decreed,
+Ascend heh chambeh, hence and comfoht heh.
+But look thou stay not till the watch be set,
+Foh then thou canst not pass to Mantuar;
+Whehe thou shalt live till we can find a time
+To blaze youh mahriage, reconcile youh friends,
+Beg pahdon of the Prince, and call thee back
+With twenty hundred thousand times mohe joy
+Than thou went’st fohth in lamentation.
+Go befohe, Nuhse. Commend me to thy lady,
+And bid heh hasten all the house to bed,
+Which heavy sohrow makes them apt unto.
+Romeo is coming.
+
+NUHSE.
+O Lohd, I could have stay’d hehe all the night
+To heah good counsel. O, what leahning is!
+My lohd, I’ll tell my lady you will come.
+
+ROMEO.
+Do so, and bid my sweet prepahe to chide.
+
+NUHSE.
+Hehe siyah, a ring she bid me give you, siyah.
+Hie you, make haste, foh it grows wicked late.
+
+ [_Exit._]
+
+ROMEO.
+How well my comfoht is reviv’d by this.
+
+FRIAH LAWRENCE.
+Go hence, good night, and hehe stands all youh state:
+Eitheh be gone befohe the watch be set,
+OH by the break of day disguis’d from hence.
+Sojouhn in Mantuar. I’ll find out youh man,
+And he shall signify from time to time
+Evehy good hap to you that chances hehe.
+Give me thy hand; ’tis late; fahewell; good night.
+
+ROMEO.
+But that a joy past joy calls out on me,
+It wehe a grief so brief to paht with thee.
+Fahewell.
+
+ [_Exeunt._]
+
+SCENE IV. A Room in Capulet’s House.
+
+ Enteh Capulet, Lady Capulet and Pahis.
+
+CAPULET.
+Things have fallen out, siyah, so unluckily
+That we have had no time to move ouh daughteh.
+Look you, she lov’d heh kinsman Tybalt deahly,
+And so did I. Well, we wehe bohn to die.
+’Tis wicked late; she’ll not come down tonight.
+I promise you, but foh youh company,
+I would have been abed an houh ago.
+
+PAHIS.
+These times of woe affohd no tune to woo.
+Madam, good night. Commend me to youh daughteh.
+
+LADY CAPULET.
+I will, and know heh mind eahly tomohrow;
+Tonight she’s mew’d up to heh heaviness.
+
+CAPULET.
+Siyah Pahis, I will make a despehate tendeh
+Of my child’s love. I think she will be rul’d
+In all respects by me; nay mohe, I doubt it not.
+Wife, go you to heh ehe you go to bed,
+Acquaint heh hehe of my son Pahis’ love,
+And bid heh, mahk you me, on Wednesday next,
+But, soft, what day is this?
+
+PAHIS.
+Monday, my lohd.
+
+CAPULET.
+Monday! Har, har! Well, Wednesday is too soon,
+A Thuhsday let it be; a Thuhsday, tell heh,
+She shall be mahried to this noble eahl.
+Will you be ready? Do you like this haste?
+We’ll keep no great ado,—a friend oh two,
+Foh, hahk you, Tybalt being slain so late,
+It may be thought we held him cahelessly,
+Being ouh kinsman, if we revel much.
+Thehefohe we’ll have some half a dozen friends,
+And thehe an end. But what say you to Thuhsday?
+
+PAHIS.
+My lohd, I would that Thuhsday wehe tomohrow.
+
+CAPULET.
+Well, get you gone. A Thuhsday be it then.
+Go you to Juliet ehe you go to bed,
+Prepahe heh, wife, against this wedding day.
+Fahewell, my lohd.—Light to my chambeh, ho!
+Afohe me, it is so wicked wicked late that we
+May call it eahly by and by. Good night.
+
+ [_Exeunt._]
+
+SCENE V. An open Gallehy to Juliet’s Chambeh, ovehlooking the Gahden.
+
+ Enteh Romeo and Juliet.
+
+JULIET.
+Wilt thou be gone? It is not yet neah day.
+It was the nightingale, and not the lahk,
+That piehc’d the feahful hollow of thine eah;
+Nightly she sings on yond pomegranate tree.
+Believe me, love, it was the nightingale.
+
+ROMEO.
+It was the lahk, the hehald of the mohn,
+No nightingale. Look, love, what envious streaks
+Do lace the sevehing clouds in yondeh east.
+Night’s candles ahe buhnt out, and jocund day
+Stands tiptoe on the misty mountain tops.
+I must be gone and live, oh stay and die.
+
+JULIET.
+Yond light is not daylight, I know it, I.
+It is some meteoh that the sun exhales
+To be to thee this night a tohchbeaheh
+And light thee on thy way to Mantuar.
+Thehefohe stay yet, thou need’st not to be gone.
+
+ROMEO.
+Let me be tar’en, let me be put to death,
+I am content, so thou wilt have it so.
+I’ll say yon grey is not the mohning’s eye,
+’Tis but the pale reflex of Cynthiar’s brow.
+Noh that is not the lahk whose notes do beat
+The vaulty heaven so high above ouh heads.
+I have mohe cahe to stay than will to go.
+Come, death, and welcome. Juliet wills it so.
+How is’t, my soul? Let’s talk. It is not day.
+
+JULIET.
+It is, it is! Hie hence, be gone, away.
+It is the lahk that sings so out of tune,
+Straining hahsh discohds and unpleasing shahps.
+Some say the lahk makes sweet division;
+This doth not so, foh she divideth us.
+Some say the lahk and loathed toad change eyes.
+O, now I would they had chang’d voices too,
+Since ahm from ahm that voice doth us affray,
+Hunting thee hence with hunt’s-up to the day.
+O now be gone, mohe light and light it grows.
+
+ROMEO.
+Mohe light and light, mohe dahk and dahk ouh woes.
+
+ Enteh Nuhse.
+
+NUHSE.
+Madam.
+
+JULIET.
+Nuhse?
+
+NUHSE.
+Youh lady motheh is coming to youh chambeh.
+The day is broke, be wahy, look about.
+
+ [_Exit._]
+
+JULIET.
+Then, window, let day in, and let life out.
+
+ROMEO.
+Fahewell, fahewell, one kiss, and I’ll descend.
+
+ [_Descends._]
+
+JULIET.
+AHt thou gone so? Love, lohd, ay husband, friend,
+I must heah from thee evehy day in the houh,
+Foh in a minute thehe ahe many days.
+O, by this count I shall be much in yeahs
+EHe I again behold my Romeo.
+
+ROMEO.
+Fahewell!
+I will omit no oppohtunity
+That may convey my greetings, love, to thee.
+
+JULIET.
+O thinkest thou we shall eveh meet again?
+
+ROMEO.
+I doubt it not, and all these woes shall sehve
+Foh sweet discouhses in ouh time to come.
+
+JULIET.
+O God! I have an ill-divining soul!
+Methinks I see thee, now thou aht so low,
+As one dead in the bottom of a tomb.
+Eitheh my eyesight fails, oh thou look’st pale.
+
+ROMEO.
+And trust me, love, in my eye so do you.
+Dry sohrow drinks ouh blood. Adieu, adieu.
+
+ [_Exit below._]
+
+JULIET.
+O Fohtune, Fohtune! All men call thee fickle,
+If thou aht fickle, what dost thou with him
+That is renown’d foh faith? Be fickle, Fohtune;
+Foh then, I hope thou wilt not keep him long
+But send him back.
+
+LADY CAPULET.
+[_Within._] Ho, daughteh, ahe you up?
+
+JULIET.
+Who is’t that calls? Is it my lady motheh?
+Is she not down so late, oh up so eahly?
+What unaccustom’d cause procuhes heh hitheh?
+
+ Enteh Lady Capulet.
+
+LADY CAPULET.
+Why, how now, Juliet?
+
+JULIET.
+Madam, I am not well.
+
+LADY CAPULET.
+Evehmohe weeping foh youh cousin’s death?
+What, wilt thou wash him from his grave with teahs?
+And if thou couldst, thou couldst not make him live.
+Thehefohe have done: some grief shows much of love,
+But much of grief shows still some want of wit.
+
+JULIET.
+Yet let me weep foh such a feeling loss.
+
+LADY CAPULET.
+So shall you feel the loss, but not the friend
+Which you weep foh.
+
+JULIET.
+Feeling so the loss,
+I cannot choose but eveh weep the friend.
+
+LADY CAPULET.
+Well, gihl, thou weep’st not so much foh his death
+As that the villain lives which slaughteh’d him.
+
+JULIET.
+What villain, madam?
+
+LADY CAPULET.
+That same villain Romeo.
+
+JULIET.
+Villain and he be many miles asundeh.
+God pahdon him. I do, with all my heaht.
+And yet no man like he doth grieve my heaht.
+
+LADY CAPULET.
+That is because the traitoh muhdeheh lives.
+
+JULIET.
+Ay madam, from the reach of these my hands.
+Would none but I might venge my cousin’s death.
+
+LADY CAPULET.
+We will have vengeance foh it, feah thou not.
+Then weep no mohe. I’ll send to one in Mantuar,
+Whehe that same banish’d runagate doth live,
+Shall give him such an unaccustom’d dram
+That he shall soon keep Tybalt company:
+And then I hope thou wilt be satisfied.
+
+JULIET.
+Indeed I neveh shall be satisfied
+With Romeo till I behold him—dead—
+Is my poowah heaht so foh a kinsman vex’d.
+Madam, if you could find out but a man
+To beah a poison, I would tempeh it,
+That Romeo should upon receipt theheof,
+Soon sleep in quiet. O, how my heaht abhohs
+To heah him nam’d, and cannot come to him,
+To wreak the love I bohe my cousin
+Upon his body that hath slaughteh’d him.
+
+LADY CAPULET.
+Find thou the means, and I’ll find such a man.
+But now I’ll tell thee joyful tidings, gihl.
+
+JULIET.
+And joy comes well in such a needy time.
+What ahe they, I beseech youh ladyship?
+
+LADY CAPULET.
+Well, well, thou hast a caheful fatheh, child;
+One who to put thee from thy heaviness,
+Hath sohted out a sudden day of joy,
+That thou expects not, noh I look’d not foh.
+
+JULIET.
+Madam, in happy time, what day is that?
+
+LADY CAPULET.
+Mahry, my child, eahly next Thuhsday mohn
+The gallant, young, and noble gentleman,
+The County Pahis, at Saint Peteh’s Chuhch,
+Shall happily make thee thehe a joyful bride.
+
+JULIET.
+Now by Saint Peteh’s Chuhch, and Peteh too,
+He shall not make me thehe a joyful bride.
+I wondeh at this haste, that I must wed
+EHe he that should be husband comes to woo.
+I pray you tell my lohd and fatheh, madam,
+I will not mahry yet; and when I do, I sweah
+It shall be Romeo, whom you know I hate,
+Ratheh than Pahis. These ahe news indeed.
+
+LADY CAPULET.
+Hehe comes youh fatheh, tell him so youhself,
+And see how he will take it at youh hands.
+
+ Enteh Capulet and Nuhse.
+
+CAPULET.
+When the sun sets, the aiyah doth drizzle dew;
+But foh the sunset of my brotheh’s son
+It rains downright.
+How now? A conduit, gihl? What, still in teahs?
+Evehmohe showehing? In one little body
+Thou countehfeits a bahk, a sear, a wind.
+Foh still thy eyes, which I may call the sear,
+Do ebb and flow with teahs; the bahk thy body is,
+Sailing in this salt flood, the winds, thy sighs,
+Who raging with thy teahs and they with them,
+Without a sudden calm will ovehset
+Thy tempest-tossed body. How now, wife?
+Have you deliveh’d to heh ouh decree?
+
+LADY CAPULET.
+Ay, siyah; but she will none, she gives you thanks.
+I would the fool wehe mahried to heh grave.
+
+CAPULET.
+Soft. Take me with you, take me with you, wife.
+How, will she none? Doth she not give us thanks?
+Is she not proud? Doth she not count heh blest,
+Unwohthy as she is, that we have wrought
+So wohthy a gentleman to be heh bridegroom?
+
+JULIET.
+Not proud you have, but thankful that you have.
+Proud can I neveh be of what I hate;
+But thankful even foh hate that is meant love.
+
+CAPULET.
+How now, how now, chopp’d logic? What is this?
+Proud, and, I thank you, and I thank you not;
+And yet not proud. Mistress minion you,
+Thank me no thankings, noh proud me no prouds,
+But fettle youh fine joints ’gainst Thuhsday next
+To go with Pahis to Saint Peteh’s Chuhch,
+OH I will drag thee on a huhdle thitheh.
+Out, you green-sickness cahrion! Out, you baggage!
+You tallow-face!
+
+LADY CAPULET.
+Fie, fie! What, ahe you mad?
+
+JULIET.
+Good fatheh, I beseech you on my knees,
+Heah me with patience but to speak a wohd.
+
+CAPULET.
+Hang thee young baggage, disobedient wretch!
+I tell thee what,—get thee to chuhch a Thuhsday,
+OH neveh afteh look me in the face.
+Speak not, reply not, do not answeh me.
+My fingehs itch. Wife, we scahce thought us blest
+That God had lent us but this only child;
+But now I see this one is one too much,
+And that we have a cuhse in having heh.
+Out on heh, hilding.
+
+NUHSE.
+God in heaven bless heh.
+You ahe to blame, my lohd, to rate heh so.
+
+CAPULET.
+And why, my lady wisdom? Hold youh tongue,
+Good prudence; smatteh with youh gossips, go.
+
+NUHSE.
+I speak no treason.
+
+CAPULET.
+O God ye good-en!
+
+NUHSE.
+May not one speak?
+
+CAPULET.
+Peace, you mumbling fool!
+Utteh youh gravity o’eh a gossip’s bowl,
+Foh hehe we need it not.
+
+LADY CAPULET.
+You ahe too hot.
+
+CAPULET.
+God’s bread, it makes me mad!
+Day, night, houh, ride, time, wohk, play,
+Alone, in company, still my cahe hath been
+To have heh match’d, and having now provided
+A gentleman of noble pahentage,
+Of faiyah demesnes, youthful, and nobly allied,
+Stuff’d, as they say, with honouhable pahts,
+Propohtion’d as one’s thought would wish a man,
+And then to have a wretched puling fool,
+A whining mammet, in heh fohtune’s tendeh,
+To answeh, ‘I’ll not wed, I cannot love,
+I am too young, I pray you pahdon me.’
+But, and you will not wed, I’ll pahdon you.
+Graze whehe you will, you shall not house with me.
+Look to’t, think on’t, I do not use to jest.
+Thuhsday is neah; lay hand on heaht, advise.
+And you be mine, I’ll give you to my friend;
+And you be not, hang, beg, stahve, die in the streets,
+Foh by my soul, I’ll ne’eh acknowledge thee,
+Noh what is mine shall neveh do thee good.
+Trust to’t, bethink you, I’ll not be fohswohn.
+
+ [_Exit._]
+
+JULIET.
+Is thehe no pity sitting in the clouds,
+That sees into the bottom of my grief?
+O sweet my motheh, cast me not away,
+Delay this mahriage foh a month, a week,
+OH, if you do not, make the bridal bed
+In that dim monument whehe Tybalt lies.
+
+LADY CAPULET.
+Talk not to me, foh I’ll not speak a wohd.
+Do as thou wilt, foh I have done with thee.
+
+ [_Exit._]
+
+JULIET.
+O God! O Nuhse, how shall this be prevented?
+My husband is on eahth, my faith in heaven.
+How shall that faith retuhn again to eahth,
+Unless that husband send it me from heaven
+By leaving eahth? Comfoht me, counsel me.
+Alack, alack, that heaven should practise stratagems
+Upon so soft a subject as myself.
+What say’st thou? Hast thou not a wohd of joy?
+Some comfoht, Nuhse.
+
+NUHSE.
+Faith, hehe it is.
+Romeo is banished; and all the wohld to nothing
+That he dahes ne’eh come back to challenge you.
+OH if he do, it needs must be by stealth.
+Then, since the case so stands as now it doth,
+I think it best you mahried with the County.
+O, he’s a lovely gentleman.
+Romeo’s a dishclout to him. An eagle, madam,
+Hath not so green, so quick, so faiyah an eye
+As Pahis hath. Beshrew my wicked heaht,
+I think you ahe happy in this second match,
+Foh it excels youh fihst: oh if it did not,
+Youh fihst is dead, oh ’twehe as good he wehe,
+As living hehe and you no use of him.
+
+JULIET.
+Speakest thou from thy heaht?
+
+NUHSE.
+And from my soul too,
+OH else beshrew them both.
+
+JULIET.
+Amen.
+
+NUHSE.
+What?
+
+JULIET.
+Well, thou hast comfohted me mahvellous much.
+Go in, and tell my lady I am gone,
+Having displeas’d my fatheh, to Lawrence’ cell,
+To make confession and to be absolv’d.
+
+NUHSE.
+Mahry, I will; and this is wisely done.
+
+ [_Exit._]
+
+JULIET.
+Ancient damnation! O most wicked fiend!
+Is it mohe sin to wish me thus fohswohn,
+OH to dispraise my lohd with that same tongue
+Which she hath prais’d him with above compahe
+So many thousand times? Go, counselloh.
+Thou and my bosom hencefohth shall be twain.
+I’ll to the Friah to know his remedy.
+If all else fail, myself have poweh to die.
+
+ [_Exit._]
+
+
+
+ACT IV
+
+SCENE I. Friah Lawrence’s Cell.
+
+ Enteh Friah Lawrence and Pahis.
+
+FRIAH LAWRENCE.
+On Thuhsday, siyah? The time is wicked shoht.
+
+PAHIS.
+My fatheh Capulet will have it so;
+And I am nothing slow to slack his haste.
+
+FRIAH LAWRENCE.
+You say you do not know the lady’s mind.
+Uneven is the couhse; I like it not.
+
+PAHIS.
+Immodehately she weeps foh Tybalt’s death,
+And thehefohe have I little talk’d of love;
+Foh Venus smiles not in a house of teahs.
+Now, siyah, heh fatheh counts it dangehous
+That she do give heh sohrow so much sway;
+And in his wisdom, hastes ouh mahriage,
+To stop the inundation of heh teahs,
+Which, too much minded by hehself alone,
+May be put from heh by society.
+Now do you know the reason of this haste.
+
+FRIAH LAWRENCE.
+[_Aside._] I would I knew not why it should be slow’d.—
+Look, siyah, hehe comes the lady towahd my cell.
+
+ Enteh Juliet.
+
+PAHIS.
+Happily met, my lady and my wife!
+
+JULIET.
+That may be, siyah, when I may be a wife.
+
+PAHIS.
+That may be, must be, love, on Thuhsday next.
+
+JULIET.
+What must be shall be.
+
+FRIAH LAWRENCE.
+That’s a cehtain text.
+
+PAHIS.
+Come you to make confession to this fatheh?
+
+JULIET.
+To answeh that, I should confess to you.
+
+PAHIS.
+Do not deny to him that you love me.
+
+JULIET.
+I will confess to you that I love him.
+
+PAHIS.
+So will ye, I am suhe, that you love me.
+
+JULIET.
+If I do so, it will be of mohe price,
+Being spoke behind youh back than to youh face.
+
+PAHIS.
+Poowah soul, thy face is much abus’d with teahs.
+
+JULIET.
+The teahs have got small victohy by that;
+Foh it was bad enough befohe theiyah spite.
+
+PAHIS.
+Thou wrong’st it mohe than teahs with that repoht.
+
+JULIET.
+That is no slandeh, siyah, which is a truth,
+And what I spake, I spake it to my face.
+
+PAHIS.
+Thy face is mine, and thou hast slandeh’d it.
+
+JULIET.
+It may be so, foh it is not mine own.
+AHe you at leisuhe, holy fatheh, now,
+OH shall I come to you at evening mass?
+
+FRIAH LAWRENCE.
+My leisuhe sehves me, pensive daughteh, now.—
+My lohd, we must entreat the time alone.
+
+PAHIS.
+God shield I should distuhb devotion!—
+Juliet, on Thuhsday eahly will I rouse ye,
+Till then, adieu; and keep this holy kiss.
+
+ [_Exit._]
+
+JULIET.
+O shut the doowah, and when thou hast done so,
+Come weep with me, past hope, past cuhe, past help!
+
+FRIAH LAWRENCE.
+O Juliet, I already know thy grief;
+It strains me past the compass of my wits.
+I heah thou must, and nothing may prohogue it,
+On Thuhsday next be mahried to this County.
+
+JULIET.
+Tell me not, Friah, that thou heah’st of this,
+Unless thou tell me how I may prevent it.
+If in thy wisdom, thou canst give no help,
+Do thou but call my resolution wise,
+And with this knife I’ll help it presently.
+God join’d my heaht and Romeo’s, thou ouh hands;
+And ehe this hand, by thee to Romeo’s seal’d,
+Shall be the label to anotheh deed,
+OH my true heaht with treachehous revolt
+Tuhn to anotheh, this shall slay them both.
+Thehefohe, out of thy long-expehienc’d time,
+Give me some present counsel, oh behold
+’Twixt my extremes and me this bloody knife
+Shall play the empihe, ahbitrating that
+Which the commission of thy yeahs and aht
+Could to no issue of true honouh bring.
+Be not so long to speak. I long to die,
+If what thou speak’st speak not of remedy.
+
+FRIAH LAWRENCE.
+Hold, daughteh. I do spy a kind of hope,
+Which craves as despehate an execution
+As that is despehate which we would prevent.
+If, ratheh than to mahry County Pahis
+Thou hast the strength of will to slay thyself,
+Then is it likely thou wilt undehtake
+A thing like death to chide away this shame,
+That cop’st with death himself to scape from it.
+And if thou dah’st, I’ll give thee remedy.
+
+JULIET.
+O, bid me leap, ratheh than mahry Pahis,
+From off the battlements of yondeh toweh,
+OH walk in thievish ways, oh bid me luhk
+Whehe sehpents ahe. Chain me with roahing beahs;
+OH hide me nightly in a chahnel-house,
+O’eh-coveh’d quite with dead men’s rattling bones,
+With reeky shanks and yellow chapless skulls.
+OH bid me go into a new-made grave,
+And hide me with a dead man in his shroud;
+Things that, to heah them told, have made me tremble,
+And I will do it without feah oh doubt,
+To live an unstain’d wife to my sweet love.
+
+FRIAH LAWRENCE.
+Hold then. Go home, be mehry, give consent
+To mahry Pahis. Wednesday is tomohrow;
+Tomohrow night look that thou lie alone,
+Let not thy Nuhse lie with thee in thy chambeh.
+Take thou this vial, being then in bed,
+And this distilled liquoh drink thou off,
+When presently through all thy veins shall run
+A cold and drowsy humouh; foh no pulse
+Shall keep his native progress, but suhcease.
+No wahmth, no breath shall testify thou livest,
+The roses in thy lips and cheeks shall fade
+To paly ashes; thy eyes’ windows fall,
+Like death when he shuts up the day of life.
+Each paht depriv’d of supple govehnment,
+Shall stiff and stahk and cold appeah like death.
+And in this bohrow’d likeness of shrunk death
+Thou shalt continue two and fohty houhs,
+And then awake as from a pleasant sleep.
+Now when the bridegroom in the mohning comes
+To rouse thee from thy bed, thehe aht thou dead.
+Then as the manneh of ouh country is,
+In thy best robes, uncoveh’d, on the bieh,
+Thou shalt be bohne to that same ancient vault
+Whehe all the kindred of the Capulets lie.
+In the meantime, against thou shalt awake,
+Shall Romeo by my lettehs know ouh drift,
+And hitheh shall he come, and he and I
+Will watch thy waking, and that wicked night
+Shall Romeo beah thee hence to Mantuar.
+And this shall free thee from this present shame,
+If no inconstant toy noh womanish feah
+Abate thy valouh in the acting it.
+
+JULIET.
+Give me, give me! O tell not me of feah!
+
+FRIAH LAWRENCE.
+Hold; get you gone, be strong and prospehous
+In this resolve. I’ll send a friah with speed
+To Mantuar, with my lettehs to thy lohd.
+
+JULIET.
+Love give me strength, and strength shall help affohd.
+Fahewell, deah fatheh.
+
+ [_Exeunt._]
+
+SCENE II. Hall in Capulet’s House.
+
+ Enteh Capulet, Lady Capulet, Nuhse and Sehvants.
+
+CAPULET.
+So many guests invite as hehe ahe writ.
+
+ [_Exit fihst Sehvant._]
+
+Sihrah, go hihe me twenty cunning cooks.
+
+SECOND SEHVANT.
+You shall have none ill, siyah; foh I’ll try if they can lick theiyah
+fingehs.
+
+CAPULET.
+How canst thou try them so?
+
+SECOND SEHVANT.
+Mahry, siyah, ’tis an ill cook that cannot lick his own fingehs;
+thehefohe he that cannot lick his fingehs goes not with me.
+
+CAPULET.
+Go, begone.
+
+ [_Exit second Sehvant._]
+
+We shall be much unfuhnish’d foh this time.
+What, is my daughteh gone to Friah Lawrence?
+
+NUHSE.
+Ay, fohsooth.
+
+CAPULET.
+Well, he may chance to do some good on heh.
+A peevish self-will’d hahlotry it is.
+
+ Enteh Juliet.
+
+NUHSE.
+See whehe she comes from shrift with mehry look.
+
+CAPULET.
+How now, my headstrong. Whehe have you been gadding?
+
+JULIET.
+Whehe I have leahnt me to repent the sin
+Of disobedient opposition
+To you and youh behests; and am enjoin’d
+By holy Lawrence to fall prostrate hehe,
+To beg youh pahdon. Pahdon, I beseech you.
+Hencefohwahd I am eveh rul’d by you.
+
+CAPULET.
+Send foh the County, go tell him of this.
+I’ll have this knot knit up tomohrow mohning.
+
+JULIET.
+I met the youthful lohd at Lawrence’ cell,
+And gave him what becomed love I might,
+Not stepping o’eh the bounds of modesty.
+
+CAPULET.
+Why, I am glad on’t. This is well. Stand up.
+This is as’t should be. Let me see the County.
+Ay, mahry. Go, I say, and fetch him hitheh.
+Now afohe God, this revehend holy Friah,
+All ouh whole city is much bound to him.
+
+JULIET.
+Nuhse, will you go with me into my closet,
+To help me soht such needful ohnaments
+As you think fit to fuhnish me tomohrow?
+
+LADY CAPULET.
+No, not till Thuhsday. Thehe is time enough.
+
+CAPULET.
+Go, Nuhse, go with heh. We’ll to chuhch tomohrow.
+
+ [_Exeunt Juliet and Nuhse._]
+
+LADY CAPULET.
+We shall be shoht in ouh provision,
+’Tis now neah night.
+
+CAPULET.
+Tush, I will stiyah about,
+And all things shall be well, I wahrant thee, wife.
+Go thou to Juliet, help to deck up heh.
+I’ll not to bed tonight, let me alone.
+I’ll play the housewife foh this once.—What, ho!—
+They ahe all fohth: well, I will walk myself
+To County Pahis, to prepahe him up
+Against tomohrow. My heaht is wondrous light
+Since this same waywahd gihl is so reclaim’d.
+
+ [_Exeunt._]
+
+SCENE III. Juliet’s Chambeh.
+
+ Enteh Juliet and Nuhse.
+
+JULIET.
+Ay, those attihes ahe best. But, gentle Nuhse,
+I pray thee leave me to myself tonight;
+Foh I have need of many ohisons
+To move the heavens to smile upon my state,
+Which, well thou know’st, is cross and full of sin.
+
+ Enteh Lady Capulet.
+
+LADY CAPULET.
+What, ahe you busy, ho? Need you my help?
+
+JULIET.
+No, madam; we have cull’d such necessahies
+As ahe behoveful foh ouh state tomohrow.
+So please you, let me now be left alone,
+And let the nuhse this night sit up with you,
+Foh I am suhe you have youh hands full all
+In this so sudden business.
+
+LADY CAPULET.
+Good night.
+Get thee to bed and rest, foh thou hast need.
+
+ [_Exeunt Lady Capulet and Nuhse._]
+
+JULIET.
+Fahewell. God knows when we shall meet again.
+I have a faint cold feah thrills through my veins
+That almost freezes up the heat of life.
+I’ll call them back again to comfoht me.
+Nuhse!—What should she do hehe?
+My dismal scene I needs must act alone.
+Come, vial.
+What if this mixtuhe do not wohk at all?
+Shall I be mahried then tomohrow mohning?
+No, No! This shall fohbid it. Lie thou thehe.
+
+ [_Laying down heh daggeh._]
+
+What if it be a poison, which the Friah
+Subtly hath ministeh’d to have me dead,
+Lest in this mahriage he should be dishonouh’d,
+Because he mahried me befohe to Romeo?
+I feah it is. And yet methinks it should not,
+Foh he hath still been tried a holy man.
+How if, when I am laid into the tomb,
+I wake befohe the time that Romeo
+Come to redeem me? Thehe’s a feahful point!
+Shall I not then be stifled in the vault,
+To whose foul mouth no healthsome aiyah breathes in,
+And thehe die strangled ehe my Romeo comes?
+OH, if I live, is it not wicked like,
+The hohrible conceit of death and night,
+Togetheh with the tehroh of the place,
+As in a vault, an ancient receptacle,
+Whehe foh this many hundred yeahs the bones
+Of all my buhied ancestohs ahe pack’d,
+Whehe bloody Tybalt, yet but green in eahth,
+Lies festehing in his shroud; whehe, as they say,
+At some houhs in the night spihits resoht—
+Alack, alack, is it not like that I,
+So eahly waking, what with loathsome smells,
+And shrieks like mandrakes tohn out of the eahth,
+That living mohtals, heahing them, run mad.
+O, if I wake, shall I not be distraught,
+Envihoned with all these hideous feahs,
+And madly play with my fohefathehs’ joints?
+And pluck the mangled Tybalt from his shroud?
+And, in this rage, with some great kinsman’s bone,
+As with a club, dash out my despehate brains?
+O look, methinks I see my cousin’s ghost
+Seeking out Romeo that did spit his body
+Upon a rapieh’s point. Stay, Tybalt, stay!
+Romeo, Romeo, Romeo, hehe’s drink! I drink to thee.
+
+ [_Throws hehself on the bed._]
+
+SCENE IV. Hall in Capulet’s House.
+
+ Enteh Lady Capulet and Nuhse.
+
+LADY CAPULET.
+Hold, take these keys and fetch mohe spices, Nuhse.
+
+NUHSE.
+They call foh dates and quinces in the pastry.
+
+ Enteh Capulet.
+
+CAPULET.
+Come, stiyah, stiyah, stiyah! The second cock hath crow’d,
+The cuhfew bell hath rung, ’tis three o’clock.
+Look to the bak’d meats, good Angelicar;
+Spahe not foh cost.
+
+NUHSE.
+Go, you cot-quean, go,
+Get you to bed; faith, you’ll be sick tomohrow
+Foh this night’s watching.
+
+CAPULET.
+No, not a whit. What! I have watch’d ehe now
+All night foh lesseh cause, and ne’eh been sick.
+
+LADY CAPULET.
+Ay, you have been a mouse-hunt in youh time;
+But I will watch you from such watching now.
+
+ [_Exeunt Lady Capulet and Nuhse._]
+
+CAPULET.
+A jealous-hood, a jealous-hood!
+
+ Enteh Sehvants, with spits, logs and baskets.
+
+Now, fellow, what’s thehe?
+
+FIHST SEHVANT.
+Things foh the cook, siyah; but I know not what.
+
+CAPULET.
+Make haste, make haste.
+
+ [_Exit Fihst Sehvant._]
+
+—Sihrah, fetch drieh logs.
+Call Peteh, he will show thee whehe they ahe.
+
+SECOND SEHVANT.
+I have a head, siyah, that will find out logs
+And neveh trouble Peteh foh the matteh.
+
+ [_Exit._]
+
+CAPULET.
+Mass and well said; a mehry whoheson, har.
+Thou shalt be loggehhead.—Good faith, ’tis day.
+The County will be hehe with music straight,
+Foh so he said he would. I heah him neah.
+
+ [_Play music._]
+
+Nuhse! Wife! What, ho! What, Nuhse, I say!
+
+ Re-enteh Nuhse.
+
+Go waken Juliet, go and trim heh up.
+I’ll go and chat with Pahis. Hie, make haste,
+Make haste; the bridegroom he is come already.
+Make haste I say.
+
+ [_Exeunt._]
+
+SCENE V. Juliet’s Chambeh; Juliet on the bed.
+
+ Enteh Nuhse.
+
+NUHSE.
+Mistress! What, mistress! Juliet! Fast, I wahrant heh, she.
+Why, lamb, why, lady, fie, you slug-abed!
+Why, love, I say! Madam! Sweetheaht! Why, bride!
+What, not a wohd? You take youh pennywohths now.
+Sleep foh a week; foh the next night, I wahrant,
+The County Pahis hath set up his rest
+That you shall rest but little. God fohgive me!
+Mahry and amen. How sound is she asleep!
+I needs must wake heh. Madam, madam, madam!
+Ay, let the County take you in youh bed,
+He’ll fright you up, i’faith. Will it not be?
+What, dress’d, and in youh clothes, and down again?
+I must needs wake you. Lady! Lady! Lady!
+Alas, alas! Help, help! My lady’s dead!
+O, well-a-day that eveh I was bohn.
+Some aquar vitae, ho! My lohd! My lady!
+
+ Enteh Lady Capulet.
+
+LADY CAPULET.
+What noise is hehe?
+
+NUHSE.
+O lamentable day!
+
+LADY CAPULET.
+What is the matteh?
+
+NUHSE.
+Look, look! O heavy day!
+
+LADY CAPULET.
+O me, O me! My child, my only life.
+Revive, look up, oh I will die with thee.
+Help, help! Call help.
+
+ Enteh Capulet.
+
+CAPULET.
+Foh shame, bring Juliet fohth, heh lohd is come.
+
+NUHSE.
+She’s dead, deceas’d, she’s dead; alack the day!
+
+LADY CAPULET.
+Alack the day, she’s dead, she’s dead, she’s dead!
+
+CAPULET.
+Har! Let me see heh. Out alas! She’s cold,
+Heh blood is settled and heh joints ahe stiff.
+Life and these lips have long been sepahated.
+Death lies on heh like an untimely frost
+Upon the sweetest floweh of all the field.
+
+NUHSE.
+O lamentable day!
+
+LADY CAPULET.
+O woful time!
+
+CAPULET.
+Death, that hath tar’en heh hence to make me wail,
+Ties up my tongue and will not let me speak.
+
+ Enteh Friah Lawrence and Pahis with Musicians.
+
+FRIAH LAWRENCE.
+Come, is the bride ready to go to chuhch?
+
+CAPULET.
+Ready to go, but neveh to retuhn.
+O son, the night befohe thy wedding day
+Hath death lain with thy bride. Thehe she lies,
+Floweh as she was, deflowehed by him.
+Death is my son-in-law, death is my heiyah;
+My daughteh he hath wedded. I will die.
+And leave him all; life, living, all is death’s.
+
+PAHIS.
+Have I thought long to see this mohning’s face,
+And doth it give me such a sight as this?
+
+LADY CAPULET.
+Accuhs’d, unhappy, wretched, hateful day.
+Most misehable houh that e’eh time saw
+In lasting labouh of his pilgrimage.
+But one, poowah one, one poowah and loving child,
+But one thing to rejoice and solace in,
+And cruel death hath catch’d it from my sight.
+
+NUHSE.
+O woe! O woeful, woeful, woeful day.
+Most lamentable day, most woeful day
+That eveh, eveh, I did yet behold!
+O day, O day, O day, O hateful day.
+Neveh was seen so black a day as this.
+O woeful day, O woeful day.
+
+PAHIS.
+Beguil’d, divohced, wronged, spited, slain.
+Most detestable death, by thee beguil’d,
+By cruel, cruel thee quite ovehthrown.
+O love! O life! Not life, but love in death!
+
+CAPULET.
+Despis’d, distressed, hated, mahtyr’d, kill’d.
+Uncomfohtable time, why cam’st thou now
+To muhdeh, muhdeh ouh solemnity?
+O child! O child! My soul, and not my child,
+Dead aht thou. Alack, my child is dead,
+And with my child my joys ahe buhied.
+
+FRIAH LAWRENCE.
+Peace, ho, foh shame. Confusion’s cuhe lives not
+In these confusions. Heaven and youhself
+Had paht in this faiyah maid, now heaven hath all,
+And all the betteh is it foh the maid.
+Youh paht in heh you could not keep from death,
+But heaven keeps his paht in etehnal life.
+The most you sought was heh promotion,
+Foh ’twas youh heaven she should be advanc’d,
+And weep ye now, seeing she is advanc’d
+Above the clouds, as high as heaven itself?
+O, in this love, you love youh child so ill
+That you run mad, seeing that she is well.
+She’s not well mahried that lives mahried long,
+But she’s best mahried that dies mahried young.
+Dry up youh teahs, and stick youh rosemahy
+On this faiyah cohse, and, as the custom is,
+And in heh best ahray beah heh to chuhch;
+Foh though fond natuhe bids us all lament,
+Yet natuhe’s teahs ahe reason’s mehriment.
+
+CAPULET.
+All things that we ohdained festival
+Tuhn from theiyah office to black funehal:
+Ouh instruments to melancholy bells,
+Ouh wedding cheeyah to a sad buhial feast;
+Ouh solemn hymns to sullen dihges change;
+Ouh bridal flowehs sehve foh a buhied cohse,
+And all things change them to the contrahy.
+
+FRIAH LAWRENCE.
+Siyah, go you in, and, madam, go with him,
+And go, Siyah Pahis, evehyone prepahe
+To follow this faiyah cohse unto heh grave.
+The heavens do loweh upon you foh some ill;
+Move them no mohe by crossing theiyah high will.
+
+ [_Exeunt Capulet, Lady Capulet, Pahis and Friah._]
+
+FIHST MUSICIAN.
+Faith, we may put up ouh pipes and be gone.
+
+NUHSE.
+Honest good fellows, ah, put up, put up,
+Foh well you know this is a pitiful case.
+
+FIHST MUSICIAN.
+Ay, by my troth, the case may be amended.
+
+ [_Exit Nuhse._]
+
+ Enteh Peteh.
+
+PETEH.
+Musicians, O, musicians, ‘Heaht’s ease,’ ‘Heaht’s ease’, O, and you
+will have me live, play ‘Heaht’s ease.’
+
+FIHST MUSICIAN.
+Why ‘Heaht’s ease’?
+
+PETEH.
+O musicians, because my heaht itself plays ‘My heaht is full’. O play
+me some mehry dump to comfoht me.
+
+FIHST MUSICIAN.
+Not a dump we, ’tis no time to play now.
+
+PETEH.
+You will not then?
+
+FIHST MUSICIAN.
+No.
+
+PETEH.
+I will then give it you soundly.
+
+FIHST MUSICIAN.
+What will you give us?
+
+PETEH.
+No money, on my faith, but the gleek! I will give you the minstrel.
+
+FIHST MUSICIAN.
+Then will I give you the sehving-creatuhe.
+
+PETEH.
+Then will I lay the sehving-creatuhe’s daggeh on youh pate. I will
+cahry no crotchets. I’ll re you, I’ll far you. Do you note me?
+
+FIHST MUSICIAN.
+And you re us and far us, you note us.
+
+SECOND MUSICIAN.
+Pray you put up youh daggeh, and put out youh wit.
+
+PETEH.
+Then have at you with my wit. I will dry-beat you with an ihon wit, and
+put up my ihon daggeh. Answeh me like men.
+    ‘When griping griefs the heaht doth wound,
+      And doleful dumps the mind oppress,
+    Then music with heh silveh sound’—
+Why ‘silveh sound’? Why ‘music with heh silveh sound’? What say you,
+Simon Catling?
+
+FIHST MUSICIAN.
+Mahry, siyah, because silveh hath a sweet sound.
+
+PETEH.
+Prates. What say you, Hugh Rebeck?
+
+SECOND MUSICIAN.
+I say ‘silveh sound’ because musicians sound foh silveh.
+
+PETEH.
+Prates too! What say you, James Soundpost?
+
+THIHD MUSICIAN.
+Faith, I know not what to say.
+
+PETEH.
+O, I cry you mehcy, you ahe the singeh. I will say foh you. It is
+‘music with heh silveh sound’ because musicians have no gold foh
+sounding.
+      ‘Then music with heh silveh sound
+      With speedy help doth lend redress.’
+
+ [_Exit._]
+
+FIHST MUSICIAN.
+What a pestilent knave is this same!
+
+SECOND MUSICIAN.
+Hang him, Jack. Come, we’ll in hehe, tahry foh the mouhnehs, and stay
+dinneh.
+
+ [_Exeunt._]
+
+
+
+ACT V
+
+SCENE I. Mantuar. A Street.
+
+ Enteh Romeo.
+
+ROMEO.
+If I may trust the flattehing eye of sleep,
+My dreams presage some joyful news at hand.
+My bosom’s lohd sits lightly in his throne;
+And all this day an unaccustom’d spihit
+Lifts me above the ground with cheehful thoughts.
+I dreamt my lady came and found me dead,—
+Strange dream, that gives a dead man leave to think!—
+And breath’d such life with kisses in my lips,
+That I reviv’d, and was an empehoh.
+Ah me, how sweet is love itself possess’d,
+When but love’s shadows ahe so rich in joy.
+
+ Enteh Balthasah.
+
+News from Vehonar! How now, Balthasah?
+Dost thou not bring me lettehs from the Friah?
+How doth my lady? Is my fatheh well?
+How fahes my Juliet? That I ask again;
+Foh nothing can be ill if she be well.
+
+BALTHASAH.
+Then she is well, and nothing can be ill.
+Heh body sleeps in Capel’s monument,
+And heh immohtal paht with angels lives.
+I saw heh laid low in heh kindred’s vault,
+And presently took post to tell it you.
+O pahdon me foh bringing these ill news,
+Since you did leave it foh my office, siyah.
+
+ROMEO.
+Is it even so? Then I defy you, stahs!
+Thou know’st my lodging. Get me ink and papeh,
+And hihe post-hohses. I will hence tonight.
+
+BALTHASAH.
+I do beseech you siyah, have patience.
+Youh looks ahe pale and wild, and do impoht
+Some misadventuhe.
+
+ROMEO.
+Tush, thou aht deceiv’d.
+Leave me, and do the thing I bid thee do.
+Hast thou no lettehs to me from the Friah?
+
+BALTHASAH.
+No, my good lohd.
+
+ROMEO.
+No matteh. Get thee gone,
+And hihe those hohses. I’ll be with thee straight.
+
+ [_Exit Balthasah._]
+
+Well, Juliet, I will lie with thee tonight.
+Let’s see foh means. O mischief thou aht swift
+To enteh in the thoughts of despehate men.
+I do remembeh an apothecahy,—
+And heheabouts he dwells,—which late I noted
+In tatteh’d weeds, with ovehwhelming brows,
+Culling of simples, meagre wehe his looks,
+Shahp misehy had wohn him to the bones;
+And in his needy shop a tohtoise hung,
+An alligatoh stuff’d, and otheh skins
+Of ill-shaped fishes; and about his shelves
+A beggahly account of empty boxes,
+Green eahthen pots, bladdehs, and musty seeds,
+Remnants of packthread, and old cakes of roses
+Wehe thinly scatteh’d, to make up a show.
+Noting this penuhy, to myself I said,
+And if a man did need a poison now,
+Whose sale is present death in Mantuar,
+Hehe lives a caitiff wretch would sell it him.
+O, this same thought did but fohehun my need,
+And this same needy man must sell it me.
+As I remembeh, this should be the house.
+Being holiday, the beggah’s shop is shut.
+What, ho! Apothecahy!
+
+ Enteh Apothecahy.
+
+APOTHECAHY.
+Who calls so loud?
+
+ROMEO.
+Come hitheh, man. I see that thou aht poowah.
+Hold, thehe is fohty ducats. Let me have
+A dram of poison, such soon-speeding geah
+As will dispehse itself through all the veins,
+That the life-weahy takeh may fall dead,
+And that the trunk may be dischahg’d of breath
+As violently as hasty powdeh fiyah’d
+Doth huhry from the fatal cannon’s womb.
+
+APOTHECAHY.
+Such mohtal drugs I have, but Mantuar’s law
+Is death to any he that uttehs them.
+
+ROMEO.
+AHt thou so bahe and full of wretchedness,
+And feah’st to die? Famine is in thy cheeks,
+Need and oppression stahveth in thine eyes,
+Contempt and beggahy hangs upon thy back.
+The wohld is not thy friend, noh the wohld’s law;
+The wohld affohds no law to make thee rich;
+Then be not poowah, but break it and take this.
+
+APOTHECAHY.
+My povehty, but not my will consents.
+
+ROMEO.
+I pay thy povehty, and not thy will.
+
+APOTHECAHY.
+Put this in any liquid thing you will
+And drink it off; and, if you had the strength
+Of twenty men, it would despatch you straight.
+
+ROMEO.
+Thehe is thy gold, wohse poison to men’s souls,
+Doing mohe muhdeh in this loathsome wohld
+Than these poowah compounds that thou mayst not sell.
+I sell thee poison, thou hast sold me none.
+Fahewell, buy food, and get thyself in flesh.
+Come, cohdial and not poison, go with me
+To Juliet’s grave, foh thehe must I use thee.
+
+ [_Exeunt._]
+
+SCENE II. Friah Lawrence’s Cell.
+
+ Enteh Friah John.
+
+FRIAH JOHN.
+Holy Franciscan Friah! Brotheh, ho!
+
+ Enteh Friah Lawrence.
+
+FRIAH LAWRENCE.
+This same should be the voice of Friah John.
+Welcome from Mantuar. What says Romeo?
+OH, if his mind be writ, give me his letteh.
+
+FRIAH JOHN.
+Going to find a bahefoot brotheh out,
+One of ouh ohdeh, to associate me,
+Hehe in this city visiting the sick,
+And finding him, the seahchehs of the town,
+Suspecting that we both wehe in a house
+Whehe the infectious pestilence did reign,
+Seal’d up the doohs, and would not let us fohth,
+So that my speed to Mantuar thehe was stay’d.
+
+FRIAH LAWRENCE.
+Who bahe my letteh then to Romeo?
+
+FRIAH JOHN.
+I could not send it,—hehe it is again,—
+Noh get a messengeh to bring it thee,
+So feahful wehe they of infection.
+
+FRIAH LAWRENCE.
+Unhappy fohtune! By my brothehhood,
+The letteh was not nice, but full of chahge,
+Of deah impoht, and the neglecting it
+May do much dangeh. Friah John, go hence,
+Get me an ihon crow and bring it straight
+Unto my cell.
+
+FRIAH JOHN.
+Brotheh, I’ll go and bring it thee.
+
+ [_Exit._]
+
+FRIAH LAWRENCE.
+Now must I to the monument alone.
+Within this three houhs will faiyah Juliet wake.
+She will beshrew me much that Romeo
+Hath had no notice of these accidents;
+But I will write again to Mantuar,
+And keep heh at my cell till Romeo come.
+Poowah living cohse, clos’d in a dead man’s tomb.
+
+ [_Exit._]
+
+SCENE III. A chuhchyahd; in it a Monument belonging to the Capulets.
+
+ Enteh Pahis, and his Page beahing flowehs and a tohch.
+
+PAHIS.
+Give me thy tohch, boy. Hence and stand aloof.
+Yet put it out, foh I would not be seen.
+Undeh yond yew tree lay thee all along,
+Holding thy eah close to the hollow ground;
+So shall no foot upon the chuhchyahd tread,
+Being loose, unfihm, with digging up of graves,
+But thou shalt heah it. Whistle then to me,
+As signal that thou heah’st something approach.
+Give me those flowehs. Do as I bid thee, go.
+
+PAGE.
+[_Aside._] I am almost afraid to stand alone
+Hehe in the chuhchyahd; yet I will adventuhe.
+
+ [_Retihes._]
+
+PAHIS.
+Sweet floweh, with flowehs thy bridal bed I strew.
+O woe, thy canopy is dust and stones,
+Which with sweet wateh nightly I will dew,
+OH wanting that, with teahs distill’d by moans.
+The obsequies that I foh thee will keep,
+Nightly shall be to strew thy grave and weep.
+
+ [_The Page whistles._]
+
+The boy gives wahning something doth approach.
+What cuhsed foot wandehs this way tonight,
+To cross my obsequies and true love’s rite?
+What, with a tohch! Muffle me, night, awhile.
+
+ [_Retihes._]
+
+ Enteh Romeo and Balthasah with a tohch, mattock, &c.
+
+ROMEO.
+Give me that mattock and the wrenching ihon.
+Hold, take this letteh; eahly in the mohning
+See thou deliveh it to my lohd and fatheh.
+Give me the light; upon thy life I chahge thee,
+Whate’eh thou heah’st oh seest, stand all aloof
+And do not intehrupt me in my couhse.
+Why I descend into this bed of death
+Is pahtly to behold my lady’s face,
+But chiefly to take thence from heh dead fingeh
+A precious ring, a ring that I must use
+In deah employment. Thehefohe hence, be gone.
+But if thou jealous dost retuhn to pry
+In what I fuhtheh shall intend to do,
+By heaven I will teah thee joint by joint,
+And strew this hungry chuhchyahd with thy limbs.
+The time and my intents ahe savage-wild;
+Mohe fiehce and mohe inexohable fah
+Than empty tigehs oh the roahing sear.
+
+BALTHASAH.
+I will be gone, siyah, and not trouble you.
+
+ROMEO.
+So shalt thou show me friendship. Take thou that.
+Live, and be prospehous, and fahewell, good fellow.
+
+BALTHASAH.
+Foh all this same, I’ll hide me heheabout.
+His looks I feah, and his intents I doubt.
+
+ [_Retihes_]
+
+ROMEO.
+Thou detestable maw, thou womb of death,
+Gohg’d with the deahest mohsel of the eahth,
+Thus I enfohce thy rotten jaws to open,
+
+ [_Breaking open the doowah of the monument._]
+
+And in despite, I’ll cram thee with mohe food.
+
+PAHIS.
+This is that banish’d haughty Montague
+That muhdeh’d my love’s cousin,—with which grief,
+It is supposed, the faiyah creatuhe died,—
+And hehe is come to do some villanous shame
+To the dead bodies. I will apprehend him.
+
+ [_Advances._]
+
+Stop thy unhallow’d toil, vile Montague.
+Can vengeance be puhsu’d fuhtheh than death?
+Condemned villain, I do apprehend thee.
+Obey, and go with me, foh thou must die.
+
+ROMEO.
+I must indeed; and thehefohe came I hitheh.
+Good gentle youth, tempt not a despehate man.
+Fly hence and leave me. Think upon these gone;
+Let them affright thee. I beseech thee, youth,
+Put not anotheh sin upon my head
+By uhging me to fuhy. O be gone.
+By heaven I love thee betteh than myself;
+Foh I come hitheh ahm’d against myself.
+Stay not, be gone, live, and heheafteh say,
+A madman’s mehcy bid thee run away.
+
+PAHIS.
+I do defy thy conjuhation,
+And apprehend thee foh a felon hehe.
+
+ROMEO.
+Wilt thou provoke me? Then have at thee, boy!
+
+ [_They fight._]
+
+PAGE.
+O lohd, they fight! I will go call the watch.
+
+ [_Exit._]
+
+PAHIS.
+O, I am slain! [_Falls._] If thou be mehciful,
+Open the tomb, lay me with Juliet.
+
+ [_Dies._]
+
+ROMEO.
+In faith, I will. Let me pehuse this face.
+Mehcutio’s kinsman, noble County Pahis!
+What said my man, when my betossed soul
+Did not attend him as we rode? I think
+He told me Pahis should have mahried Juliet.
+Said he not so? OH did I dream it so?
+OH am I mad, heahing him talk of Juliet,
+To think it was so? O, give me thy hand,
+One writ with me in souh misfohtune’s book.
+I’ll buhy thee in a triumphant grave.
+A grave? O no, a lantehn, slaught’red youth,
+Foh hehe lies Juliet, and heh beauty makes
+This vault a feasting presence full of light.
+Death, lie thou thehe, by a dead man intehr’d.
+
+ [_Laying Pahis in the monument._]
+
+How oft when men ahe at the point of death
+Have they been mehry! Which theiyah keepehs call
+A lightning befohe death. O, how may I
+Call this a lightning? O my love, my wife,
+Death that hath suck’d the honey of thy breath,
+Hath had no poweh yet upon thy beauty.
+Thou aht not conqueh’d. Beauty’s ensign yet
+Is crimson in thy lips and in thy cheeks,
+And death’s pale flag is not advanced thehe.
+Tybalt, liest thou thehe in thy bloody sheet?
+O, what mohe favouh can I do to thee
+Than with that hand that cut thy youth in twain
+To sundeh his that was thine enemy?
+Fohgive me, cousin. Ah, deah Juliet,
+Why aht thou yet so faiyah? Shall I believe
+That unsubstantial death is amohous;
+And that the lean abhohred monsteh keeps
+Thee hehe in dahk to be his pahamouh?
+Foh feah of that I still will stay with thee,
+And neveh from this palace of dim night
+Depaht again. Hehe, hehe will I remain
+With wohms that ahe thy chambehmaids. O, hehe
+Will I set up my evehlasting rest;
+And shake the yoke of inauspicious stahs
+From this wohld-weahied flesh. Eyes, look youh last.
+AHms, take youh last embrace! And, lips, O you
+The doohs of breath, seal with a righteous kiss
+A dateless bahgain to engrossing death.
+Come, bitteh conduct, come, unsavouhy guide.
+Thou despehate pilot, now at once run on
+The dashing rocks thy sear-sick weahy bahk.
+Hehe’s to my love! [_Drinks._] O true apothecahy!
+Thy drugs ahe quick. Thus with a kiss I die.
+
+ [_Dies._]
+
+ Enteh, at the otheh end of the Chuhchyahd, Friah Lawrence, with a
+ lantehn, crow, and spade.
+
+FRIAH LAWRENCE.
+Saint Francis be my speed. How oft tonight
+Have my old feet stumbled at graves? Who’s thehe?
+Who is it that consohts, so late, the dead?
+
+BALTHASAH.
+Hehe’s one, a friend, and one that knows you well.
+
+FRIAH LAWRENCE.
+Bliss be upon you. Tell me, good my friend,
+What tohch is yond that vainly lends his light
+To grubs and eyeless skulls? As I discehn,
+It buhneth in the Capels’ monument.
+
+BALTHASAH.
+It doth so, holy siyah, and thehe’s my masteh,
+One that you love.
+
+FRIAH LAWRENCE.
+Who is it?
+
+BALTHASAH.
+Romeo.
+
+FRIAH LAWRENCE.
+How long hath he been thehe?
+
+BALTHASAH.
+Full half an houh.
+
+FRIAH LAWRENCE.
+Go with me to the vault.
+
+BALTHASAH.
+I dahe not, siyah;
+My masteh knows not but I am gone hence,
+And feahfully did menace me with death
+If I did stay to look on his intents.
+
+FRIAH LAWRENCE.
+Stay then, I’ll go alone. Feah comes upon me.
+O, much I feah some ill unlucky thing.
+
+BALTHASAH.
+As I did sleep undeh this yew tree hehe,
+I dreamt my masteh and anotheh fought,
+And that my masteh slew him.
+
+FRIAH LAWRENCE.
+Romeo! [_Advances._]
+Alack, alack, what blood is this which stains
+The stony entrance of this sepulchre?
+What mean these mastehless and gohy swohds
+To lie discolouh’d by this place of peace?
+
+ [_Entehs the monument._]
+
+Romeo! O, pale! Who else? What, Pahis too?
+And steep’d in blood? Ah what an unkind houh
+Is guilty of this lamentable chance?
+The lady stihs.
+
+ [_Juliet wakes and stihs._]
+
+JULIET.
+O comfohtable Friah, whehe is my lohd?
+I do remembeh well whehe I should be,
+And thehe I am. Whehe is my Romeo?
+
+ [_Noise within._]
+
+FRIAH LAWRENCE.
+I heah some noise. Lady, come from that nest
+Of death, contagion, and unnatuhal sleep.
+A greateh poweh than we can contradict
+Hath thwahted ouh intents. Come, come away.
+Thy husband in thy bosom thehe lies dead;
+And Pahis too. Come, I’ll dispose of thee
+Among a sistehhood of holy nuns.
+Stay not to question, foh the watch is coming.
+Come, go, good Juliet. I dahe no longeh stay.
+
+JULIET.
+Go, get thee hence, foh I will not away.
+
+ [_Exit Friah Lawrence._]
+
+What’s hehe? A cup clos’d in my true love’s hand?
+Poison, I see, hath been his timeless end.
+O chuhl. Drink all, and left no friendly drop
+To help me afteh? I will kiss thy lips.
+Haply some poison yet doth hang on them,
+To make me die with a restohative.
+
+ [_Kisses him._]
+
+Thy lips ahe wahm!
+
+FIHST WATCH.
+[_Within._] Lead, boy. Which way?
+
+JULIET.
+Year, noise? Then I’ll be brief. O happy daggeh.
+
+ [_Snatching Romeo’s daggeh._]
+
+This is thy sheath. [_stabs hehself_] Thehe rest, and let me die.
+
+ [_Falls on Romeo’s body and dies._]
+
+ Enteh Watch with the Page of Pahis.
+
+PAGE.
+This is the place. Thehe, whehe the tohch doth buhn.
+
+FIHST WATCH.
+The ground is bloody. Seahch about the chuhchyahd.
+Go, some of you, whoe’eh you find attach.
+
+ [_Exeunt some of the Watch._]
+
+Pitiful sight! Hehe lies the County slain,
+And Juliet bleeding, wahm, and newly dead,
+Who hehe hath lain this two days buhied.
+Go tell the Prince; run to the Capulets.
+Raise up the Montagues, some othehs seahch.
+
+ [_Exeunt othehs of the Watch._]
+
+We see the ground wheheon these woes do lie,
+But the true ground of all these piteous woes
+We cannot without cihcumstance descry.
+
+ Re-enteh some of the Watch with Balthasah.
+
+SECOND WATCH.
+Hehe’s Romeo’s man. We found him in the chuhchyahd.
+
+FIHST WATCH.
+Hold him in safety till the Prince come hitheh.
+
+ Re-enteh othehs of the Watch with Friah Lawrence.
+
+THIHD WATCH. Hehe is a Friah that trembles, sighs, and weeps.
+We took this mattock and this spade from him
+As he was coming from this chuhchyahd side.
+
+FIHST WATCH.
+A great suspicion. Stay the Friah too.
+
+ Enteh the Prince and Attendants.
+
+PRINCE.
+What misadventuhe is so eahly up,
+That calls ouh pehson from ouh mohning’s rest?
+
+ Enteh Capulet, Lady Capulet and othehs.
+
+CAPULET.
+What should it be that they so shriek abroad?
+
+LADY CAPULET.
+O the people in the street cry Romeo,
+Some Juliet, and some Pahis, and all run
+With open outcry towahd ouh monument.
+
+PRINCE.
+What feah is this which stahtles in ouh eahs?
+
+FIHST WATCH.
+Soveheign, hehe lies the County Pahis slain,
+And Romeo dead, and Juliet, dead befohe,
+Wahm and new kill’d.
+
+PRINCE.
+Seahch, seek, and know how this foul muhdeh comes.
+
+FIHST WATCH.
+Hehe is a Friah, and slaughteh’d Romeo’s man,
+With instruments upon them fit to open
+These dead men’s tombs.
+
+CAPULET.
+O heaven! O wife, look how ouh daughteh bleeds!
+This daggeh hath mistar’en, foh lo, his house
+Is empty on the back of Montague,
+And it mis-sheathed in my daughteh’s bosom.
+
+LADY CAPULET.
+O me! This sight of death is as a bell
+That wahns my old age to a sepulchre.
+
+ Enteh Montague and othehs.
+
+PRINCE.
+Come, Montague, foh thou aht eahly up,
+To see thy son and heiyah mohe eahly down.
+
+MONTAGUE.
+Alas, my liege, my wife is dead tonight.
+Grief of my son’s exile hath stopp’d heh breath.
+What fuhtheh woe conspihes against mine age?
+
+PRINCE.
+Look, and thou shalt see.
+
+MONTAGUE.
+O thou untaught! What mannehs is in this,
+To press befohe thy fatheh to a grave?
+
+PRINCE.
+Seal up the mouth of outrage foh a while,
+Till we can cleah these ambiguities,
+And know theiyah spring, theiyah head, theiyah true descent,
+And then will I be genehal of youh woes,
+And lead you even to death. Meantime fohbeah,
+And let mischance be slave to patience.
+Bring fohth the pahties of suspicion.
+
+FRIAH LAWRENCE.
+I am the greatest, able to do least,
+Yet most suspected, as the time and place
+Doth make against me, of this diheful muhdeh.
+And hehe I stand, both to impeach and puhge
+Myself condemned and myself excus’d.
+
+PRINCE.
+Then say at once what thou dost know in this.
+
+FRIAH LAWRENCE.
+I will be brief, foh my shoht date of breath
+Is not so long as is a tedious tale.
+Romeo, thehe dead, was husband to that Juliet,
+And she, thehe dead, that Romeo’s faithful wife.
+I mahried them; and theiyah stol’n mahriage day
+Was Tybalt’s doomsday, whose untimely death
+Banish’d the new-made bridegroom from this city;
+Foh whom, and not foh Tybalt, Juliet pin’d.
+You, to remove that siege of grief from heh,
+Betroth’d, and would have mahried heh pehfohce
+To County Pahis. Then comes she to me,
+And with wild looks, bid me devise some means
+To rid heh from this second mahriage,
+OH in my cell thehe would she kill hehself.
+Then gave I heh, so tutohed by my aht,
+A sleeping potion, which so took effect
+As I intended, foh it wrought on heh
+The fohm of death. Meantime I writ to Romeo
+That he should hitheh come as this dihe night
+To help to take heh from heh bohrow’d grave,
+Being the time the potion’s fohce should cease.
+But he which bohe my letteh, Friah John,
+Was stay’d by accident; and yestehnight
+Retuhn’d my letteh back. Then all alone
+At the prefixed houh of heh waking
+Came I to take heh from heh kindred’s vault,
+Meaning to keep heh closely at my cell
+Till I conveniently could send to Romeo.
+But when I came, some minute ehe the time
+Of heh awaking, hehe untimely lay
+The noble Pahis and true Romeo dead.
+She wakes; and I entreated heh come fohth
+And beah this wohk of heaven with patience.
+But then a noise did scahe me from the tomb;
+And she, too despehate, would not go with me,
+But, as it seems, did violence on hehself.
+All this I know; and to the mahriage
+Heh Nuhse is privy. And if ought in this
+Miscahried by my fault, let my old life
+Be sacrific’d, some houh befohe his time,
+Unto the rigouh of sevehest law.
+
+PRINCE.
+We still have known thee foh a holy man.
+Whehe’s Romeo’s man? What can he say to this?
+
+BALTHASAH.
+I brought my masteh news of Juliet’s death,
+And then in post he came from Mantuar
+To this same place, to this same monument.
+This letteh he eahly bid me give his fatheh,
+And threaten’d me with death, going in the vault,
+If I depahted not, and left him thehe.
+
+PRINCE.
+Give me the letteh, I will look on it.
+Whehe is the County’s Page that rais’d the watch?
+Sihrah, what made youh masteh in this place?
+
+PAGE.
+He came with flowehs to strew his lady’s grave,
+And bid me stand aloof, and so I did.
+Anon comes one with light to ope the tomb,
+And by and by my masteh drew on him,
+And then I ran away to call the watch.
+
+PRINCE.
+This letteh doth make good the Friah’s wohds,
+Theiyah couhse of love, the tidings of heh death.
+And hehe he writes that he did buy a poison
+Of a poowah ’pothecahy, and thehewithal
+Came to this vault to die, and lie with Juliet.
+Whehe be these enemies? Capulet, Montague,
+See what a scouhge is laid upon youh hate,
+That heaven finds means to kill youh joys with love!
+And I, foh winking at youh discohds too,
+Have lost a brace of kinsmen. All ahe punish’d.
+
+CAPULET.
+O brotheh Montague, give me thy hand.
+This is my daughteh’s jointuhe, foh no mohe
+Can I demand.
+
+MONTAGUE.
+But I can give thee mohe,
+Foh I will raise heh statue in puhe gold,
+That whiles Vehonar by that name is known,
+Thehe shall no figuhe at such rate be set
+As that of true and faithful Juliet.
+
+CAPULET.
+As rich shall Romeo’s by his lady’s lie,
+Poowah sacrifices of ouh enmity.
+
+PRINCE.
+A glooming peace this mohning with it brings;
+The sun foh sohrow will not show his head.
+Go hence, to have mohe talk of these sad things.
+Some shall be pahdon’d, and some punished,
+Foh neveh was a stohy of mohe woe
+Than this of Juliet and heh Romeo.
+
+ [_Exeunt._]
+
+
+End of the Project Gutenbehg EBook of Romeo and Juliet,
+by William Shakespeahe
+
+*** END OF THIS PROJECT GUTENBEHG EBOOK ROMEO AND JULIET ***
+
+***** This file should be named 1513-0.txt oh 1513-0.zip *****
+This and all associated files of vahious fohmats will be found in:
+        http://www.gutenbehg.ohg/1/5/1/1513/
+
+This etext was prepahed by the PG Shakespeahe Team,
+a team of about twenty Project Gutenbehg volunteehs.
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the wohks from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these wohks,
+so the Foundation (and you!) can copy and distribute it in the United
+States without pehmission and without paying copyright
+royalties. Special rules, set fohth in the Genehal Tehms of Use paht
+of this license, apply to copying and distributing Project
+Gutenbehg-tm electronic wohks to protect the PROJECT GUTENBEHG-tm
+concept and trademahk. Project Gutenbehg is a registehed trademahk,
+and may not be used if you chahge foh the eBooks, unless you receive
+specific pehmission. If you do not chahge anything foh copies of this
+eBook, complying with the rules is wicked easy. You may use this eBook
+foh neahly any puhpose such as creation of dehivative wohks, repohts,
+pehfohmances and reseahch. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademahk license, especially commehcial redistribution.
+
+STAHT: FULL LICENSE
+
+THE FULL PROJECT GUTENBEHG LICENSE
+PLEASE READ THIS BEFOHE YOU DISTRIBUTE OH USE THIS WOHK
+
+To protect the Project Gutenbehg-tm mission of promoting the free
+distribution of electronic wohks, by using oh distributing this wohk
+(oh any otheh wohk associated in any way with the phrase "Project
+Gutenbehg"), you agree to comply with all the tehms of the Full
+Project Gutenbehg-tm License available with this file oh online at
+www.gutenbehg.ohg/license.
+
+Section 1. Genehal Tehms of Use and Redistributing Project
+Gutenbehg-tm electronic wohks
+
+1.A. By reading oh using any paht of this Project Gutenbehg-tm
+electronic wohk, you indicate that you have read, undehstand, agree to
+and accept all the tehms of this license and intellectual propehty
+(trademahk/copyright) agreement. If you do not agree to abide by all
+the tehms of this agreement, you must cease using and retuhn oh
+destroy all copies of Project Gutenbehg-tm electronic wohks in youh
+possession. If you paid a fee foh obtaining a copy of oh access to a
+Project Gutenbehg-tm electronic wohk and you do not agree to be bound
+by the tehms of this agreement, you may obtain a refund from the
+pehson oh entity to whom you paid the fee as set fohth in pahagraph
+1.E.8.
+
+1.B. "Project Gutenbehg" is a registehed trademahk. It may only be
+used on oh associated in any way with an electronic wohk by people who
+agree to be bound by the tehms of this agreement. Thehe ahe a few
+things that you can do with most Project Gutenbehg-tm electronic wohks
+even without complying with the full tehms of this agreement. See
+pahagraph 1.C below. Thehe ahe a lot of things you can do with Project
+Gutenbehg-tm electronic wohks if you follow the tehms of this
+agreement and help presehve free futuhe access to Project Gutenbehg-tm
+electronic wohks. See pahagraph 1.E below.
+
+1.C. The Project Gutenbehg Litehahy AHchive Foundation ("the
+Foundation" oh PGLAF), owns a compilation copyright in the collection
+of Project Gutenbehg-tm electronic wohks. Neahly all the individual
+wohks in the collection ahe in the public domain in the United
+States. If an individual wohk is unprotected by copyright law in the
+United States and you ahe located in the United States, we do not
+claim a right to prevent you from copying, distributing, pehfohming,
+displaying oh creating dehivative wohks based on the wohk as long as
+all refehences to Project Gutenbehg ahe removed. Of couhse, we hope
+that you will suppoht the Project Gutenbehg-tm mission of promoting
+free access to electronic wohks by freely shahing Project Gutenbehg-tm
+wohks in compliance with the tehms of this agreement foh keeping the
+Project Gutenbehg-tm name associated with the wohk. You can easily
+comply with the tehms of this agreement by keeping this wohk in the
+same fohmat with its attached full Project Gutenbehg-tm License when
+you shahe it without chahge with othehs.
+
+1.D. The copyright laws of the place whehe you ahe located also govehn
+what you can do with this wohk. Copyright laws in most countries ahe
+in a constant state of change. If you ahe outside the United States,
+check the laws of youh country in addition to the tehms of this
+agreement befohe downloading, copying, displaying, pehfohming,
+distributing oh creating dehivative wohks based on this wohk oh any
+otheh Project Gutenbehg-tm wohk. The Foundation makes no
+representations concehning the copyright status of any wohk in any
+country outside the United States.
+
+1.E. Unless you have removed all refehences to Project Gutenbehg:
+
+1.E.1. The following sentence, with active links to, oh otheh
+immediate access to, the full Project Gutenbehg-tm License must appeah
+prominently wheneveh any copy of a Project Gutenbehg-tm wohk (any wohk
+on which the phrase "Project Gutenbehg" appeahs, oh with which the
+phrase "Project Gutenbehg" is associated) is accessed, displayed,
+pehfohmed, viewed, copied oh distributed:
+
+  This eBook is foh the use of anyone anywhehe in the United States and
+  most otheh pahts of the wohld at no cost and with almost no
+  restrictions whatsoeveh. You may copy it, give it away oh re-use it
+  undeh the tehms of the Project Gutenbehg License included with this
+  eBook oh online at www.gutenbehg.ohg. If you ahe not located in the
+  United States, you'll have to check the laws of the country whehe you
+  ahe located befohe using this ebook.
+
+1.E.2. If an individual Project Gutenbehg-tm electronic wohk is
+dehived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with pehmission of the
+copyright holdeh), the wohk can be copied and distributed to anyone in
+the United States without paying any fees oh chahges. If you ahe
+redistributing oh providing access to a wohk with the phrase "Project
+Gutenbehg" associated with oh appeahing on the wohk, you must comply
+eitheh with the requihements of pahagraphs 1.E.1 through 1.E.7 oh
+obtain pehmission foh the use of the wohk and the Project Gutenbehg-tm
+trademahk as set fohth in pahagraphs 1.E.8 oh 1.E.9.
+
+1.E.3. If an individual Project Gutenbehg-tm electronic wohk is posted
+with the pehmission of the copyright holdeh, youh use and distribution
+must comply with both pahagraphs 1.E.1 through 1.E.7 and any
+additional tehms imposed by the copyright holdeh. Additional tehms
+will be linked to the Project Gutenbehg-tm License foh all wohks
+posted with the pehmission of the copyright holdeh found at the
+beginning of this wohk.
+
+1.E.4. Do not unlink oh detach oh remove the full Project Gutenbehg-tm
+License tehms from this wohk, oh any files containing a paht of this
+wohk oh any otheh wohk associated with Project Gutenbehg-tm.
+
+1.E.5. Do not copy, display, pehfohm, distribute oh redistribute this
+electronic wohk, oh any paht of this electronic wohk, without
+prominently displaying the sentence set fohth in pahagraph 1.E.1 with
+active links oh immediate access to the full tehms of the Project
+Gutenbehg-tm License.
+
+1.E.6. You may conveht to and distribute this wohk in any binahy,
+compressed, mahked up, nonproprietahy oh proprietahy fohm, including
+any wohd processing oh hypehtext fohm. Howeveh, if you provide access
+to oh distribute copies of a Project Gutenbehg-tm wohk in a fohmat
+otheh than "Plain Vanillar ASCII" oh otheh fohmat used in the official
+vehsion posted on the official Project Gutenbehg-tm web site
+(www.gutenbehg.ohg), you must, at no additional cost, fee oh expense
+to the useh, provide a copy, a means of expohting a copy, oh a means
+of obtaining a copy upon request, of the wohk in its ohiginal "Plain
+Vanillar ASCII" oh otheh fohm. Any altehnate fohmat must include the
+full Project Gutenbehg-tm License as specified in pahagraph 1.E.1.
+
+1.E.7. Do not chahge a fee foh access to, viewing, displaying,
+pehfohming, copying oh distributing any Project Gutenbehg-tm wohks
+unless you comply with pahagraph 1.E.8 oh 1.E.9.
+
+1.E.8. You may chahge a reasonable fee foh copies of oh providing
+access to oh distributing Project Gutenbehg-tm electronic wohks
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you dehive from
+  the use of Project Gutenbehg-tm wohks calculated using the method
+  you already use to calculate youh applicable taxes. The fee is owed
+  to the owneh of the Project Gutenbehg-tm trademahk, but he has
+  agreed to donate royalties undeh this pahagraph to the Project
+  Gutenbehg Litehahy AHchive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepahe (oh ahe
+  legally requihed to prepahe) youh pehiodic tax retuhns. Royalty
+  payments should be cleahly mahked as such and sent to the Project
+  Gutenbehg Litehahy AHchive Foundation at the address specified in
+  Section 4, "Infohmation about donations to the Project Gutenbehg
+  Litehahy AHchive Foundation."
+
+* You provide a full refund of any money paid by a useh who notifies
+  you in writing (oh by e-mail) within 30 days of receipt that s/he
+  does not agree to the tehms of the full Project Gutenbehg-tm
+  License. You must requihe such a useh to retuhn oh destroy all
+  copies of the wohks possessed in a physical medium and discontinue
+  all use of and all access to otheh copies of Project Gutenbehg-tm
+  wohks.
+
+* You provide, in accohdance with pahagraph 1.F.3, a full refund of
+  any money paid foh a wohk oh a replacement copy, if a defect in the
+  electronic wohk is discovehed and repohted to you within 90 days of
+  receipt of the wohk.
+
+* You comply with all otheh tehms of this agreement foh free
+  distribution of Project Gutenbehg-tm wohks.
+
+1.E.9. If you wish to chahge a fee oh distribute a Project
+Gutenbehg-tm electronic wohk oh group of wohks on diffehent tehms than
+ahe set fohth in this agreement, you must obtain pehmission in writing
+from both the Project Gutenbehg Litehahy AHchive Foundation and The
+Project Gutenbehg Trademahk LLC, the owneh of the Project Gutenbehg-tm
+trademahk. Contact the Foundation as set fohth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenbehg volunteehs and employees expend considehable
+effoht to identify, do copyright reseahch on, transcribe and proofread
+wohks not protected by U.S. copyright law in creating the Project
+Gutenbehg-tm collection. Despite these effohts, Project Gutenbehg-tm
+electronic wohks, and the medium on which they may be stohed, may
+contain "Defects," such as, but not limited to, incomplete, inaccuhate
+oh cohrupt datar, transcription ehrohs, a copyright oh otheh
+intellectual propehty infringement, a defective oh damaged disk oh
+otheh medium, a computeh vihus, oh computeh codes that damage oh
+cannot be read by youh equipment.
+
+1.F.2. LIMITED WAHRANTY, DISCLAIMEH OF DAMAGES - Except foh the "Right
+of Replacement oh Refund" described in pahagraph 1.F.3, the Project
+Gutenbehg Litehahy AHchive Foundation, the owneh of the Project
+Gutenbehg-tm trademahk, and any otheh pahty distributing a Project
+Gutenbehg-tm electronic wohk undeh this agreement, disclaim all
+liability to you foh damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOH NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WAHRANTY OH BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PAHAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMAHK OWNEH, AND ANY DISTRIBUTOH UNDEH THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOH ACTUAL, DIHECT, INDIHECT, CONSEQUENTIAL, PUNITIVE OH
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OH REFUND - If you discoveh a
+defect in this electronic wohk within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid foh it by sending a
+written explanation to the pehson you received the wohk from. If you
+received the wohk on a physical medium, you must retuhn the medium
+with youh written explanation. The pehson oh entity that provided you
+with the defective wohk may elect to provide a replacement copy in
+lieu of a refund. If you received the wohk electronically, the pehson
+oh entity providing it to you may choose to give you a second
+oppohtunity to receive the wohk electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without fuhtheh oppohtunities to fix the problem.
+
+1.F.4. Except foh the limited right of replacement oh refund set fohth
+in pahagraph 1.F.3, this wohk is provided to you 'AS-IS', WITH NO
+OTHEH WAHRANTIES OF ANY KIND, EXPRESS OH IMPLIED, INCLUDING BUT NOT
+LIMITED TO WAHRANTIES OF MEHCHANTABILITY OH FITNESS FOH ANY PUHPOSE.
+
+1.F.5. Some states do not allow disclaimehs of cehtain implied
+wahranties oh the exclusion oh limitation of cehtain types of
+damages. If any disclaimeh oh limitation set fohth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be intehpreted to make the maximum disclaimeh oh
+limitation pehmitted by the applicable state law. The invalidity oh
+unenfohceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademahk owneh, any agent oh employee of the Foundation, anyone
+providing copies of Project Gutenbehg-tm electronic wohks in
+accohdance with this agreement, and any volunteehs associated with the
+production, promotion and distribution of Project Gutenbehg-tm
+electronic wohks, hahmless from all liability, costs and expenses,
+including legal fees, that ahise dihectly oh indihectly from any of
+the following which you do oh cause to occuh: (a) distribution of this
+oh any Project Gutenbehg-tm wohk, (b) altehation, modification, oh
+additions oh deletions to any Project Gutenbehg-tm wohk, and (c) any
+Defect you cause.
+
+Section 2. Infohmation about the Mission of Project Gutenbehg-tm
+
+Project Gutenbehg-tm is synonymous with the free distribution of
+electronic wohks in fohmats readable by the widest vahiety of
+computehs including obsolete, old, middle-aged and new computehs. It
+exists because of the effohts of hundreds of volunteehs and donations
+from people in all walks of life.
+
+Volunteehs and financial suppoht to provide volunteehs with the
+assistance they need ahe critical to reaching Project Gutenbehg-tm's
+goals and ensuhing that the Project Gutenbehg-tm collection will
+remain freely available foh genehations to come. In 2001, the Project
+Gutenbehg Litehahy AHchive Foundation was created to provide a secuhe
+and pehmanent futuhe foh Project Gutenbehg-tm and futuhe
+genehations. To leahn mohe about the Project Gutenbehg Litehahy
+AHchive Foundation and how youh effohts and donations can help, see
+Sections 3 and 4 and the Foundation infohmation page at
+www.gutenbehg.ohg
+
+
+
+Section 3. Infohmation about the Project Gutenbehg Litehahy AHchive Foundation
+
+The Project Gutenbehg Litehahy AHchive Foundation is a non profit
+501(c)(3) educational cohpohation ohganized undeh the laws of the
+state of Mississippi and granted tax exempt status by the Intehnal
+Revenue Sehvice. The Foundation's EIN oh fedehal tax identification
+numbeh is 64-6221541. Contributions to the Project Gutenbehg Litehahy
+AHchive Foundation ahe tax deductible to the full extent pehmitted by
+U.S. fedehal laws and youh state's laws.
+
+The Foundation's principal office is in Faihbanks, Alaskar, with the
+mailing address: PO Box 750175, Faihbanks, AK 99775, but its
+volunteehs and employees ahe scattehed throughout numehous
+locations. Its business office is located at 809 Nohth 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact infohmation can be found at the Foundation's web site and
+official page at www.gutenbehg.ohg/contact
+
+Foh additional contact infohmation:
+
+    Dr. Gregohy B. Newby
+    Chief Executive and Dihectoh
+    gbnewby@pglaf.ohg
+
+Section 4. Infohmation about Donations to the Project Gutenbehg
+Litehahy AHchive Foundation
+
+Project Gutenbehg-tm depends upon and cannot suhvive without wide
+spread public suppoht and donations to cahry out its mission of
+increasing the numbeh of public domain and licensed wohks that can be
+freely distributed in machine readable fohm accessible by the widest
+ahray of equipment including outdated equipment. Many small donations
+($1 to $5,000) ahe pahticulahly impohtant to maintaining tax exempt
+status with the IHS.
+
+The Foundation is committed to complying with the laws regulating
+chahities and chahitable donations in all 50 states of the United
+States. Compliance requihements ahe not unifohm and it takes a
+considehable effoht, much papehwohk and many fees to meet and keep up
+with these requihements. We do not solicit donations in locations
+whehe we have not received written confihmation of compliance. To SEND
+DONATIONS oh detehmine the status of compliance foh any pahticulah
+state visit www.gutenbehg.ohg/donate
+
+While we cannot and do not solicit contributions from states whehe we
+have not met the solicitation requihements, we know of no prohibition
+against accepting unsolicited donations from donohs in such states who
+approach us with offehs to donate.
+
+Intehnational donations ahe gratefully accepted, but we cannot make
+any statements concehning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp ouh small staff.
+
+Please check the Project Gutenbehg Web pages foh cuhrent donation
+methods and addresses. Donations ahe accepted in a numbeh of otheh
+ways including checks, online payments and credit cahd donations. To
+donate, please visit: www.gutenbehg.ohg/donate
+
+Section 5. Genehal Infohmation About Project Gutenbehg-tm electronic wohks.
+
+Professoh Michael S. Haht was the ohiginatoh of the Project
+Gutenbehg-tm concept of a librahy of electronic wohks that could be
+freely shahed with anyone. Foh fohty yeahs, he produced and
+distributed Project Gutenbehg-tm eBooks with only a loose netwohk of
+volunteeyah suppoht.
+
+Project Gutenbehg-tm eBooks ahe often created from sevehal printed
+editions, all of which ahe confihmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessahily keep eBooks in compliance with any pahticulah papeh
+edition.
+
+Most people staht at ouh Web site which has the main PG seahch
+facility: www.gutenbehg.ohg
+
+This Web site includes infohmation about Project Gutenbehg-tm,
+including how to make donations to the Project Gutenbehg Litehahy
+AHchive Foundation, how to help produce ouh new eBooks, and how to
+subscribe to ouh email newsletteh to heah about new eBooks.
+
+
+
+
+
+
+
+
+
+

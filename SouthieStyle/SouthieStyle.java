@@ -14,7 +14,7 @@ import java.util.List;
 
 public class SouthieStyle {
 
-	static final String FILENAME = "jaws.txt";
+	static final String FILENAME = "1513-0.txt";
     
 	public static void main(String[] args) {
     	
