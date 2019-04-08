@@ -12,6 +12,5 @@ public class HoneyDoMain {
                 LocalDateTime.of(2019, 3, 21, 13, 0), 10);
         honeydo.addTask("post 1070 homework", 2,
                 LocalDateTime.of(2019, 3, 28, 13, 0), 30);
-        honeydo.completeTask(1);
     }
 }
