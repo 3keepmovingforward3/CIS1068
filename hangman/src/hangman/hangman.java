@@ -7,13 +7,14 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+import java.util.Scanner;
 import java.util.stream.Collectors;
 
 public class hangman {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>(Objects.requireNonNull(initWordList()));
-
-
+        userInput();
+        // TODO hangman rules
     }
 
 
@@ -28,9 +29,19 @@ public class hangman {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    return null;
+        return null;
 
     }
 
+    private static void userInput(){
+        try (Scanner sc = new Scanner(System.in)) {
+
+            if (sc.hasNext("[a-z]")) {
+                System.out.println("Valid form");
+            } else {
+                System.out.println("Invalid form");
+            }
+        }
+    }
 
 }
