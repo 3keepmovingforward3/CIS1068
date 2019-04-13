@@ -1,5 +1,7 @@
 package hangman;
 
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -10,7 +12,14 @@ import java.util.Objects;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
+/**
+ * @author bblouin
+ * @
+ */
 public class hangman {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         List<String> list = new ArrayList<>(Objects.requireNonNull(initWordList()));
         userInput();
