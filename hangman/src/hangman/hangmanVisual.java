@@ -1,9 +1,6 @@
 package hangman;
 
-public class hangmanVisual extends hangman {
-
-    public hangmanVisual() {
-    }
+class hangmanVisual {
 
     public void initGallows() {
         System.out.println("  _______   ");
