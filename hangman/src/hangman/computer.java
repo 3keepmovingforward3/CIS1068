@@ -8,18 +8,21 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.Random;
+import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
 public class computer extends hangman {
     private Random randLength = new Random();
     private int level;
-    private boolean cheat = true;
+    private boolean cheat;
     private ArrayList answerList;
     private ArrayList listWords;
+    private String currentAnswer;
     // test
 
     computer() {
+        this.cheat = true;
         this.listWords = initWordList();
         this.level = setRandLength();
         this.answerList = setAnswerList();
@@ -57,12 +60,30 @@ public class computer extends hangman {
 
     private ArrayList<String> setAnswerList() {
         listWords.sort(Comparator.comparingInt(String::length));
+        Predicate<String> lesserthan = i -> (i.length() < level);
+        Predicate<String> morethan = i -> (i.length() > level);
+        listWords.removeIf(lesserthan);
+        listWords.removeIf(morethan);
 
+        //listWords.forEach(System.out::println);
         // TODO make answer list
-        return null;
+        return listWords;
     }
 
-    public ArrayList getAnswerList() {
+    private ArrayList getAnswerList() {
         return answerList;
+    }
+
+    public int getLevel() {
+        return this.level;
+    }
+
+    private void setAnswerChoice() {
+        Random randLength = new Random();
+        this.currentAnswer = answerList.get(randLength.nextInt(this.answerList.size())).toString();
+    }
+
+    private void getAnswerChoice() {
+        System.out.println(this.currentAnswer);
     }
 }

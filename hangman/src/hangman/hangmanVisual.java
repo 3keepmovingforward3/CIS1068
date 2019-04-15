@@ -1,6 +1,9 @@
 package hangman;
 
-class hangmanVisual {
+class hangmanVisual extends computer {
+
+    hangmanVisual() {
+    }
 
     public void initGallows() {
         System.out.println("  _______   ");
@@ -69,5 +72,11 @@ class hangmanVisual {
         System.out.println("\nHangman is a guessing game for two or more players. \nOne player (computer) " +
                 "thinks of a word\nand the other(s) (users) try to guess it \nby suggesting letters " +
                 "within a certain number of guesses.");
+    }
+
+    void printSpaces(int a) {
+        for (int i = 0; i <= a; i++) {
+            System.out.print("_ ");
+        }
     }
 }
