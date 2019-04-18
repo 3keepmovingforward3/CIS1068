@@ -27,7 +27,7 @@ public class hangman {
         // print initial spaces
         t.printSpaces(t.getLevel());
 
-        while (i < c.getLevel()) {
+        while (i < 26) {
             // user prompt
             System.out.print("Enter guess: ");
             // user input char or string
@@ -37,6 +37,7 @@ public class hangman {
             // print hangman pieces by knowing what guess user's on
             t.hangmanVisualControl(c.getHangmanStatus());
             i++;
+            t.printSpaces(t.getLevel());
         }
         System.out.println("You lose");
         c.getAnswerChoice();

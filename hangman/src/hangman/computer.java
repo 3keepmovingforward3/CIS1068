@@ -94,7 +94,7 @@ public class computer extends hangman {
 
         // using to check if predicate makes empty
         ArrayList<String> temp = new ArrayList<>(answerList);
-        temp.removeIf(hasCharacter);
+        boolean t = temp.removeIf(hasCharacter);
         if (temp.isEmpty()) {
             Random random = new Random(); // to select random answer
             setCheat(false); // since we can't cheat anymore
@@ -104,15 +104,15 @@ public class computer extends hangman {
         }
 
         // if still cheating
-        if (getCheat()) {
+        if (getCheat() && t) {
             this.answerList.removeIf(hasCharacter);
             setHangmanStatus(getHangmanStatus() + 1);
-            this.userGuesses.add(userGuess);
         }
         // if not cheating
         else {
-            setHangmanStatus(getHangmanStatus() + 1);
+            if (t) { //TODO print out correct character answers
+                System.out.println(this.currentAnswer.indexOf(userGuess));
+            }
         }
     }
-
 }
