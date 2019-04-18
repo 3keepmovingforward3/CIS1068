@@ -30,13 +30,16 @@ public class hangman {
         while (i < c.getLevel()) {
             // user prompt
             System.out.print("Enter guess: ");
-            userGuesses = k.next("[a-z]");
+            // user input char or string
+            userGuesses = k.nextLine();
+            //remove matches method
             c.removeMatchCharacter(userGuesses);
-            System.out.println(c.getHangmanStatus());
+            // print hangman pieces by knowing what guess user's on
             t.hangmanVisualControl(c.getHangmanStatus());
             i++;
         }
         System.out.println("You lose");
+        c.getAnswerChoice();
     }
 
 }

@@ -9,7 +9,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Random;
 import java.util.function.Predicate;
-import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
 public class computer extends hangman {
@@ -17,7 +16,7 @@ public class computer extends hangman {
     private int level;
     private boolean cheat;
     private ArrayList<String> answerList;
-    private ArrayList listWords;
+    private ArrayList<String> listWords;
     private String currentAnswer;
     private int hangmanStatus;
     private ArrayList<String> userGuesses = new ArrayList<>();
@@ -43,20 +42,19 @@ public class computer extends hangman {
         this.cheat = cheat;
     }
 
-    private ArrayList initWordList() {
+    private ArrayList<String> initWordList() {
 
         String fileName = "word_list.txt";
         try (BufferedReader br = Files.newBufferedReader(Paths.get(fileName))) {
             //br returns as stream and convert it into a List
-            return br.lines().collect(Collectors.toCollection((Supplier<ArrayList>) ArrayList::new));
-
+            return br.lines().collect(Collectors.toCollection(ArrayList::new));
         } catch (IOException e) {
             e.printStackTrace();
         }
         return null;
     }
 
-    private ArrayList getListWords() {
+    private ArrayList<String> getListWords() {
         return listWords;
     }
 
@@ -70,16 +68,12 @@ public class computer extends hangman {
         return listWords;
     }
 
-    public int getHangmanStatus() {
+    int getHangmanStatus() {
         return hangmanStatus;
     }
 
-    public void setHangmanStatus(int hangmanStatus) {
+    private void setHangmanStatus(int hangmanStatus) {
         this.hangmanStatus = hangmanStatus;
-    }
-
-    private ArrayList<String> getAnswerList() {
-        return answerList;
     }
 
     int getLevel() {
@@ -87,19 +81,37 @@ public class computer extends hangman {
     }
 
     void getAnswerChoice() {
-        System.out.println(this.currentAnswer);
+        if (this.currentAnswer == null) {
+            this.currentAnswer = this.answerList.get(0);
+        }
+        System.out.println("Answer is: " + this.currentAnswer);
     }
 
+    //TODO check this logic
     void removeMatchCharacter(String userGuess) {
+
         Predicate<String> hasCharacter = i -> (i.contains(userGuess));
 
-        if (answerList.removeIf(hasCharacter) && getCheat() && this.answerList.size() > 1) {
+        // using to check if predicate makes empty
+        ArrayList<String> temp = new ArrayList<>(answerList);
+        temp.removeIf(hasCharacter);
+        if (temp.isEmpty()) {
+            Random random = new Random(); // to select random answer
+            setCheat(false); // since we can't cheat anymore
+            currentAnswer = answerList.get(random.nextInt(answerList.size())); //get string at index save to currentanswer
+            this.answerList.clear(); //clear answer list
+            this.answerList.add(currentAnswer); //only element in answer list is answer
+        }
+
+        // if still cheating
+        if (getCheat()) {
             this.answerList.removeIf(hasCharacter);
             setHangmanStatus(getHangmanStatus() + 1);
             this.userGuesses.add(userGuess);
-        } else if (this.answerList.size() == 1) {
-            this.currentAnswer = answerList.get(0);
-            setCheat(false);
+        }
+        // if not cheating
+        else {
+            setHangmanStatus(getHangmanStatus() + 1);
         }
     }
 
