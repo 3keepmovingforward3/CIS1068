@@ -16,16 +16,18 @@ public class computer extends hangman {
     private Random randLength = new Random();
     private int level;
     private boolean cheat;
-    private ArrayList answerList;
+    private ArrayList<String> answerList;
     private ArrayList listWords;
     private String currentAnswer;
-    // test
+    private int hangmanStatus;
+    private ArrayList<String> userGuesses = new ArrayList<>();
 
     computer() {
-        this.cheat = true;
+        setCheat(true);
         this.listWords = initWordList();
         this.level = setRandLength();
         this.answerList = setAnswerList();
+        this.hangmanStatus = 0;
     }
 
     private int setRandLength() {
@@ -59,31 +61,46 @@ public class computer extends hangman {
     }
 
     private ArrayList<String> setAnswerList() {
-        listWords.sort(Comparator.comparingInt(String::length));
-        Predicate<String> lesserthan = i -> (i.length() < level);
-        Predicate<String> morethan = i -> (i.length() > level);
-        listWords.removeIf(lesserthan);
-        listWords.removeIf(morethan);
-
-        //listWords.forEach(System.out::println);
-        // TODO make answer list
+        Comparator<String> f = Comparator.comparing(String::length);
+        Predicate<String> lesserThan = i -> (i.length() < level);
+        Predicate<String> moreThan = i -> (i.length() > level);
+        this.listWords.sort(f);
+        this.listWords.removeIf(lesserThan);
+        this.listWords.removeIf(moreThan);
         return listWords;
     }
 
-    private ArrayList getAnswerList() {
+    public int getHangmanStatus() {
+        return hangmanStatus;
+    }
+
+    public void setHangmanStatus(int hangmanStatus) {
+        this.hangmanStatus = hangmanStatus;
+    }
+
+    private ArrayList<String> getAnswerList() {
         return answerList;
     }
 
-    public int getLevel() {
+    int getLevel() {
         return this.level;
     }
 
-    private void setAnswerChoice() {
-        Random randLength = new Random();
-        this.currentAnswer = answerList.get(randLength.nextInt(this.answerList.size())).toString();
-    }
-
-    private void getAnswerChoice() {
+    void getAnswerChoice() {
         System.out.println(this.currentAnswer);
     }
+
+    void removeMatchCharacter(String userGuess) {
+        Predicate<String> hasCharacter = i -> (i.contains(userGuess));
+
+        if (answerList.removeIf(hasCharacter) && getCheat() && this.answerList.size() > 1) {
+            this.answerList.removeIf(hasCharacter);
+            setHangmanStatus(getHangmanStatus() + 1);
+            this.userGuesses.add(userGuess);
+        } else if (this.answerList.size() == 1) {
+            this.currentAnswer = answerList.get(0);
+            setCheat(false);
+        }
+    }
+
 }

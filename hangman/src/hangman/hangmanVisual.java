@@ -36,7 +36,7 @@ class hangmanVisual extends computer {
         System.out.println("  _______   ");
         System.out.println("  |     |");
         System.out.println("  |     O");
-        System.out.println("  |   \\|");
+        System.out.println("  |    \\|");
         System.out.println("  |      ");
         System.out.println(" _|__    ");
     }
@@ -75,8 +75,33 @@ class hangmanVisual extends computer {
     }
 
     void printSpaces(int a) {
-        for (int i = 0; i <= a; i++) {
+        for (int i = 0; i <= a - 1; i++) {
             System.out.print("_ ");
+        }
+    }
+
+    void hangmanVisualControl(int i) {
+        switch (i) {
+            case 1:
+                addHead();
+                break;
+            case 2:
+                addBody();
+                break;
+            case 3:
+                addArm1();
+                break;
+            case 4:
+                addArm2();
+                break;
+            case 5:
+                addLeg1();
+                break;
+            case 6:
+                addLeg2();
+                break;
+            default:
+                i = i;
         }
     }
 }
