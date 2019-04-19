@@ -75,4 +75,9 @@ public class tempFileMaker {
         this.maxLineNumber = lineNumber;
     }
 
+    private void workingTempFile(int tempFileNumber){
+        try{File temp = File.createTempFile("temp_"+tempFileNumber+"_name", ".txt");}
+        catch(IOException e){e.printStackTrace();}
+
+    }
 }
