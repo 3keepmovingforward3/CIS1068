@@ -1,28 +1,49 @@
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.Arrays;
 
 public class sorter {
     public static void main(String[] args){
-        String fileName = "Aesop_Shakespeare_Shelley_Twain.txt";
+        int totalLines = 149035;
+        int linesPerFile = totalLines/20;
+        String fileName = "/Users/bblouin/Documents/GitHub/CIS1068/Yates' Big File Sorter/src/Aesop_Shakespeare_Shelley_Twain.txt";
 
-        try{
-            File file = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' Big File Sorter/src/Aesop_Shakespeare_Shelley_Twain.txt");
-            FileReader fr = new FileReader(file);
-            LineNumberReader lnr = new LineNumberReader(fr);
-            tempFileMaker t = new tempFileMaker(file,fr,lnr);
+        try {
+            int i=0, j=0, k = 0;
 
-            if(file.exists()){
-                int tempFileNumber = 0;
-                BufferedWriter bw = new BufferedWriter(new FileWriter(temp));
+            FileReader fileReader = new FileReader(fileName);
+            String[] stringList = new String[linesPerFile];
+            BufferedReader br = new BufferedReader(fileReader);
 
+            while(i<=1) {
 
-                int linenumber = 0;
+                for (; j < linesPerFile; j++) {
+                    stringList[j] = (br.readLine());
+                }
 
+                Arrays.sort(stringList);
 
-            }else{
-                System.out.println("File does not exists!");
+                for (; k < linesPerFile; k++) {
+                    System.out.println(stringList[k]);
+                }
+
+                i++;
             }
 
-        }catch(IOException e){
+
+
+
+
+
+
+
+
+
+
+
+
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }
