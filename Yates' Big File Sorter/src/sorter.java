@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class sorter {
     public static void main(String[] args)throws IOException{
-        reading();
+        //reading();
         mergeSortController();
     }
 
@@ -35,39 +35,44 @@ public class sorter {
     }
 
     private static void mergeSortController()throws IOException{
-        int h, tempFileNumbering = 0;
+        
+        int h, tempFileNumberingOuter = 0, tempFileNumberingInner=1, tempFileNumberingRead = 0;
+        
+        File newTempFile = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
+                "Big File Sorter/src/temp_"+tempFileNumberingInner+"_" + tempFileNumberingOuter + ".txt");
+        
         File fileNameA = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
-                "Big File Sorter/src/temp_0_" + tempFileNumbering + ".txt");
+                "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt");
         String strFileNameA = "/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
-                "Big File Sorter/src/temp_0_" + tempFileNumbering + ".txt";
+                "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt";
         FileReader fileReaderA = new FileReader(fileNameA);
         reader rA = new reader(strFileNameA);
 
-        tempFileNumbering++;
+        tempFileNumberingRead++;
 
         File fileNameB = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
-                "Big File Sorter/src/temp_0_" + tempFileNumbering + ".txt");
+                "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt");
         FileReader fileReaderB = new FileReader(fileNameB);
         String strFileNameB = "/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
-                "Big File Sorter/src/temp_0_" + tempFileNumbering + ".txt";
+                "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt";
         reader rB = new reader(strFileNameA);
 
         BufferedReader brA = new BufferedReader(fileReaderA);
         BufferedReader brB = new BufferedReader(fileReaderB);
-        String[] stringList = new String[rA.getTotalLines()+rB.getTotalLines()];
+        String[] stringList = new String[2];
+
+        FileWriter fw = new FileWriter(newTempFile);
+        BufferedWriter bw = new BufferedWriter(fw);
 
         for(int i = 0;i<(rA.getTotalLines()+ rB.getTotalLines());i=i+2) {
-            stringList[i] = brA.readLine();
-            stringList[i + 1] = brB.readLine();
-            Arrays.sort(stringList,i,i+1);
+            stringList[0] = brA.readLine();
+            stringList[1] = brB.readLine();
+            Arrays.sort(stringList);
+            bw.write(stringList[0].trim());
+            bw.newLine();
+            bw.write(stringList[1].trim());
         }
-
-
-        File newTemp = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
-                "Big File Sorter/src/temp_1_0.txt");
-        FileWriter fw = new FileWriter(newTemp);
-        BufferedWriter bw = new BufferedWriter(fw);
-        rA.makeTempFiles(bw,stringList);
+        //rA.makeTempFiles(bw,stringList);
 
     }
 }
