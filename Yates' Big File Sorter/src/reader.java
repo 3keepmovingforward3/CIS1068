@@ -5,10 +5,10 @@ import java.io.IOException;
 import java.util.Arrays;
 
 class reader {
-    int j, k, l = 0, h=0;
     private String fileName;
     private int totalLines;
     private int linesPerFile;// = totalLines/20;
+    int j, k, l = 0, h=0;
 
     reader(String fileName) {
         this.fileName = fileName;
@@ -26,7 +26,7 @@ class reader {
         }catch(IOException e){e.printStackTrace();}
     }
 
-    private int getTotalLines() {
+    int getTotalLines() {
         return totalLines;
     }
 
@@ -34,7 +34,7 @@ class reader {
         this.linesPerFile=getTotalLines()/20;
     }
 
-    int getLinesPerFile() {
+    private int getLinesPerFile() {
         return linesPerFile;
     }
 
@@ -43,7 +43,6 @@ class reader {
         try {
             for (j = 0; j < this.linesPerFile; j++) {
                 stringList[j] = br.readLine();
-                stringList[j].trim();
             }
            //return stringList;
         }catch (IOException e){e.printStackTrace();}
@@ -54,7 +53,7 @@ class reader {
     void makeTempFiles(BufferedWriter bw, String[] stringList){
         Arrays.sort(stringList);
         try{
-            for (k=0; k < this.linesPerFile; k++) {
+            for (k=0; k < stringList.length; k++) {
                 if (!stringList[k].equals("")) {
                     bw.write(stringList[k].trim());
                     bw.newLine();
@@ -63,4 +62,6 @@ class reader {
             bw.close();
         }catch (IOException e){e.printStackTrace();}
     }
+
+
 }
