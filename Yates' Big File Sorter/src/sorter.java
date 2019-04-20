@@ -1,6 +1,4 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.Arrays;
 
 public class sorter {
@@ -8,43 +6,36 @@ public class sorter {
         int totalLines = 149035;
         int linesPerFile = totalLines/20;
         String fileName = "/Users/bblouin/Documents/GitHub/CIS1068/Yates' Big File Sorter/src/Aesop_Shakespeare_Shelley_Twain.txt";
+        int j = 0, k = 0, l = 0;
 
         try {
-            int i=0, j=0, k = 0;
+            int h = 0;
 
-            FileReader fileReader = new FileReader(fileName);
-            String[] stringList = new String[linesPerFile];
-            BufferedReader br = new BufferedReader(fileReader);
+            while(h<2) {
 
-            while(i<=1) {
+               File file = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' Big File Sorter/src/temp-" + l + "file.txt");
+               FileWriter fw = new FileWriter(file);
+               BufferedWriter bw = new BufferedWriter(fw);
 
-                for (; j < linesPerFile; j++) {
-                    stringList[j] = (br.readLine());
-                }
+               FileReader fileReader = new FileReader(fileName);
+               String[] stringList = new String[linesPerFile];
+               BufferedReader br = new BufferedReader(fileReader);
 
-                Arrays.sort(stringList);
+               for (; j < linesPerFile; j++) {
+                       stringList[j] = br.readLine();
+                   }
+                   Arrays.sort(stringList);
 
-                for (; k < linesPerFile; k++) {
-                    System.out.println(stringList[k]);
-                }
-
-                i++;
-            }
-
-
-
-
-
-
-
-
-
-
-
-
-
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+                   for (; k < linesPerFile; k++) {
+                       if (!stringList[k].equals("")) {
+                           bw.write(stringList[k].trim());
+                           bw.newLine();
+                       }
+                   }
+                   k=0;
+                   l++;
+                   h++;
+           }
+        } catch (IOException e) { e.printStackTrace(); }
     }
 }
