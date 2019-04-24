@@ -3,11 +3,11 @@ import java.util.Arrays;
 
 public class sorter {
     public static void main(String[] args)throws IOException{
-        //reading();
+        reading();
         mergeSortController();
     }
 
-    private static void reading()throws IOException{
+    private static void reading() throws IOException{
         String fileName = "/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
                 "Big File Sorter/src/Aesop_Shakespeare_Shelley_Twain.txt";
         int h, tempFileNumbering = 0;
@@ -36,11 +36,13 @@ public class sorter {
 
     private static void mergeSortController()throws IOException{
         
-        int h, tempFileNumberingOuter = 0, tempFileNumberingInner=1, tempFileNumberingRead = 0;
+        int tempFileNumberingOuter = 0, tempFileNumberingInner=1, tempFileNumberingRead = 0;
         
+        do{
         File newTempFile = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
                 "Big File Sorter/src/temp_"+tempFileNumberingInner+"_" + tempFileNumberingOuter + ".txt");
         
+
         File fileNameA = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
                 "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt");
         String strFileNameA = "/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
@@ -55,7 +57,10 @@ public class sorter {
         FileReader fileReaderB = new FileReader(fileNameB);
         String strFileNameB = "/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
                 "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt";
-        reader rB = new reader(strFileNameA);
+        reader rB = new reader(strFileNameB);
+
+
+
 
         BufferedReader brA = new BufferedReader(fileReaderA);
         BufferedReader brB = new BufferedReader(fileReaderB);
@@ -64,15 +69,24 @@ public class sorter {
         FileWriter fw = new FileWriter(newTempFile);
         BufferedWriter bw = new BufferedWriter(fw);
 
+        int t = rA.getTotalLines()+ rB.getTotalLines();
+
         for(int i = 0;i<(rA.getTotalLines()+ rB.getTotalLines());i=i+2) {
             stringList[0] = brA.readLine();
             stringList[1] = brB.readLine();
-            Arrays.sort(stringList);
+            if(stringList[0]!=-1 || stringList[1]!=-1){
+                Arrays.sort(stringList);
+            }
             bw.write(stringList[0].trim());
             bw.newLine();
             bw.write(stringList[1].trim());
         }
         //rA.makeTempFiles(bw,stringList);
-
+        brA.close();
+        brB.close();
+        bw.close();
+        tempFileNumberingOuter++;
+        tempFileNumberingRead++;
+        }while(tempFileNumberingRead<=19);
     }
 }
