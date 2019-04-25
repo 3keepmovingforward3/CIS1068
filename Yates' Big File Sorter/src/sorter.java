@@ -74,12 +74,10 @@ public class sorter {
         for(int i = 0;i<(rA.getTotalLines()+ rB.getTotalLines());i=i+2) {
             stringList[0] = brA.readLine();
             stringList[1] = brB.readLine();
-            if(stringList[0]!=-1 || stringList[1]!=-1){
-                Arrays.sort(stringList);
-            }
-            bw.write(stringList[0].trim());
+            Arrays.sort(stringList,0,1);
+            bw.write(stringList[0]);
             bw.newLine();
-            bw.write(stringList[1].trim());
+            bw.write(stringList[1]);
         }
         //rA.makeTempFiles(bw,stringList);
         brA.close();
@@ -88,5 +86,6 @@ public class sorter {
         tempFileNumberingOuter++;
         tempFileNumberingRead++;
         }while(tempFileNumberingRead<=19);
-    }
+    
+}
 }

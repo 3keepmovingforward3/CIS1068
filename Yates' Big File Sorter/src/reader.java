@@ -23,7 +23,10 @@ class reader {
 
             while (br.readLine() != null) this.totalLines++;
 
-        }catch(IOException e){e.printStackTrace();}
+        }catch(IOException e){
+            e.printStackTrace();
+        }
+        
     }
 
     int getTotalLines() {
@@ -32,10 +35,6 @@ class reader {
 
     private void setLinesPerFile(){
         this.linesPerFile=getTotalLines()/20;
-    }
-
-    private int getLinesPerFile() {
-        return linesPerFile;
     }
 
     String[] makeStringArray(BufferedReader br) {
@@ -55,7 +54,7 @@ class reader {
         try{
             for (k=0; k < stringList.length; k++) {
                 if (!stringList[k].equals("")) {
-                    bw.write(stringList[k].trim());
+                    bw.write(stringList[k]);
                     bw.newLine();
                 }
             }
