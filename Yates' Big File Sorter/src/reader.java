@@ -61,6 +61,4 @@ class reader {
             bw.close();
         }catch (IOException e){e.printStackTrace();}
     }
-
-
 }

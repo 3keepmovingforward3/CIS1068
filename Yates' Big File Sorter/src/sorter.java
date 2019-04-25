@@ -39,27 +39,35 @@ public class sorter {
         int tempFileNumberingOuter = 0, tempFileNumberingInner=1, tempFileNumberingRead = 0;
         
         do{
+
+                //next level of temp file
         File newTempFile = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
                 "Big File Sorter/src/temp_"+tempFileNumberingInner+"_" + tempFileNumberingOuter + ".txt");
         
-
+                //previous level of text file
         File fileNameA = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
                 "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt");
+                //filename as a string
         String strFileNameA = "/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
                 "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt";
+                //FileReader object
         FileReader fileReaderA = new FileReader(fileNameA);
+        //reader class object
         reader rA = new reader(strFileNameA);
 
+        //now do the next file
         tempFileNumberingRead++;
 
+                //previous level of text file
         File fileNameB = new File("/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
                 "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt");
-        FileReader fileReaderB = new FileReader(fileNameB);
+                //filename as a string
         String strFileNameB = "/Users/bblouin/Documents/GitHub/CIS1068/Yates' " +
                 "Big File Sorter/src/temp_0_" + tempFileNumberingRead + ".txt";
+                //FileReader object
+        FileReader fileReaderB = new FileReader(fileNameB);
+        // reader class object
         reader rB = new reader(strFileNameB);
-
-
 
 
         BufferedReader brA = new BufferedReader(fileReaderA);
@@ -75,6 +83,7 @@ public class sorter {
             stringList[0] = brA.readLine();
             stringList[1] = brB.readLine();
             Arrays.sort(stringList,0,1);
+            
             bw.write(stringList[0]);
             bw.newLine();
             bw.write(stringList[1]);
